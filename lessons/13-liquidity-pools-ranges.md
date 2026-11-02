@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Pools, voids and premium/discount: organize the range before the zones](../blog/13-liquidity-pools-ranges.md)
+
 ## Outcome
 
 Combine clusters of reference levels, low-activity zones and position within a dealing range.

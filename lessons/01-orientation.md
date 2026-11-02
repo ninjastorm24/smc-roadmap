@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Before the patterns: build a workspace you can learn from](../blog/01-orientation.md)
+
 ## Outcome
 
 Set up a trading-learning environment and decide exactly what will be measured before studying patterns.

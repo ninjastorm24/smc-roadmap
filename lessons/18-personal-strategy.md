@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Build one trading playbook you can actually test](../blog/18-personal-strategy.md)
+
 ## Outcome
 
 Write one complete, falsifiable setup with risk and performance metrics.

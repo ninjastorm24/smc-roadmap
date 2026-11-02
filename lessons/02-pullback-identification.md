@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Reading pullbacks without predicting every reversal](../blog/02-pullback-identification.md)
+
 ## Outcome
 
 Distinguish an ordinary retracement from a deeper structural reversal.

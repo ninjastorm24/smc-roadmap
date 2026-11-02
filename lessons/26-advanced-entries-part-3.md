@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Advanced entries, part 3: finish the catalog and test one frozen playbook](../blog/26-advanced-entries-part-3.md)
+
 ## Outcome
 
 Finalize one testable playbook and begin a structured simulated performance sample.

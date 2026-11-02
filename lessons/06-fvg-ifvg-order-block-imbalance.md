@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [FVG, inverse FVG and order blocks: three ideas, three rule sets](../blog/06-fvg-ifvg-order-block-imbalance.md)
+
 ## Outcome
 
 Identify three-candle imbalances and compare them with order blocks and inverse FVGs.

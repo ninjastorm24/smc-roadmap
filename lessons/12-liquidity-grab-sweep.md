@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Liquidity maps: distinguish a reference level, a sweep and a breakout](../blog/12-liquidity-grab-sweep.md)
+
 ## Outcome
 
 Map visible liquidity references and distinguish sweep, breakout and larger external liquidity events.

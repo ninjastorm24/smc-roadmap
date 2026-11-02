@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Candle Range Theory: separate the anchor, sweep and confirmation](../blog/21-crt-tbs.md)
+
 ## Outcome
 
 Test a Candle Range Theory sequence while leaving TBS rules explicitly provisional.

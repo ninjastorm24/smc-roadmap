@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [From daily bias to a session plan someone else can follow](../blog/17-applying-bias.md)
+
 ## Outcome
 
 Perform a reproducible daily-to-intraday analysis before a simulated session.

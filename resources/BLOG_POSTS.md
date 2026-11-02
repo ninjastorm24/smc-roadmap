@@ -1,6 +1,6 @@
 # Blog posts worth studying
 
-[Roadmap](../SOLO_LEARNING_ROADMAP.md) · [All resources](README.md)
+[Roadmap](../SOLO_LEARNING_ROADMAP.md) · [All resources](README.md) · [Our 26 original articles](../blog/README.md)
 
 A small reading list to use alongside your lessons. Read one post, write a rule in your own words, then test your understanding on a chart. These are learning resources, not endorsements of the authors’ performance claims.
 

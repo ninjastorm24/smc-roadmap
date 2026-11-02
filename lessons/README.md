@@ -1,6 +1,6 @@
 # Lesson library
 
-[Start here](../README.md) · [Eight-week roadmap](../SOLO_LEARNING_ROADMAP.md)
+[Start here](../README.md) · [Eight-week roadmap](../SOLO_LEARNING_ROADMAP.md) · [Original blog series](../blog/README.md)
 
 All 26 DOCX classes are preserved. Follow the **study order**, which deliberately differs from class number. Original runtimes describe locked course videos, not the lengths of the linked public resources.
 

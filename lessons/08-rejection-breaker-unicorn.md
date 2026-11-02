@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Rejection blocks, breakers and Unicorns: follow the formation sequence](../blog/08-rejection-breaker-unicorn.md)
+
 ## Outcome
 
 Differentiate a wick-based rejection area, a failed OB acting as breaker, and a breaker-FVG overlap.

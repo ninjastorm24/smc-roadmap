@@ -20,7 +20,8 @@ Your [DOCX workbook](SMC_Learning_Workbook.docx) is the source of truth. This Ma
 | Know what to study this week | [Learning roadmap](SOLO_LEARNING_ROADMAP.md) |
 | Find a specific class | [All 26 lessons](lessons/README.md) |
 | Find a learning source | [Resource library](resources/README.md) |
-| Read a useful blog post | [Curated blog reading list](resources/BLOG_POSTS.md) |
+| Read an explanation of any lesson | [26 original blog posts](blog/README.md) |
+| Read posts by other educators | [Curated external reading list](resources/BLOG_POSTS.md) |
 | Look up a term or entry family | [Glossary](reference/GLOSSARY.md) · [Model catalog](reference/ENTRY_MODELS.md) |
 | Write notes, a session plan or a playbook | [Copyable Markdown templates](templates/README.md) |
 | Backtest and forward-simulate | [Testing and review](practice/TESTING.md) |

@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Choosing a point of interest: make the rejection decision explicit](../blog/11-structure-based-poi.md)
+
 ## Outcome
 
 Select candidate reaction zones using the structural story rather than arbitrary rectangles.

@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Market structure across two scales: BOS, CHoCH and protected levels](../blog/05-advanced-market-structure.md)
+
 ## Outcome
 
 Integrate internal/external swings, BOS, CHoCH, protected highs/lows and displacement.

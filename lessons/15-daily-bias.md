@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Daily bias: write a hypothesis that can change your mind](../blog/15-daily-bias.md)
+
 ## Outcome
 
 Write a directional scenario before a session and record when it becomes invalid.

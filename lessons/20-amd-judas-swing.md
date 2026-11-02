@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [AMD and the Judas Swing: keep the unfinished day unfinished](../blog/20-amd-judas-swing.md)
+
 ## Outcome
 
 Study accumulation/manipulation/distribution as a scenario and a timed false-open reversal hypothesis.

@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Advanced entries, part 2: audit the trigger instead of stacking labels](../blog/25-advanced-entries-part-2.md)
+
 ## Outcome
 
 Compare confirmation and timing-oriented entry families while controlling rule complexity.

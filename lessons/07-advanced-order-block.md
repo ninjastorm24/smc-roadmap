@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Advanced order blocks: improve the definition before adding filters](../blog/07-advanced-order-block.md)
+
 ## Outcome
 
 Build reproducible OB selection and grading rules, including failed candidates.

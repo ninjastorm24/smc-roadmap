@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [MSS and CISD: compare the reference price and confirmation time](../blog/19-mss-cisd-tbs-tws.md)
+
 ## Outcome
 
 Distinguish two documented confirmation ideas and formally define the course-specific labels.

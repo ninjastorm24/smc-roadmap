@@ -1,13 +1,13 @@
 # Learning resources
 
-[Start here](../README.md) · [Blog reading list](BLOG_POSTS.md) · [Workbook link inventory](WORKBOOK_SOURCES.md)
+[Start here](../README.md) · [Original blog series](../blog/README.md) · [External blog reading list](BLOG_POSTS.md) · [Workbook link inventory](WORKBOOK_SOURCES.md)
 
 Use the resource links on your current lesson first. Pick **one primary explanation**, complete its chart exercise, and use one additional article only when it answers a specific question.
 
 ## How sources are separated
 
 - **Workbook:** all 50 unique URLs extracted from the DOCX are retained in lesson sheets and the source inventory.
-- **Added:** 12 new URLs researched for this edition, plus the existing Paper Trading guide revisited for setup clarity.
+- **Initial roadmap additions:** 12 new URLs, plus the existing Paper Trading guide revisited for setup clarity. Companion articles also cite further topic-specific sources inline.
 - **Official documentation:** preferred for tool behavior, contract mechanics and release calendars.
 - **Educator articles:** useful for learning that author’s definitions; not independent validation of strategy profitability.
 

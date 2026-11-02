@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [STH, STL, ITH and ITL: a hierarchy of confirmed pivots](../blog/10-swing-hierarchy.md)
+
 ## Outcome
 
 Rank short-term and intermediate-term pivots and understand their nesting.

@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Mitigation, reclaimed levels and QML: describe the events before the label](../blog/09-mitigation-reclaimed-qml.md)
+
 ## Outcome
 
 Compare block re-use/reaction concepts with the Quasimodo reversal pattern.

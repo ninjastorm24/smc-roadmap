@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Time and price: define the range, then define the clock](../blog/16-time-price-dealing-range.md)
+
 ## Outcome
 
 Add time-of-day and range context without confusing timing windows with trade signals.

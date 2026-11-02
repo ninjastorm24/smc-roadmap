@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Inducement: turn a persuasive story into a rule you can inspect](../blog/04-inducement.md)
+
 ## Outcome
 
 Differentiate a proposed inducement swing from a normal HL/LH using explicit criteria.

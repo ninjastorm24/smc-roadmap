@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Advanced entries, part 1: sort the families before choosing a model](../blog/24-advanced-entries-part-1.md)
+
 ## Outcome
 
 Catalog straightforward structure, POI and liquidity entries before exploring variants.

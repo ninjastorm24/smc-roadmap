@@ -8,6 +8,8 @@
 
 **Study budget:** 45–75 minutes learning + 45–60 minutes chart lab, plus review. Extend the week when the evidence takes longer.
 
+**Companion article:** [Price across timeframes: keep the information clock aligned](../blog/14-fractal-price.md)
+
 ## Outcome
 
 Understand how swings, ranges and structural shifts nest across timeframes.

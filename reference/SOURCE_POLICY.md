@@ -43,3 +43,7 @@ The DOCX is unchanged. Its SHA-256 at reorganization is:
 ```
 
 The original Markdown is preserved byte for byte in the archive. Future curriculum edits should cite the workbook lesson or explicitly label themselves as additions. Link accessibility checks do not validate trading claims.
+
+## Original blog series
+
+The [26 companion articles](../blog/README.md) expand every class with original explanations, hypothetical examples and research exercises. They keep the workbook’s topics and study order. Article navigation is added to each lesson; its preserved study steps and chart labs are unchanged. The articles do not reconstruct private instructor definitions or replace the workbook assignments. Public source conventions are attributed with links. The PDF remains the DOCX edition; the companion series lives in Markdown.
