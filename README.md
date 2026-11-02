@@ -26,6 +26,7 @@ Your [DOCX workbook](SMC_Learning_Workbook.docx) is the source of truth. This Ma
 | Write notes, a session plan or a playbook | [Copyable Markdown templates](templates/README.md) |
 | Backtest and forward-simulate | [Testing and review](practice/TESTING.md) |
 | Check what changed from the originals | [Source policy and coverage](reference/SOURCE_POLICY.md) |
+| Build the blog website with Gemini | [Web design and implementation plan](web/plan/README.md) |
 
 ## The learning path
 

@@ -1,0 +1,22 @@
+{
+  "name": "smc-roadmap-web",
+  "version": "1.0.0",
+  "description": "Static reading website for the SMC Roadmap study series",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "node scripts/serve.js",
+    "check": "node scripts/check.js && node tests/browser.test.js",
+    "check:static": "node scripts/check.js",
+    "check:browser": "node tests/browser.test.js",
+    "test": "npm run check"
+  },
+  "dependencies": {
+    "marked": "^15.0.7",
+    "sanitize-html": "^2.14.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.4.0"
+  }
+}
