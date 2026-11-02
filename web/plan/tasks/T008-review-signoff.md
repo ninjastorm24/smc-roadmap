@@ -7,7 +7,7 @@
 | Depends on | T007 |
 | Assigned to | Codex |
 | Review source | Approval gate — [initial audit](../audit/initial/REVIEW.md) |
-| Commit | — |
+| Commit | f2ae522 |
 
 ## Goal
 
@@ -117,3 +117,5 @@ audit has not been performed. Individual task reports remain IN REVIEW pending
 their detailed sign-offs; this publication does not mark those tasks DONE.
 
 Deployment result and baseline commit are recorded on BOARD.md after creation.
+
+**Publication commit:** `f2ae522` — pushed to main on 2026-11-03.

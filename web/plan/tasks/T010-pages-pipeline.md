@@ -6,7 +6,7 @@
 | Plan | [Deployment instructions](../../README.md#github-pages-deployment) |
 | Depends on | T008 before first publication |
 | Assigned to | Codex — direct user request |
-| Commit | — |
+| Commit | f2ae522 |
 
 ## Goal
 
@@ -61,3 +61,5 @@ reviewed website baseline; a workflow-only push would lack its build inputs.
 **Decision:** APPROVED — pipeline configuration; first hosted run pending.  
 **Reviewer:** Codex  
 **Commit:** —
+
+**Publication commit:** `f2ae522` — pushed to main on 2026-11-03.

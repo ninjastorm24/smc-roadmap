@@ -14,8 +14,8 @@ Current queue for the web project. Detailed scope, reports, review rounds and si
 | T006 | [Make the no-JavaScript baseline honest](tasks/T006-progressive-enhancement.md) | [website](PLAN-website.md) | — | Gemini | IN REVIEW | — |
 | T007 | [Run the complete acceptance checks and report evidence](tasks/T007-verification.md) | [review-fixes](PLAN-review-fixes.md) | T001, T002, T003, T004, T005, T006, T009 | Gemini | IN REVIEW | — |
 | T009 | [Center homepage and roadmap content](tasks/T009-page-side-margins.md) | [reader](PLAN-reader.md) | — | Gemini | IN REVIEW | — |
-| T008 | [Review and commit the approved web implementation](tasks/T008-review-signoff.md) | [review-fixes](PLAN-review-fixes.md) | T007 | Codex | APPROVED | — |
-| T010 | [GitHub Pages deployment pipeline](tasks/T010-pages-pipeline.md) | [deployment](../README.md#github-pages-deployment) | T008 before publication | Codex (user request) | APPROVED | — |
+| T008 | [Review and commit the approved web implementation](tasks/T008-review-signoff.md) | [review-fixes](PLAN-review-fixes.md) | T007 | Codex | APPROVED | f2ae522 |
+| T010 | [GitHub Pages deployment pipeline](tasks/T010-pages-pipeline.md) | [deployment](../README.md#github-pages-deployment) | T008 before publication | Codex (user request) | APPROVED | f2ae522 |
 
 ## Board rules
 
@@ -42,3 +42,6 @@ Codex checked the user's new review request: all 12 implementation files under `
 2026-11-03: User requested push. T008 records independent release checks and
 explicit remaining verification limits. Individual fix-task statuses are preserved;
 publication approval does not assert completion of their entire acceptance lists.
+
+Website and pipeline committed and pushed as `f2ae522`. First deployment run:
+https://github.com/ninjastorm24/smc-roadmap/actions/runs/41499863313
