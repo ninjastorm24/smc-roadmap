@@ -1,0 +1,10 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+
+# Temporary and office lock files
+~$*
+.~lock.*#
+*.tmp
+*.swp
+*.swo
