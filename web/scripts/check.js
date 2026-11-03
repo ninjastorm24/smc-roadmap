@@ -186,8 +186,18 @@ export function runChecks() {
       emptyArticles++;
       assert(false, `Article ${art.slug} missing Bangla toggle button or Bangla prose content`);
     }
+    if (!artHtml.includes('id="knowledge-check"') || !artHtml.includes('id="lesson-completion"')) {
+      emptyArticles++;
+      assert(false, `Article ${art.slug} missing Knowledge Check or Lesson Completion section`);
+    }
+    const qMatches = artHtml.match(/class="kc-question-card"/g) || [];
+    const cMatches = artHtml.match(/class="lc-checkbox"/g) || [];
+    if (qMatches.length < 15 || cMatches.length < 4) {
+      emptyArticles++;
+      assert(false, `Article ${art.slug} has insufficient questions (${qMatches.length}) or completion checkboxes (${cMatches.length})`);
+    }
   }
-  assert(emptyArticles === 0, 'All 26 articles contain their full titles, descriptions, worksheet buttons, and Bangla translations');
+  assert(emptyArticles === 0, 'All 26 articles contain their full titles, descriptions, worksheet buttons, Bangla translations, Knowledge Checks (15+ Qs), and Completion Checklists');
 
   console.log('\n----------------------------------------');
   if (failures.length > 0) {

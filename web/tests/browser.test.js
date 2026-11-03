@@ -539,6 +539,87 @@ async function runBrowserTests() {
     });
     assert(restoredEnglishState.ariaPressed === 'false' && !restoredEnglishState.enHidden && restoredEnglishState.bnHidden && restoredEnglishState.titleText === initialLangState.titleText, 'Clicking toggle button a second time restores original English title and prose', failures);
 
+    // --- TEST SUITE 13: Knowledge Check & Lesson Completion Checklist ---
+    console.log('\n--- Test Suite 13: Knowledge Check & Lesson Completion ---');
+    await page.setViewport({ width: 1440, height: 900 });
+    await page.goto(`${BASE_URL}/articles/01-orientation/`, { waitUntil: 'networkidle0' });
+
+    const kcOverview = await page.evaluate(() => {
+      const qCards = document.querySelectorAll('.kc-question-card');
+      const checkboxes = document.querySelectorAll('.lc-checkbox');
+      const scoreText = document.getElementById('kc-score-text-en')?.textContent.trim();
+      return {
+        qCount: qCards.length,
+        checkCount: checkboxes.length,
+        scoreText
+      };
+    });
+    assert(kcOverview.qCount >= 15 && kcOverview.qCount <= 20, `Article 01 renders ${kcOverview.qCount} Knowledge Check questions (15-20 range)`, failures);
+    assert(kcOverview.checkCount === 5, `Article 01 renders ${kcOverview.checkCount} Lesson Completion checkboxes`, failures);
+    assert(kcOverview.scoreText && kcOverview.scoreText.includes('Score: 0 /'), `Initial Knowledge Check score is 0 ("${kcOverview.scoreText}")`, failures);
+
+    // Answer Question 1 with its correct option
+    const q1CorrectResult = await page.evaluate(() => {
+      const firstCard = document.querySelector('.kc-question-card[data-q-index="0"]');
+      const correctIdx = firstCard.getAttribute('data-correct-index');
+      const btn = firstCard.querySelector(`.kc-option-btn[data-opt-index="${correctIdx}"]`);
+      btn.click();
+      const explanation = firstCard.querySelector('.kc-explanation');
+      const scoreText = document.getElementById('kc-score-text-en')?.textContent.trim();
+      return {
+        state: firstCard.getAttribute('data-state'),
+        explanationVisible: explanation && !explanation.classList.contains('hidden'),
+        scoreText
+      };
+    });
+    assert(q1CorrectResult.state === 'correct' && q1CorrectResult.explanationVisible, 'Selecting correct option marks question card as correct and reveals explanation', failures);
+    assert(q1CorrectResult.scoreText && q1CorrectResult.scoreText.includes('Score: 1 /') && q1CorrectResult.scoreText.includes('(1 answered)'), `Score updates after answering Q1 ("${q1CorrectResult.scoreText}")`, failures);
+
+    // Toggle to Bangla and verify Knowledge Check & Checklist switch to Bengali script
+    await page.click('#lang-toggle-btn');
+    const kcBanglaCheck = await page.evaluate(() => {
+      const titleBn = document.querySelector('#knowledge-check .kc-lang-bn');
+      const scoreBn = document.getElementById('kc-score-text-bn');
+      return {
+        titleVisible: titleBn && !titleBn.classList.contains('hidden'),
+        scoreTextBn: scoreBn ? scoreBn.textContent.trim() : ''
+      };
+    });
+    assert(kcBanglaCheck.titleVisible && /[\u0980-\u09FF]/.test(kcBanglaCheck.scoreTextBn), `Knowledge Check switches to Bangla seamlessly ("${kcBanglaCheck.scoreTextBn}")`, failures);
+    await page.click('#lang-toggle-btn');
+
+    // Click "Mark lesson nicely completed" button and verify checklist + localStorage persistence
+    await page.click('#lc-complete-toggle-btn');
+    const completionState = await page.evaluate(() => {
+      const lcCard = document.getElementById('lc-card');
+      const allChecked = Array.from(document.querySelectorAll('.lc-checkbox')).every(cb => cb.checked);
+      const headerBadge = document.getElementById('header-completed-badge');
+      const savedRaw = window.localStorage.getItem('smc_roadmap_progress_v1');
+      const saved = savedRaw ? JSON.parse(savedRaw) : {};
+      return {
+        cardCompleted: lcCard?.getAttribute('data-completed') === 'true',
+        allChecked,
+        headerBadgeVisible: headerBadge && !headerBadge.classList.contains('hidden'),
+        savedCompleted: Boolean(saved['01-orientation']?.completed)
+      };
+    });
+    assert(completionState.cardCompleted && completionState.allChecked && completionState.headerBadgeVisible && completionState.savedCompleted, 'Marking lesson nicely completed checks all milestones, shows header badge, and persists to localStorage', failures);
+
+    // Reload page and verify state persists from localStorage
+    await page.reload({ waitUntil: 'networkidle0' });
+    const persistedAfterReload = await page.evaluate(() => {
+      const lcCard = document.getElementById('lc-card');
+      const firstCard = document.querySelector('.kc-question-card[data-q-index="0"]');
+      return {
+        cardCompleted: lcCard?.getAttribute('data-completed') === 'true',
+        q1State: firstCard?.getAttribute('data-state')
+      };
+    });
+    assert(persistedAfterReload.cardCompleted && persistedAfterReload.q1State === 'correct', 'Quiz answer and lesson completion state persist across page reload', failures);
+
+    // Clean up localStorage after test
+    await page.evaluate(() => window.localStorage.removeItem('smc_roadmap_progress_v1'));
+
   } finally {
     if (browser) await browser.close();
     server.close();

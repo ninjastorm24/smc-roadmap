@@ -189,7 +189,7 @@
 
   // --- Article Table of Contents Scrollspy ---
   const tocLinks = Array.from(document.querySelectorAll('.toc-link'));
-  const articleHeadings = Array.from(document.querySelectorAll('.article-prose h2, .article-prose h3'));
+  const articleHeadings = Array.from(document.querySelectorAll('.article-prose h2, .article-prose h3, .knowledge-check-section h2, .lesson-completion-section h2'));
 
   if (tocLinks.length > 0 && articleHeadings.length > 0 && 'IntersectionObserver' in window) {
     let activeId = null;
@@ -227,6 +227,8 @@
     const studyOrderEl = document.getElementById('article-study-order');
     const tocListsEn = Array.from(document.querySelectorAll('.toc-list-en'));
     const tocListsBn = Array.from(document.querySelectorAll('.toc-list-bn'));
+    const kcLangEn = Array.from(document.querySelectorAll('.kc-lang-en'));
+    const kcLangBn = Array.from(document.querySelectorAll('.kc-lang-bn'));
     const tocNavTitle = document.querySelector('.toc-nav-title');
     const tocDisclosureSummary = document.querySelector('.toc-disclosure summary');
     const badgeEl = langToggleBtn.querySelector('.lang-toggle-badge');
@@ -249,11 +251,15 @@
         proseBn.classList.remove('hidden');
         tocListsEn.forEach((el) => el.classList.add('hidden'));
         tocListsBn.forEach((el) => el.classList.remove('hidden'));
+        kcLangEn.forEach((el) => el.classList.add('hidden'));
+        kcLangBn.forEach((el) => el.classList.remove('hidden'));
       } else {
         proseBn.classList.add('hidden');
         proseEn.classList.remove('hidden');
         tocListsBn.forEach((el) => el.classList.add('hidden'));
         tocListsEn.forEach((el) => el.classList.remove('hidden'));
+        kcLangBn.forEach((el) => el.classList.add('hidden'));
+        kcLangEn.forEach((el) => el.classList.remove('hidden'));
       }
 
       if (titleEl) {
@@ -308,5 +314,294 @@
     if (params.get('lang') === 'bn') {
       setArticleLanguage('bn');
     }
+  }
+
+  // --- Knowledge Check & Lesson Completion Persistence ---
+  const STORAGE_KEY = 'smc_roadmap_progress_v1';
+
+  function loadAllProgress() {
+    try {
+      const raw = window.localStorage.getItem(STORAGE_KEY);
+      if (!raw) return {};
+      const parsed = JSON.parse(raw);
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function saveAllProgress(data) {
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    } catch (e) {
+      // Ignore storage quota or privacy mode errors
+    }
+  }
+
+  // Update Home & Roadmap completion badges if present
+  const progressBadges = Array.from(document.querySelectorAll('.lesson-progress-badge[data-progress-slug]'));
+  if (progressBadges.length > 0) {
+    const allProgress = loadAllProgress();
+    progressBadges.forEach((badge) => {
+      const slug = badge.getAttribute('data-progress-slug');
+      const entry = slug && allProgress[slug];
+      if (entry && entry.completed) {
+        badge.classList.remove('hidden');
+      }
+    });
+  }
+
+  // Article Knowledge Check & Completion Checklist Logic
+  const kcSection = document.getElementById('knowledge-check-container');
+  if (kcSection) {
+    const lessonSlug = kcSection.getAttribute('data-lesson-slug') || '';
+    const paddedLessonId = kcSection.getAttribute('data-lesson-id') || '';
+    const totalQuestions = parseInt(kcSection.getAttribute('data-total-questions') || '0', 10);
+    const totalChecks = parseInt(kcSection.getAttribute('data-total-checks') || '0', 10);
+
+    const questionCards = Array.from(kcSection.querySelectorAll('.kc-question-card'));
+    const scoreTextEn = document.getElementById('kc-score-text-en');
+    const scoreTextBn = document.getElementById('kc-score-text-bn');
+    const scoreBadge = document.getElementById('kc-score-badge');
+    const progressFill = document.getElementById('kc-progress-fill');
+    const resetQuizBtn = document.getElementById('kc-reset-btn');
+
+    const lcCard = document.getElementById('lc-card');
+    const lcStatusPill = document.getElementById('lc-status-pill');
+    const lcStatusIcon = document.getElementById('lc-status-icon');
+    const lcStatusTextEn = document.getElementById('lc-status-text-en');
+    const lcStatusTextBn = document.getElementById('lc-status-text-bn');
+    const lcBannerEn = document.getElementById('lc-banner-en');
+    const lcBannerBn = document.getElementById('lc-banner-bn');
+    const lcCompleteToggleBtn = document.getElementById('lc-complete-toggle-btn');
+    const lcBtnEn = document.getElementById('lc-btn-en');
+    const lcBtnBn = document.getElementById('lc-btn-bn');
+    const headerCompletedBadge = document.getElementById('header-completed-badge');
+    const checkboxes = Array.from(document.querySelectorAll('.lc-checkbox'));
+
+    function getLessonState() {
+      const all = loadAllProgress();
+      const current = all[lessonSlug] || {};
+      return {
+        answers: current.answers && typeof current.answers === 'object' ? current.answers : {},
+        checks: current.checks && typeof current.checks === 'object' ? current.checks : {},
+        completed: Boolean(current.completed)
+      };
+    }
+
+    function saveLessonState(state) {
+      const all = loadAllProgress();
+      all[lessonSlug] = {
+        answers: state.answers,
+        checks: state.checks,
+        completed: Boolean(state.completed),
+        updatedAt: Date.now()
+      };
+      saveAllProgress(all);
+    }
+
+    let lessonState = getLessonState();
+
+    function renderQuizUI() {
+      let answeredCount = 0;
+      let correctCount = 0;
+
+      questionCards.forEach((card) => {
+        const qIdx = card.getAttribute('data-q-index');
+        const correctIdx = parseInt(card.getAttribute('data-correct-index') || '0', 10);
+        const selectedIdx = lessonState.answers[qIdx];
+        const hasAnswered = typeof selectedIdx === 'number';
+
+        const statusBadge = card.querySelector('.kc-q-status');
+        const statusEn = statusBadge ? statusBadge.querySelector('.kc-lang-en') : null;
+        const statusBn = statusBadge ? statusBadge.querySelector('.kc-lang-bn') : null;
+        const explanationBox = card.querySelector('.kc-explanation');
+        const optionBtns = Array.from(card.querySelectorAll('.kc-option-btn'));
+
+        if (hasAnswered) {
+          answeredCount++;
+          const isCorrect = selectedIdx === correctIdx;
+          if (isCorrect) correctCount++;
+
+          card.setAttribute('data-state', isCorrect ? 'correct' : 'incorrect');
+          if (statusBadge) {
+            statusBadge.setAttribute('data-status', isCorrect ? 'correct' : 'incorrect');
+          }
+          if (statusEn) {
+            statusEn.textContent = statusEn.getAttribute(isCorrect ? 'data-status-en-correct' : 'data-status-en-incorrect') || '';
+          }
+          if (statusBn) {
+            statusBn.textContent = statusBn.getAttribute(isCorrect ? 'data-status-bn-correct' : 'data-status-bn-incorrect') || '';
+          }
+          if (explanationBox) {
+            explanationBox.classList.remove('hidden');
+          }
+        } else {
+          card.removeAttribute('data-state');
+          if (statusBadge) {
+            statusBadge.setAttribute('data-status', 'unanswered');
+          }
+          if (statusEn) {
+            statusEn.textContent = statusEn.getAttribute('data-status-en-unanswered') || 'Unanswered';
+          }
+          if (statusBn) {
+            statusBn.textContent = statusBn.getAttribute('data-status-bn-unanswered') || 'উত্তর দেওয়া হয়নি';
+          }
+          if (explanationBox) {
+            explanationBox.classList.add('hidden');
+          }
+        }
+
+        optionBtns.forEach((btn) => {
+          const optIdx = parseInt(btn.getAttribute('data-opt-index') || '0', 10);
+          btn.classList.remove('is-selected', 'is-correct', 'is-incorrect', 'is-correct-reveal');
+          btn.setAttribute('aria-pressed', hasAnswered && selectedIdx === optIdx ? 'true' : 'false');
+
+          if (hasAnswered) {
+            if (optIdx === selectedIdx) {
+              btn.classList.add('is-selected');
+              btn.classList.add(selectedIdx === correctIdx ? 'is-correct' : 'is-incorrect');
+            } else if (optIdx === correctIdx) {
+              btn.classList.add('is-correct-reveal');
+            }
+          }
+        });
+      });
+
+      if (scoreTextEn) {
+        scoreTextEn.textContent = `Score: ${correctCount} / ${totalQuestions} correct (${answeredCount} answered)`;
+      }
+      if (scoreTextBn) {
+        scoreTextBn.textContent = `স্কোর: ${correctCount} / ${totalQuestions} সঠিক (${answeredCount}টি উত্তর দেওয়া হয়েছে)`;
+      }
+      if (scoreBadge) {
+        scoreBadge.setAttribute('data-perfect', answeredCount === totalQuestions && correctCount === totalQuestions ? 'true' : 'false');
+      }
+      if (progressFill && totalQuestions > 0) {
+        const pct = Math.round((answeredCount / totalQuestions) * 100);
+        progressFill.style.width = `${pct}%`;
+      }
+    }
+
+    function renderChecklistUI() {
+      let checkedCount = 0;
+      checkboxes.forEach((cb) => {
+        const id = cb.getAttribute('data-check-id') || '';
+        const isChecked = Boolean(lessonState.checks[id]);
+        cb.checked = isChecked;
+        if (isChecked) checkedCount++;
+        const itemLi = cb.closest('.lc-check-item');
+        if (itemLi) {
+          itemLi.classList.toggle('is-checked', isChecked);
+        }
+      });
+
+      const isCompleted = Boolean(lessonState.completed);
+
+      if (lcCard) {
+        lcCard.setAttribute('data-completed', isCompleted ? 'true' : 'false');
+      }
+      if (lcStatusPill) {
+        lcStatusPill.setAttribute('data-completed', isCompleted ? 'true' : 'false');
+      }
+      if (lcStatusIcon) {
+        lcStatusIcon.textContent = isCompleted ? '✓' : '○';
+      }
+      if (lcStatusTextEn) {
+        lcStatusTextEn.textContent = isCompleted
+          ? `Nicely completed (${checkedCount} / ${totalChecks})`
+          : `In progress (${checkedCount} / ${totalChecks})`;
+      }
+      if (lcStatusTextBn) {
+        lcStatusTextBn.textContent = isCompleted
+          ? `সুন্দরভাবে সম্পন্ন (${checkedCount} / ${totalChecks})`
+          : `চলমান (${checkedCount} / ${totalChecks})`;
+      }
+      if (lcBannerEn) {
+        lcBannerEn.textContent = isCompleted
+          ? `Lesson ${paddedLessonId} is marked as nicely completed! Great work.`
+          : `Check all ${totalChecks} milestones above or use the button to mark Lesson ${paddedLessonId} as nicely completed.`;
+      }
+      if (lcBannerBn) {
+        lcBannerBn.textContent = isCompleted
+          ? `পাঠ ${paddedLessonId} সুন্দরভাবে সম্পন্ন হিসেবে চিহ্নিত হয়েছে! দারুণ কাজ।`
+          : `পাঠ ${paddedLessonId} সুন্দরভাবে সম্পন্ন হিসেবে চিহ্নিত করতে উপরের সবগুলো ধাপে টিক দিন অথবা বাটনে ক্লিক করুন।`;
+      }
+      if (lcCompleteToggleBtn) {
+        lcCompleteToggleBtn.setAttribute('aria-pressed', isCompleted ? 'true' : 'false');
+        lcCompleteToggleBtn.classList.toggle('is-completed', isCompleted);
+      }
+      if (lcBtnEn) {
+        lcBtnEn.textContent = isCompleted ? 'Lesson nicely completed ✓' : 'Mark lesson nicely completed ✓';
+      }
+      if (lcBtnBn) {
+        lcBtnBn.textContent = isCompleted ? 'পাঠটি সুন্দরভাবে সম্পন্ন হয়েছে ✓' : 'পাঠটি সম্পন্ন হিসেবে চিহ্নিত করুন ✓';
+      }
+      if (headerCompletedBadge) {
+        headerCompletedBadge.classList.toggle('hidden', !isCompleted);
+      }
+    }
+
+    // Attach option click listeners
+    kcSection.addEventListener('click', (e) => {
+      const btn = e.target.closest('.kc-option-btn');
+      if (!btn) return;
+      const qIdx = btn.getAttribute('data-q-index');
+      const optIdx = parseInt(btn.getAttribute('data-opt-index') || '0', 10);
+      if (qIdx === null) return;
+
+      lessonState.answers[qIdx] = optIdx;
+      saveLessonState(lessonState);
+      renderQuizUI();
+    });
+
+    // Reset quiz listener
+    if (resetQuizBtn) {
+      resetQuizBtn.addEventListener('click', () => {
+        lessonState.answers = {};
+        saveLessonState(lessonState);
+        renderQuizUI();
+      });
+    }
+
+    // Checkbox change listeners
+    checkboxes.forEach((cb) => {
+      cb.addEventListener('change', () => {
+        const id = cb.getAttribute('data-check-id');
+        if (!id) return;
+        lessonState.checks[id] = cb.checked;
+
+        // Automatically mark lesson completed when all checkboxes are checked
+        const allChecked = checkboxes.length > 0 && checkboxes.every((box) => box.checked);
+        lessonState.completed = allChecked;
+
+        saveLessonState(lessonState);
+        renderChecklistUI();
+      });
+    });
+
+    // Complete toggle button listener
+    if (lcCompleteToggleBtn) {
+      lcCompleteToggleBtn.addEventListener('click', () => {
+        const nextCompleted = !lessonState.completed;
+        lessonState.completed = nextCompleted;
+        if (nextCompleted) {
+          checkboxes.forEach((cb) => {
+            const id = cb.getAttribute('data-check-id');
+            if (id) lessonState.checks[id] = true;
+          });
+        } else {
+          checkboxes.forEach((cb) => {
+            const id = cb.getAttribute('data-check-id');
+            if (id) lessonState.checks[id] = false;
+          });
+        }
+        saveLessonState(lessonState);
+        renderChecklistUI();
+      });
+    }
+
+    renderQuizUI();
+    renderChecklistUI();
   }
 })();

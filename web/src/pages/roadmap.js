@@ -14,6 +14,7 @@ export function renderRoadmapPage(articles, roadmapData, relativeRoot = '../') {
           <span class="path-num">${art.paddedLessonId}</span>
           <a href="${relativeRoot}articles/${art.slug}/"><strong>Lesson ${art.paddedLessonId}:</strong> ${escapeHtml(art.title)}</a>
           <span class="reading-time">(${art.readingMinutes})</span>
+          <span class="lesson-progress-badge hidden" data-progress-slug="${art.slug}">Completed ✓</span>
         </li>`;
     }).join('\n');
 

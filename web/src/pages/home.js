@@ -18,6 +18,7 @@ export function renderHomePage(articles, relativeRoot = './') {
           <div class="article-meta-row">
             <span><span class="lesson-accessible">Lesson ${a.paddedLessonId} · </span>Week ${a.week}</span>
             <span class="topic-badge">${escapeHtml(a.topic)}</span>
+            <span class="lesson-progress-badge hidden" data-progress-slug="${a.slug}">Completed ✓</span>
           </div>
           <h3 class="article-title">
             <a href="${relativeRoot}articles/${a.slug}/" class="article-title-link">${escapeHtml(a.title)}</a>

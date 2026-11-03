@@ -59,3 +59,13 @@ baseline and the Bangla toggle. Translation fidelity and external video content
 were not independently audited. Publication approval does not close earlier
 task acceptance lists or assert those additional audits. GitHub Pages deployment
 is triggered by the publication commit on main.
+
+## Knowledge checks publication — 2026-11-03
+
+User requested commit, push and deployment of all current changes. Codex inspected
+the quiz data model, rendering, progress persistence, styling and test changes.
+`npm run build`, `npm run check` (static checks and all 13 browser suites), and
+`git diff --check` passed. Approved for publication: bilingual knowledge checks
+for all 26 lessons, completion checklists, saved answers and progress badges.
+Quiz content and translation fidelity were not exhaustively audited. Earlier
+task statuses remain unchanged. The publication commit triggers GitHub Pages.

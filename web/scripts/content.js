@@ -3,6 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { marked } from 'marked';
 import sanitizeHtml from 'sanitize-html';
+import { KNOWLEDGE_CHECKS, validateKnowledgeChecks } from '../src/data/quizzes/index.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -310,12 +311,15 @@ export function loadAndValidateArticles() {
       worksheetPath: `lessons/${fileName}`,
       worksheetUrl: `${GITHUB_REPO_URL}/blob/main/lessons/${fileName}`,
       bodyMarkdown,
-      bodyMarkdownBn
+      bodyMarkdownBn,
+      knowledgeCheck: KNOWLEDGE_CHECKS[def.slug] || null
     };
 
     articles.push(article);
     slugToArticle.set(def.slug, article);
   }
+
+  validateKnowledgeChecks(articles);
 
   // Assign previous and next in exact study order
   for (let i = 0; i < articles.length; i++) {
