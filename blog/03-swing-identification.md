@@ -47,4 +47,13 @@ This original article expands [workbook lesson 03](../lessons/03-swing-identific
 - [TTrades - relevant swing highs and lows](https://ttrades.com/relevant-swings-which-swing-highs-and-lows-matter-in-trading/)
 - [TTrades - basic market structure](https://ttrades.com/understanding-basic-market-structure-in-trading/)
 
+## Video resources
+
+- [TTrades — Which Swing Highs and Lows Matter in Trading? (Relevant Swings)](https://www.youtube.com/watch?v=HbOeD_JVens) — Explains how to filter local pivots and identify structurally relevant swing highs and lows.
+- [TTrades — Understanding Market Structure For Trading](https://www.youtube.com/watch?v=sgAnVR6RSDg) — Covers swing point identification, trend sequences and basic market structure mapping.
+- [TTrades — TTrades Ideal Formation: High Probability Swing Points](https://www.youtube.com/watch?v=SF61vCsBl1A) — Walks through candle-by-candle swing formation and confirmation timing.
+- [Mulham Trading — Master Market Structure in 26 Minutes (Full Course)](https://www.youtube.com/watch?v=P7LoXk4Skm4) — Demonstrates mechanical swing high/low marking and trend progression from scratch.
+- [Learn SMC With Kushal — How to Start Drawing SMC Market Structure? (Bengali)](https://www.youtube.com/watch?v=5JTzHDxG7r8) — Step-by-step practice on identifying valid swings and drawing baseline structure in Bengali.
+- [Guardeer Student — Whale Eyes Course Lecture 1: SMC Market Structure & Swing Mapping (Hindi)](https://www.youtube.com/watch?v=hTblWjQEbAY&list=PLIusEm0IfW4k) — Opening lecture of the Whale Eyes series covering swing identification and structural legs.
+
 [← Reading pullbacks without predicting every reversal](02-pullback-identification.md) · [Inducement: turn a persuasive story into a rule you can inspect →](04-inducement.md)

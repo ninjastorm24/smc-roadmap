@@ -43,4 +43,14 @@ This original article expands [workbook lesson 01](../lessons/01-orientation.md)
 - [BabyPips - School of Pipsology](https://www.babypips.com/learn/forex)
 - [TradingView - Paper Trading help](https://www.tradingview.com/support/solutions/43000516466-paper-trading-main-functionality/)
 
+## Video resources
+
+- [TTrades — Market Order vs Limit Order: When to Use Each in Trading](https://www.youtube.com/watch?v=cH97e2yqJmY) — Explains execution mechanics, slippage and when to use market versus limit orders.
+- [TTrades — Open High Low Close: Understanding Candlesticks](https://www.youtube.com/watch?v=sIcsLFSNoXM) — Breaks down candlestick OHLC construction and how intrabar price movement forms wicks and bodies.
+- [TTrades — TradingView Tutorial For Beginners (Full Guide)](https://www.youtube.com/watch?v=JPVhmPZiLKY) — Walks through workspace setup, chart tools and layout configuration on TradingView.
+- [TTrades — How To Journal Everyday For Trading](https://www.youtube.com/watch?v=wrIZ7CAuFCc) — Shows how to structure a daily trading journal around observations and rule tracking.
+- [Mulham Trading — Trading Explained For Complete Beginners in 19 Minutes](https://www.youtube.com/watch?v=ql1UeXhsvVk) — Covers foundational chart reading, market mechanics and order basics for new learners.
+- [Learn SMC With Kushal — Candlestick Psychology: Secrets of the Charts (Bengali)](https://www.youtube.com/watch?v=oyQPcmqOQNo) — Introduces candlestick anatomy, OHLC interpretation and chart reading in Bengali.
+- [FX Journal — How to Use MetaTrader 5 on Your Phone: MT5 Tutorial for Beginners (Bengali)](https://www.youtube.com/watch?v=lzwDMMyUXbs) — Demonstrates order types, stop-loss placement and execution setup on MT5.
+
 [Reading pullbacks without predicting every reversal →](02-pullback-identification.md)

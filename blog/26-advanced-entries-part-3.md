@@ -53,4 +53,13 @@ This original article expands [workbook lesson 26](../lessons/26-advanced-entrie
 - [TTrades - how to backtest, step by step](https://ttrades.com/how-to-backtest-a-clear-step-by-step-approach/)
 - [TradingView - Paper Trading help](https://www.tradingview.com/support/solutions/43000516466-paper-trading-main-functionality/)
 
+## Video resources
+
+- [TTrades — Backtesting Simplified: A Clear Step-by-Step Approach](https://www.youtube.com/watch?v=MvD7fQQ0szE) — Video companion to the workbook’s backtesting guide, showing how to log setups and review data systematically.
+- [FX Journal — How to Backtest Any Trading Strategy for FREE: Backtesting Tutorial (Bengali)](https://www.youtube.com/watch?v=yP3nHpCyQ3Y) — Practical tutorial on running free historical bar-replay backtests and recording trade outcomes in Bengali.
+- [Mulham Trading — The Hidden Math of Winning in Trading](https://www.youtube.com/watch?v=x0o9spaLuB4) — Explains R-multiples, win rate versus risk-to-reward math, drawdown and expectancy over a sample of trades.
+- [Mulham Trading — High Win Rate ICT Liquidity Sweep Strategy (+1 Hour Backtesting)](https://www.youtube.com/watch?v=xzSFYcgKiao) — Demonstrates logging a frozen liquidity-purge model across a continuous historical backtest session.
+- [Learn SMC With Kushal — 10 Trades, 7 Wins, 3 SL: Evaluating Strategy Outcomes (Bengali)](https://www.youtube.com/watch?v=W-4xDePLKUc) — Reviews a multi-trade sample including losses and risk-reward math in Bengali.
+- [Guardeer Student — Whale Eyes Course Lecture 15: Complete Strategy Playbook & Execution Masterclass (Hindi)](https://www.youtube.com/watch?v=xsaFyKLFwEg&list=PLIusEm0IfW4k) — Concluding lecture of the Whale Eyes series synthesizing the full strategy and execution rules.
+
 [← Advanced entries, part 2: audit the trigger instead of stacking labels](25-advanced-entries-part-2.md)

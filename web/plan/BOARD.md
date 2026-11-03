@@ -2,7 +2,7 @@
 
 Current queue for the web project. Detailed scope, reports, review rounds and sign-off belong in the linked task files. [Workflow](README.md) · [Task template](TASK_TEMPLATE.md)
 
-**Follow the task statuses below. New user layout request: [T009 — Homepage and roadmap side margins](tasks/T009-page-side-margins.md).**
+**Implemented, awaiting review: [T011 — Redesign the article library](tasks/T011-library-redesign.md).**
 
 | ID | Task | Plan | Depends on | Owner | Status | Commit |
 |---|---|---|---|---|---|---|
@@ -16,6 +16,8 @@ Current queue for the web project. Detailed scope, reports, review rounds and si
 | T009 | [Center homepage and roadmap content](tasks/T009-page-side-margins.md) | [reader](PLAN-reader.md) | — | Gemini | IN REVIEW | — |
 | T008 | [Review and commit the approved web implementation](tasks/T008-review-signoff.md) | [review-fixes](PLAN-review-fixes.md) | T007 | Codex | APPROVED | f2ae522 |
 | T010 | [GitHub Pages deployment pipeline](tasks/T010-pages-pipeline.md) | [deployment](../README.md#github-pages-deployment) | T008 before publication | Codex (user request) | APPROVED | f2ae522 |
+
+| T011 | [Redesign the article library](tasks/T011-library-redesign.md) | [library](PLAN-library.md) | — | Codex (user request) | IN REVIEW | — |
 
 ## Board rules
 
@@ -45,3 +47,15 @@ publication approval does not assert completion of their entire acceptance lists
 
 Website and pipeline committed and pushed as `f2ae522`. First deployment run:
 https://github.com/ninjastorm24/smc-roadmap/actions/runs/41499863313
+
+## Current changes publication — 2026-11-03
+
+User explicitly requested push and deployment of all current changes. Codex inspected
+the current diff and reran `npm run build`, `npm run check` and `git diff --check`;
+all passed. The release includes T011, the development server, 26 Bangla
+translations with the article language toggle, and video resource links.
+Browser verification includes responsive layouts, filtering, no-JavaScript
+baseline and the Bangla toggle. Translation fidelity and external video content
+were not independently audited. Publication approval does not close earlier
+task acceptance lists or assert those additional audits. GitHub Pages deployment
+is triggered by the publication commit on main.

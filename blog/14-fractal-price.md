@@ -43,4 +43,12 @@ This original article expands [workbook lesson 14](../lessons/14-fractal-price.m
 - [TTrades - fractal top-down playbook](https://ttrades.com/fractal-model-playbook-aligning-daily-hourly-and-5-minute-charts/)
 - [TTrades - multiple-timeframe top-down analysis](https://ttrades.com/mastering-top-down-analysis-aligning-multiple-timeframes-for-expansion-trading/)
 
+## Video resources
+
+- [TTrades — Timeframe Alignment: How To Align Timeframes For Expansion](https://www.youtube.com/watch?v=ubCe509_JLY) — Shows how higher-timeframe context candles nest lower-timeframe structure and confirmation.
+- [TTrades — Higher Timeframe Analysis For Trading: Aligning Expansion Candles](https://www.youtube.com/watch?v=Kf4c41_qO1s) — Explains how to keep higher-timeframe and lower-timeframe clocks aligned during expansion.
+- [TTrades — The Best Timeframe for TTrades Fractal Model (Simple)](https://www.youtube.com/watch?v=FgP2lc9nneM) — Presents standard context, setup and execution timeframe pairings (such as Daily / 1H / 5m).
+- [Guardeer — What Is Fractal In SMC? Lecture 2 (Hindi)](https://www.youtube.com/watch?v=4_33Wsc9fcg) — Dedicated lecture on the fractal nature of price and multi-timeframe structure in Hindi (paired with [Whale Eyes Lecture 2](https://www.youtube.com/watch?v=CbwpVOWtzyY&list=PLIusEm0IfW4k)).
+- [Learn SMC With Kushal — 2025 Best Order Block Strategy Using the Right Time Frame (Bengali)](https://www.youtube.com/watch?v=iX-EIPvJWtw) — Demonstrates selecting compatible higher and lower timeframes in Bengali.
+
 [← STH, STL, ITH and ITL: a hierarchy of confirmed pivots](10-swing-hierarchy.md) · [Liquidity maps: distinguish a reference level, a sweep and a breakout →](12-liquidity-grab-sweep.md)

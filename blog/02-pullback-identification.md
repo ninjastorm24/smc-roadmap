@@ -49,4 +49,13 @@ This original article expands [workbook lesson 02](../lessons/02-pullback-identi
 - [TTrades - phases of price: retracements](https://ttrades.com/phases-of-price-part-3-mastering-retracements-for-high-probability-setups/)
 - [TTrades - basic market structure](https://ttrades.com/understanding-basic-market-structure-in-trading/)
 
+## Video resources
+
+- [TTrades — Reversal or Pullback? Using Market Structure To Determine Trend](https://www.youtube.com/watch?v=FdRKBTz0Fps) — Compares continuation retracements against structural reversals using confirmed swing relationships.
+- [TTrades — How To Trade Retracement: Phases Of Price](https://www.youtube.com/watch?v=F0G31iLVpVg) — Examines how retracement legs behave relative to the preceding expansion move.
+- [TTrades — The Phases of Price Action: A Blueprint for Market Movement](https://www.youtube.com/watch?v=8BWkRGhuj1k) — Separates consolidation, expansion, retracement and reversal phases on the chart.
+- [Learn SMC With Kushal — SMC Valid Swing & Valid Pullback Identification (Bengali)](https://www.youtube.com/watch?v=huaYB8MVrDA) — Explains rules for distinguishing valid pullbacks from minor candle pauses in Bengali.
+- [Guardeer — True Smart Money Concept In Hindi: Lecture 1 (Hindi)](https://www.youtube.com/watch?v=jwjjWHzEaJc) — Introduces foundational SMC price legs, pullbacks and market structure concepts in Hindi.
+- [Guardeer Student — Mentorship Central Course Lecture 1: Expansion, Retracement, Reversal & Consolidation (Hindi)](https://www.youtube.com/watch?v=7VBtG1hl18M) — Frameworks the four price phases before marking institutional reference points.
+
 [← Before the patterns: build a workspace you can learn from](01-orientation.md) · [Swing highs and lows: the price level and the time you could know it →](03-swing-identification.md)

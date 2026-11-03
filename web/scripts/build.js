@@ -95,7 +95,10 @@ export function buildSite() {
     fs.mkdirSync(articleDir, { recursive: true });
 
     const { html: bodyHtml, headings } = renderArticleMarkdown(article.bodyMarkdown, '../../', article.sourcePath);
-    const pageHtml = renderArticlePage(article, bodyHtml, headings, '../../');
+    const { html: bodyHtmlBn, headings: headingsBn } = article.bodyMarkdownBn
+      ? renderArticleMarkdown(article.bodyMarkdownBn, '../../', article.sourcePath, 'bn-')
+      : { html: '', headings: [] };
+    const pageHtml = renderArticlePage(article, bodyHtml, headings, '../../', bodyHtmlBn, headingsBn);
     fs.writeFileSync(path.join(articleDir, 'index.html'), pageHtml, 'utf8');
   }
   console.log(`Generated all ${articles.length} individual article pages.`);

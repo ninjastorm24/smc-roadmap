@@ -47,4 +47,11 @@ This original article expands [workbook lesson 21](../lessons/21-crt-tbs.md). Nu
 - [CRT Trading - free Candle Range Theory guide](https://www.crttrading.com/)
 - [Candle Range Theory - free tutorial](https://innercircletrader.net/tutorials/candle-range-theory-crt/)
 
+## Video resources
+
+- [FX Journal — CRT + TBS Strategy: Candle Range Theory + True Break Structure (Bengali)](https://www.youtube.com/watch?v=QfYFTqhtL-A) — Directly teaches the combined CRT + TBS entry technique covered in Lesson 21 in Bengali.
+- [Learn SMC With Kushal — ICT CRT: Candle Range Theory Trading Strategy (Bengali)](https://www.youtube.com/watch?v=F9Vdk74qyuY) — Explains anchor candle selection, range sweep and lower-timeframe entry confirmation in Bengali (see also [CRT Live Scalping Example](https://www.youtube.com/watch?v=xNWXPrth6_k)).
+- [Mulham Trading — Candle Range Theory (CRT): Everything To Know About!](https://www.youtube.com/watch?v=Q-9r_jY1S50) — Comprehensive English guide to CRT anchor candles, three-candle phases and lower-timeframe entry refinement.
+- [TTrades — Candle 2 Closure: The Foundation of TTrades Fractal Model](https://www.youtube.com/watch?v=tyoxl1l-6iI) — Explains the mechanical sweep-and-close-inside (Candle 2 reversal closure) and how to validate it on lower timeframes (`vn1RYjhJUnQ`).
+
 [← Build one trading playbook you can actually test](18-personal-strategy.md) · [Advanced entries, part 1: sort the families before choosing a model →](24-advanced-entries-part-1.md)

@@ -47,4 +47,13 @@ This original article expands [workbook lesson 13](../lessons/13-liquidity-pools
 - [TTrades - premium, discount and equilibrium](https://ttrades.com/understanding-premium-and-discount-in-trading/)
 - [TTrades - understanding dealing ranges](https://ttrades.com/understanding-dealing-ranges-in-trading-get-better-risk-reward/)
 
+## Video resources
+
+- [TTrades — Discount & Premium: ICT Concepts](https://www.youtube.com/watch?v=MlMsG7li9zY) — Explains how to anchor a range and divide it into premium and discount halves around equilibrium.
+- [TTrades — How To Use Equilibrium (EQ): TTrades Fractal Model](https://www.youtube.com/watch?v=Q8JxhjQzZNk) — Shows how equilibrium acts as a range reference and filter for continuation versus retracement.
+- [TTrades — High Resistance vs Low Resistance Liquidity: ICT Concepts](https://www.youtube.com/watch?v=FGkb_50BfT8) — Distinguishes clustered liquidity pools and low-resistance runs across a dealing range.
+- [FX Journal — Liquidity Void & Price Imbalance Explained: Smart Money Concept (Bengali)](https://www.youtube.com/watch?v=27sDikobI84) — Directly explains liquidity voids, rapid price runs and imbalances in Bengali.
+- [FX Journal — ICT/SMC Dealing Range Theory (DRT) Simplified & Explained (Bengali)](https://www.youtube.com/watch?v=3Ep7kpGxvPM) — Shows how to anchor dealing ranges, premium/discount zones and liquidity pools in Bengali.
+- [Mulham Trading — Revealing Advanced ICT/SMC Liquidity Concepts: HRLR and LRLR Explained](https://www.youtube.com/watch?v=ItWIYU41d-8) — Covers liquidity pools, high/low resistance liquidity runs and range positioning.
+
 [← Liquidity maps: distinguish a reference level, a sweep and a breakout](12-liquidity-grab-sweep.md) · [FVG, inverse FVG and order blocks: three ideas, three rule sets →](06-fvg-ifvg-order-block-imbalance.md)

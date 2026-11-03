@@ -654,6 +654,101 @@ main {
   border-bottom: 1px solid var(--color-divider);
 }
 
+.article-header-top {
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.article-meta-badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.btn-lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  background-color: var(--color-surface);
+  color: var(--color-accent);
+  border: 1.5px solid var(--color-accent);
+  border-radius: 999px;
+  font-family: "Noto Sans Bengali", "Hind Siliguri", "SolaimanLipi", "Kalpurush", var(--font-sans);
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.3;
+  cursor: pointer;
+  transition: background-color 150ms ease, color 150ms ease, box-shadow 150ms ease, transform 100ms ease;
+  min-height: 38px;
+  box-shadow: 0 1px 4px rgba(18, 100, 90, 0.08);
+}
+
+.btn-lang-toggle:hover {
+  background-color: var(--color-accent-soft);
+  box-shadow: 0 2px 8px rgba(18, 100, 90, 0.14);
+}
+
+.btn-lang-toggle:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.btn-lang-toggle[aria-pressed="true"] {
+  background-color: var(--color-accent);
+  color: #FFFFFF;
+}
+
+.lang-toggle-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background-color: var(--color-accent-soft);
+  color: var(--color-accent);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.btn-lang-toggle[aria-pressed="true"] .lang-toggle-badge {
+  background-color: rgba(255, 255, 255, 0.22);
+  color: #FFFFFF;
+}
+
+.hidden {
+  display: none !important;
+}
+
+[lang="bn"] {
+  font-family: "Noto Sans Bengali", "Hind Siliguri", "SolaimanLipi", "Kalpurush", var(--font-sans);
+}
+
+.article-page-title[lang="bn"] {
+  font-family: "Noto Sans Bengali", "Hind Siliguri", "SolaimanLipi", "Kalpurush", var(--font-serif);
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.article-standfirst[lang="bn"] {
+  line-height: 1.7;
+}
+
+#prose-bn,
+#prose-bn h2,
+#prose-bn h3 {
+  font-family: "Noto Sans Bengali", "Hind Siliguri", "SolaimanLipi", "Kalpurush", var(--font-sans);
+  line-height: 1.78;
+}
+
+#prose-bn h2,
+#prose-bn h3 {
+  line-height: 1.4;
+}
+
 .article-page-title {
   font-family: var(--font-serif);
   font-size: 2.85rem;
@@ -1323,4 +1418,50 @@ tr:last-child td {
   .btn-primary, .btn-secondary {
     width: 100%;
   }
+}
+
+/* Homepage library: editorial cards and compact search controls. */
+.library-section .library-header { display:flex; align-items:center; justify-content:space-between; gap:24px; margin-bottom:28px; }
+.library-section .library-heading { font-size:40px; line-height:1.15; margin-bottom:12px; }
+.library-intro { color:var(--color-ink-muted); font-size:16px; }
+.library-total { flex-shrink:0; padding:8px 14px; border-radius:100px; background:var(--color-accent-soft); color:var(--color-accent); font-size:13px; font-weight:600; }
+.library-section .filter-toolbar { border-radius:16px; padding:20px; margin-bottom:0; box-shadow:0 4px 20px rgba(24,43,48,.04); }
+.library-section .filter-inputs-grid { grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr); gap:16px; }
+.library-section .control-group { min-width:0; }
+.library-section .control-label { font-size:12px; }
+.library-section .form-input, .library-section .form-select { min-width:0; min-height:48px; border-radius:10px; background:var(--color-page); }
+.library-section .form-input { padding-left:42px; }
+.search-icon { position:absolute; left:14px; top:50%; transform:translateY(-50%); color:var(--color-ink-muted); pointer-events:none; }
+.library-section :is(input,select,button,a):focus-visible { outline:3px solid var(--color-focus); outline-offset:3px; }
+.library-section .filter-status-row { border:0; margin:16px 0 20px; padding:0; min-height:44px; gap:12px; flex-wrap:wrap; }
+.library-section .filter-count { font-size:13px; font-weight:500; color:var(--color-ink-muted); }
+.library-section .btn-reset { min-height:44px; border:0; padding:8px 0; text-decoration:underline; color:var(--color-accent); }
+.library-section .article-list { border:0; gap:12px; }
+.library-section .article-item { grid-template-columns:56px minmax(0,1fr) 112px; gap:20px; padding:24px; border:1px solid var(--color-divider); border-radius:14px; background:var(--color-surface); transition:border-color 150ms ease,box-shadow 150ms ease; }
+.library-section .article-item:hover, .library-section .article-item:focus-within { border-color:var(--color-accent); box-shadow:0 4px 20px rgba(24,43,48,.06); }
+.lesson-number { display:flex; align-items:center; justify-content:center; width:48px; height:48px; border-radius:12px; background:var(--color-accent-soft); color:var(--color-accent); font-family:var(--font-mono); font-size:17px; font-weight:600; font-variant-numeric:tabular-nums; }
+.lesson-accessible { position:absolute; width:1px; height:1px; padding:0; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+.library-section .article-main { min-width:0; }
+.library-section .article-meta-row { flex-wrap:wrap; gap:8px; font-size:12px; letter-spacing:0; }
+.library-section .topic-badge { border-radius:6px; font-size:11px; padding:3px 8px; }
+.library-section .article-title { line-height:1.3; }
+.library-section .article-title-link { font-size:23px; }
+.library-section .article-summary { font-size:15px; line-height:1.6; }
+.library-section .article-aside { justify-content:center; align-items:flex-end; flex-direction:column; border:0; padding:0; }
+.library-section .reading-time { font-size:12px; white-space:normal; }
+.library-section .read-link { font-size:13px; white-space:normal; min-height:44px; display:inline-flex; align-items:center; }
+.library-section :is(.article-title,.article-summary,.article-meta-row) { overflow-wrap:anywhere; }
+@media (min-width:640px) and (max-width:899px) {
+  .library-section .filter-inputs-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .library-section .control-group:first-child { grid-column:1 / -1; }
+}
+@media (max-width:639px) {
+  .library-section { padding-left:18px; padding-right:18px; }
+  .library-section .library-header { align-items:flex-start; flex-direction:column; gap:16px; }
+  .library-section .library-heading { font-size:30px; }
+  .library-section .filter-inputs-grid { grid-template-columns:minmax(0,1fr); }
+  .library-section .article-item { grid-template-columns:36px minmax(0,1fr); gap:12px; padding:16px; }
+  .lesson-number { width:36px; height:36px; border-radius:9px; font-size:14px; }
+  .library-section .article-title-link { font-size:20px; }
+  .library-section .article-aside { grid-column:2; flex-direction:row; flex-wrap:wrap; align-items:center; justify-content:space-between; text-align:left; gap:8px; }
 }

@@ -47,4 +47,14 @@ This original article expands [workbook lesson 15](../lessons/15-daily-bias.md).
 - [TTrades - easy daily bias framework](https://ttrades.com/easy-daily-bias-a-mechanical-trading-framework/)
 - [TTrades - previous day high/low liquidity](https://ttrades.com/the-easiest-draw-on-liquidity/)
 
+## Video resources
+
+- [TTrades — Easy Daily Bias: Mechanical Framework](https://www.youtube.com/watch?v=-KKuZb5Z5aU) — Video walkthrough of the mechanical daily bias framework using previous-day highs/lows and closes.
+- [TTrades — Trading the Invalidation of Daily Bias](https://www.youtube.com/watch?v=jKuXaC84Qx4) — Explains how to recognize when your initial daily bias hypothesis is invalidated by price action.
+- [TTrades — The Easiest Draw On Liquidity (DOL): Daily Bias](https://www.youtube.com/watch?v=FXJBFbZQbck) — Focuses on previous-day high and low (PDH/PDL) as baseline daily objectives.
+- [Mulham Trading — Ultimate ICT Daily Bias Guide (5 Methods)](https://www.youtube.com/watch?v=t8JhvEbifR8) — Compares five structured methods for forming a daily directional hypothesis.
+- [FX Journal — SMC/ICT Daily Bias Bangla: The Only Video You Will Ever Need! (Bengali)](https://www.youtube.com/watch?v=zUUoiqf8a1s) — Comprehensive Bengali tutorial on determining daily bias and draw on liquidity.
+- [Learn SMC With Kushal — Market Daily Bias: SMC & ICT Concept (Bengali)](https://www.youtube.com/watch?v=lbx0RJn5ISg) — Explains daily bias preparation and HTF candle reading in Bengali.
+- [Guardeer — What Is Bias In SMC/ICT? Lecture 9 (Hindi)](https://www.youtube.com/watch?v=4vRHblHQWvA) — Covers directional bias and narrative construction in Hindi (paired with [Whale Eyes Lecture 9](https://www.youtube.com/watch?v=AmePJKbX3xg&list=PLIusEm0IfW4k)).
+
 [← Choosing a point of interest: make the rejection decision explicit](11-structure-based-poi.md) · [Time and price: define the range, then define the clock →](16-time-price-dealing-range.md)

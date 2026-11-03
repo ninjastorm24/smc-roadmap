@@ -5,6 +5,7 @@ export function renderHomePage(articles, relativeRoot = './') {
   const articleListHtml = articles.map((a) => {
     return `
       <li class="article-item"
+          value="${a.lessonId}"
           data-order="${a.studyOrder}"
           data-lesson="${a.lessonId}"
           data-week="${a.week}"
@@ -12,9 +13,10 @@ export function renderHomePage(articles, relativeRoot = './') {
           data-title="${escapeHtml(a.title)}"
           data-desc="${escapeHtml(a.description)}"
           data-aliases="${escapeHtml(a.aliases)}">
+        <span class="lesson-number" aria-hidden="true">${a.paddedLessonId}</span>
         <div class="article-main">
           <div class="article-meta-row">
-            <span>LESSON ${a.paddedLessonId} · WEEK ${a.week}</span>
+            <span><span class="lesson-accessible">Lesson ${a.paddedLessonId} · </span>Week ${a.week}</span>
             <span class="topic-badge">${escapeHtml(a.topic)}</span>
           </div>
           <h3 class="article-title">
@@ -87,28 +89,35 @@ export function renderHomePage(articles, relativeRoot = './') {
     </section>
 
     <section class="library-section" id="articles" aria-label="Article library">
-      <div class="section-eyebrow">THE ARTICLE LIBRARY</div>
-      <h2 class="library-heading">All 26 Study Articles</h2>
+      <div class="library-header">
+        <div>
+          <div class="section-eyebrow">THE ARTICLE LIBRARY</div>
+          <h2 class="library-heading">Your study library</h2>
+          <p class="library-intro">Build your understanding, one lesson at a time.</p>
+        </div>
+        <span class="library-total">${articles.length} articles · 8 weeks</span>
+      </div>
 
       <div class="filter-toolbar" id="filter-toolbar">
         <noscript>
           <div class="no-js-note">
-            Interactive search and filtering requires JavaScript. All 26 articles are listed below in the workbook study sequence.
+            Interactive search and filtering requires JavaScript. All ${articles.length} articles are listed below in the workbook study sequence.
           </div>
         </noscript>
 
         <form class="filter-inputs-grid" id="filter-form" onsubmit="return false;" role="search">
           <div class="control-group">
-            <label for="search-input" class="control-label">Search library</label>
+            <label for="search-input" class="control-label">Search articles</label>
             <div class="search-input-wrapper">
-              <input type="search" id="search-input" class="form-input" placeholder="Search topics, concepts (e.g. FVG), or lesson numbers..." autocomplete="off" disabled>
+              <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+              <input type="search" id="search-input" class="form-input" placeholder="Search topics or lessons…" autocomplete="off" disabled>
             </div>
           </div>
 
           <div class="control-group">
-            <label for="topic-select" class="control-label">Filter by topic</label>
+            <label for="topic-select" class="control-label">Topic</label>
             <select id="topic-select" class="form-select" disabled>
-              <option value="all">All topics (26)</option>
+              <option value="all">All topics (${articles.length})</option>
               <option value="Foundations">Foundations (3)</option>
               <option value="Structure">Structure (4)</option>
               <option value="Zones &amp; POIs">Zones &amp; POIs (5)</option>
@@ -120,7 +129,7 @@ export function renderHomePage(articles, relativeRoot = './') {
           </div>
 
           <div class="control-group">
-            <label for="week-select" class="control-label">Filter by week</label>
+            <label for="week-select" class="control-label">Study week</label>
             <select id="week-select" class="form-select" disabled>
               <option value="all">All weeks</option>
               <option value="1">Week 1</option>
@@ -135,11 +144,12 @@ export function renderHomePage(articles, relativeRoot = './') {
           </div>
         </form>
 
+      </div>
+
         <div class="filter-status-row" id="filter-status-row">
-          <span id="filter-count" class="filter-count" role="status" aria-live="polite">Showing all 26 articles</span>
+          <span id="filter-count" class="filter-count" role="status" aria-live="polite">Showing all ${articles.length} articles</span>
           <button type="button" id="reset-filters-btn" class="btn-reset" style="display: none;">Reset filters</button>
         </div>
-      </div>
 
       <div id="no-matches" class="no-matches-box" role="status">
         <p class="no-matches-text">No articles match these filters.</p>

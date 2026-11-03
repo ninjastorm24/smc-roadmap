@@ -45,4 +45,13 @@ This original article expands [workbook lesson 05](../lessons/05-advanced-market
 - [TTrades - advanced market structure](https://ttrades.com/advanced-market-structure-simplified-from-short-term-to-long-term-trends/)
 - [TTrades - basic market structure](https://ttrades.com/understanding-basic-market-structure-in-trading/)
 
+## Video resources
+
+- [TTrades — ICT Advanced Market Structure Simplified](https://www.youtube.com/watch?v=umyCqr_0NsI) — Separates internal and external structure across trend continuations and structural shifts.
+- [TTrades — Protected Swings: Understanding Trend and Invalidations](https://www.youtube.com/watch?v=-wr4xATE37g) — Defines what makes a swing high or low protected and what price event invalidates it.
+- [Mulham Trading — Advanced Market Structure Masterclass (Beginner To Advanced)](https://www.youtube.com/watch?v=ifbtPYSGDVQ) — Covers internal versus external range breaks, BOS, CHoCH and multi-scale structure rules.
+- [Mulham Trading — You're Using BOS & MSS Wrong (Here's Why You Keep Losing)](https://www.youtube.com/watch?v=t9ZcAV9iYCI) — Highlights frequent errors when promoting minor internal breaks into major trend reversals.
+- [FX Journal — Advanced Market Structure: Paid Class in Bangla (Bengali)](https://www.youtube.com/watch?v=PUm0oHxFlU4) — Detailed Bengali class on external/internal structure, BOS, CHoCH and protected levels.
+- [Learn SMC With Kushal — Correct SMC Advanced Market Structure Marking: Part 2 (Bengali)](https://www.youtube.com/watch?v=RpMYMJKRmQA) — Demonstrates advanced structure marking and common chart mistakes in Bengali.
+
 [← Inducement: turn a persuasive story into a rule you can inspect](04-inducement.md) · [STH, STL, ITH and ITL: a hierarchy of confirmed pivots →](10-swing-hierarchy.md)

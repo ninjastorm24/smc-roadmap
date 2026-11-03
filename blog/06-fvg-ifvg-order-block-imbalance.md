@@ -45,4 +45,13 @@ This original article expands [workbook lesson 06](../lessons/06-fvg-ifvg-order-
 - [TTrades - understanding fair value gaps](https://ttrades.com/understanding-fair-value-gaps/)
 - [TTrades - inversion fair value gaps](https://ttrades.com/inversion-fair-value-gaps-explainedifvg/)
 
+## Video resources
+
+- [TTrades — Understanding Fair Value Gaps (FVG): ICT Concepts](https://www.youtube.com/watch?v=ZVUDpCyvxfQ) — Defines the three-candle FVG pattern, consequent encroachment (midpoint) and invalidation rules.
+- [TTrades — Inversion Fair Value Gaps (IFVG): ICT Concepts](https://www.youtube.com/watch?v=uDJI2AbyyCs) — Explains how failed fair value gaps transition into inverse reference zones.
+- [TTrades — Order Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=DMUiDBnTYc8) — Introduces order block formation rules and how they pair with displacement and FVGs.
+- [Mulham Trading — Advanced ICT FVG Theory & Secrets (Real FVG)](https://www.youtube.com/watch?v=q5Qz9xxVKKI) — Compares high-probability versus low-probability FVGs and how they interact with order blocks.
+- [Learn SMC With Kushal — What Is an Order Block? SMC & ICT Concepts (Bengali)](https://www.youtube.com/watch?v=2NcfoTl1PjQ) — Explains baseline order block and imbalance identification in Bengali.
+- [Guardeer — Order Block, FVG & Order Flow In SMC: Lecture 4 (Hindi)](https://www.youtube.com/watch?v=qEMhYlT6gwk) — Covers FVG, order blocks and institutional order flow in Hindi (paired with [Whale Eyes Lecture 4](https://www.youtube.com/watch?v=S42z2Em4WNc&list=PLIusEm0IfW4k)).
+
 [← Pools, voids and premium/discount: organize the range before the zones](13-liquidity-pools-ranges.md) · [Advanced order blocks: improve the definition before adding filters →](07-advanced-order-block.md)

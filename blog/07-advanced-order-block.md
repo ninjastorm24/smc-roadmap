@@ -45,4 +45,12 @@ This original article expands [workbook lesson 07](../lessons/07-advanced-order-
 - [TTrades - order blocks simplified](https://ttrades.com/order-blocks-simplified/)
 - [TTrades - order blocks for continuations](https://ttrades.com/using-order-blocks-for-continuations/)
 
+## Video resources
+
+- [TTrades — Orderblocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=Y8DkNYhq0X0) — Details order block boundary selection, opening-price/mean-threshold levels and validation criteria.
+- [TTrades — Trade Continuations Using Order Blocks](https://www.youtube.com/watch?v=IJcfC6wAPZU) — Shows how continuation order blocks form in alignment with the prevailing trend.
+- [TTrades — Why Your Continuations Fail (Order Blocks + CISD Explained)](https://www.youtube.com/watch?v=PQiRV0JMhIQ) — Examines why order block candidates fail when context or confirmation prerequisites are missing.
+- [Mulham Trading — High Probability Order Blocks Secrets: ICT/SMC Concepts (Full Guide)](https://www.youtube.com/watch?v=C56yGRqU1oY) — Provides a checklist for filtering valid versus low-quality order block candidates.
+- [Learn SMC With Kushal — Valid vs. Invalid Order Blocks: SMC & ICT Concepts (Bengali)](https://www.youtube.com/watch?v=ilTdQXb-X1E) — Contrasts valid and invalid order block candidates on live charts in Bengali (see also [Only These Order Blocks Actually Work](https://www.youtube.com/watch?v=6XfuyQQ6pHs)).
+
 [← FVG, inverse FVG and order blocks: three ideas, three rule sets](06-fvg-ifvg-order-block-imbalance.md) · [Rejection blocks, breakers and Unicorns: follow the formation sequence →](08-rejection-breaker-unicorn.md)

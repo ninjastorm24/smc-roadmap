@@ -45,4 +45,12 @@ This original article expands [workbook lesson 22](../lessons/22-fibonacci-sd-ao
 - [TTrades - Optimal Trade Entry (OTE)](https://ttrades.com/optimal-trade-entry-explained-how-to-use-ote-like-a-pro/)
 - [TTrades - standard deviation projections](https://ttrades.com/standard-deviation-projections/)
 
+## Video resources
+
+- [TTrades — Optimal Trade Entry (OTE): ICT Concepts](https://www.youtube.com/watch?v=1YRs4Z1lMws) — Shows how to anchor the Fibonacci tool on confirmed swings to locate the 62%–79% OTE retracement zone.
+- [TTrades — Standard Deviation Projections: ICT Concepts](https://www.youtube.com/watch?v=kTWXpAo1uE8) — Demonstrates settings and anchor rules for standard deviation target projections (see also [AMD & Standard Deviations](https://www.youtube.com/watch?v=Pcbyc9TdNsU)).
+- [TTrades — You Are Using Discount and Premium Wrong! EQ For Expansions](https://www.youtube.com/watch?v=IPZjNI1B5a0) — Clarifies how equilibrium (50%) and range anchors should be applied during expansions.
+- [Mulham Trading — Simple Trading Tool to Make More (OTE & Inducement)](https://www.youtube.com/watch?v=VVXz5NCXtxI) — Combines Optimal Trade Entry (OTE) retracement levels with inducement sweeps.
+- [Guardeer Student — Whale Eyes Course Lecture 13: Fibonacci, OTE & PD Array Alignment (Hindi)](https://www.youtube.com/watch?v=g7qAN9IZCTg&list=PLIusEm0IfW4k) — Explains retracement measurement, OTE zones and PD array confluence in Hindi.
+
 [← AMD and the Judas Swing: keep the unfinished day unfinished](20-amd-judas-swing.md) · [Quarterly theory: make the time hypothesis falsifiable →](23-quarterly-theory.md)

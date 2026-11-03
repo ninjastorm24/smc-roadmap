@@ -48,4 +48,13 @@ This original article expands [workbook lesson 04](../lessons/04-inducement.md).
 - [The Right Trader - inducement (IDM)](https://therighttrader.com/learn/smart-money-concepts/inducement)
 - [TTrades - basic market structure](https://ttrades.com/understanding-basic-market-structure-in-trading/)
 
+## Video resources
+
+- [TTrades — Inducement: ICT Concepts](https://www.youtube.com/watch?v=-GkOTMYoJT4) — Defines inducement pivots inside a dealing range and how they relate to nearby zones.
+- [TTrades — Intro to the Inducement Model: ICT Concepts](https://www.youtube.com/watch?v=k3hTgbHBz1U) — Examines how minor swing sweeps occur prior to a larger structural reaction.
+- [Mulham Trading — Why Most ICT/SMC Traders Fail! Liquidity & Inducement Secrets](https://www.youtube.com/watch?v=_6cvdY3Alws) — Illustrates common inducement mislabeling errors and how to define IDM mechanically.
+- [Mulham Trading — The Secrets to High Winrate Liquidity Sweeps (Inducement)](https://www.youtube.com/watch?v=hVSIs5qb9Uk) — Focuses on identifying internal inducement levels before committing to a point of interest.
+- [Guardeer — BOS, CHoCH & Inducement In SMC: Lecture 3 (Hindi)](https://www.youtube.com/watch?v=46wLDbl2_d0) — Explains how inducement connects to BOS and CHoCH in SMC structure mapping.
+- [Learn SMC With Kushal — How to Draw Market Structure & Inducement (Bengali)](https://www.youtube.com/watch?v=RWNZnjtJP7s) — Shows how minor swings and inducement interact with trend structure in Bengali.
+
 [← Swing highs and lows: the price level and the time you could know it](03-swing-identification.md) · [Market structure across two scales: BOS, CHoCH and protected levels →](05-advanced-market-structure.md)

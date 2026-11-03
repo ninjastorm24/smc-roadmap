@@ -157,6 +157,7 @@ export function rewriteMarkdownLink(href, currentRelativeRoot, sourceFilePath = 
 
 export function loadAndValidateArticles() {
   const blogDir = path.join(REPO_ROOT, 'blog');
+  const blogBnDir = path.join(blogDir, 'bn');
   const lessonsDir = path.join(REPO_ROOT, 'lessons');
 
   if (!fs.existsSync(blogDir) || !fs.existsSync(lessonsDir)) {
@@ -251,6 +252,46 @@ export function loadAndValidateArticles() {
 
     const bodyMarkdown = substantiveLines.join('\n');
 
+    // Load matching Bangla translation from blog/bn/<slug>.md if present
+    let titleBn = title;
+    let descriptionBn = description;
+    let readingMinutesBn = readingEstimate;
+    let bodyMarkdownBn = '';
+    const fullBlogBnPath = path.join(blogBnDir, fileName);
+
+    if (fs.existsSync(fullBlogBnPath)) {
+      const rawBnContent = fs.readFileSync(fullBlogBnPath, 'utf8');
+      const bnLines = rawBnContent.split('\n');
+
+      if (!bnLines[0] || !bnLines[0].startsWith('# ')) {
+        throw new Error(`Line 1 of blog/bn/${fileName} is not an H1 title`);
+      }
+      titleBn = bnLines[0].replace(/^#\s+/, '').trim();
+
+      descriptionBn = (bnLines[2] || '').trim();
+      if (!descriptionBn) {
+        throw new Error(`Standfirst missing on line 3 of blog/bn/${fileName}`);
+      }
+
+      const bnMetaMatch = (bnLines[4] || '').match(/\*\*Lesson\s+(\d+)\s+·\s+Week\s+(\d+)\s+·\s+(.*?)\*\*/);
+      if (bnMetaMatch) {
+        readingMinutesBn = bnMetaMatch[3].trim();
+      }
+
+      const bnSubstantiveLines = bnLines.slice(8);
+      while (bnSubstantiveLines.length > 0 && bnSubstantiveLines[bnSubstantiveLines.length - 1].trim() === '') {
+        bnSubstantiveLines.pop();
+      }
+      const bnLastLine = bnSubstantiveLines[bnSubstantiveLines.length - 1] || '';
+      if (bnLastLine.startsWith('[') && bnLastLine.endsWith(')')) {
+        bnSubstantiveLines.pop();
+      }
+      while (bnSubstantiveLines.length > 0 && bnSubstantiveLines[bnSubstantiveLines.length - 1].trim() === '') {
+        bnSubstantiveLines.pop();
+      }
+      bodyMarkdownBn = bnSubstantiveLines.join('\n');
+    }
+
     const article = {
       studyOrder: def.studyOrder,
       week: def.week,
@@ -260,12 +301,16 @@ export function loadAndValidateArticles() {
       topic: def.topic,
       aliases: def.aliases,
       title,
+      titleBn,
       description,
+      descriptionBn,
       readingMinutes: readingEstimate,
+      readingMinutesBn,
       sourcePath: `blog/${fileName}`,
       worksheetPath: `lessons/${fileName}`,
       worksheetUrl: `${GITHUB_REPO_URL}/blob/main/lessons/${fileName}`,
-      bodyMarkdown
+      bodyMarkdown,
+      bodyMarkdownBn
     };
 
     articles.push(article);
@@ -415,7 +460,7 @@ export function loadSourceRoadmap() {
   return { weeks };
 }
 
-export function renderArticleMarkdown(markdown, relativeRoot = '../../', sourceFilePath = 'blog/dummy.md') {
+export function renderArticleMarkdown(markdown, relativeRoot = '../../', sourceFilePath = 'blog/dummy.md', idPrefix = '') {
   // Extract headings and collect IDs
   const headings = [];
   const usedIds = new Set();
@@ -429,6 +474,7 @@ export function renderArticleMarkdown(markdown, relativeRoot = '../../', sourceF
     cleanText = cleanText.replace(/<[^>]+>/g, '').trim();
     let id = slugifyHeading(cleanText);
     if (!id) id = `heading-${headings.length + 1}`;
+    if (idPrefix) id = `${idPrefix}${id}`;
     let uniqueId = id;
     let counter = 1;
     while (usedIds.has(uniqueId)) {

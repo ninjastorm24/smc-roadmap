@@ -45,4 +45,14 @@ This original article expands [workbook lesson 16](../lessons/16-time-price-deal
 - [TTrades - understanding dealing ranges](https://ttrades.com/understanding-dealing-ranges-in-trading-get-better-risk-reward/)
 - [TTrades - important OHLC time levels](https://ttrades.com/mastering-important-time-levels-in-trading-with-ohlc-and-opposing-swings/)
 
+## Video resources
+
+- [TTrades — Understanding Dealing Ranges in Trading (Get Better Risk Reward)](https://www.youtube.com/watch?v=yb3Te7tiGRk) — Shows how confirmed dealing range anchors frame equilibrium and session targets.
+- [TTrades — Important Time Levels For Trading](https://www.youtube.com/watch?v=EYzP7c24AwM) — Covers Midnight Open, 8:30 AM NY Open and key session opening price references.
+- [TTrades — ICT Killzones & Indicator Settings](https://www.youtube.com/watch?v=MPeeE55rNOw) — Defines Asian, London and New York killzone windows and timezone settings.
+- [TTrades — How To Use The Economic Calendar For Trading](https://www.youtube.com/watch?v=hKCMqh0ZsY0) — Explains how scheduled high-impact news releases affect session timing and trade eligibility.
+- [FX Journal — Time + Price = The Edge? Advanced Time & Price Theory Master Class (Bengali)](https://www.youtube.com/watch?v=2G6GRe715dQ) — Deep dive into combining time windows with dealing range price levels in Bengali.
+- [Learn SMC With Kushal — ICT Dealing Range Strategy & Kill Zones (Bengali)](https://www.youtube.com/watch?v=6bg6pXMIfhs) — Explains dealing ranges and [ICT Kill Zones](https://www.youtube.com/watch?v=yr9_2JXEx0Y) in Bengali.
+- [Guardeer — Killzone, OTE, CBDR, and Narrative with 3B's in SMC: Lecture 10 (Hindi)](https://www.youtube.com/watch?v=CK5jXz_io38) — Covers killzones, CBDR and session narrative in Hindi (paired with [Whale Eyes Lecture 10](https://www.youtube.com/watch?v=gTNgSy2Ge2Y&list=PLIusEm0IfW4k)).
+
 [← Daily bias: write a hypothesis that can change your mind](15-daily-bias.md) · [From daily bias to a session plan someone else can follow →](17-applying-bias.md)

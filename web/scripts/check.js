@@ -182,8 +182,12 @@ export function runChecks() {
       emptyArticles++;
       assert(false, `Article ${art.slug} missing worksheet button`);
     }
+    if (!artHtml.includes('id="lang-toggle-btn"') || !artHtml.includes('id="prose-bn"') || !art.titleBn) {
+      emptyArticles++;
+      assert(false, `Article ${art.slug} missing Bangla toggle button or Bangla prose content`);
+    }
   }
-  assert(emptyArticles === 0, 'All 26 articles contain their full titles, descriptions, and worksheet buttons');
+  assert(emptyArticles === 0, 'All 26 articles contain their full titles, descriptions, worksheet buttons, and Bangla translations');
 
   console.log('\n----------------------------------------');
   if (failures.length > 0) {

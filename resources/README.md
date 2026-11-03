@@ -24,6 +24,7 @@ Use the resource links on your current lesson first. Pick **one primary explanat
 | Reviewing decisions | [N08](#n08) |
 | Backtesting pitfalls | [N09](#n09) |
 | Scheduled U.S. events | [N11](#n11), [N12](#n12) |
+| Educator video channels | [Video channels & playlists](#video-channels) |
 
 <a id="n01"></a>
 ## N01 — TradingView — Learn to trade on historical data
@@ -193,3 +194,15 @@ Adds a public SMT explanation for comparison. It does not supply the course’s 
 **Try this:** Compare matching timestamps on a related pair; record divergence and non-divergence without changing your primary traded instrument.
 
 **Access check:** Page read.
+
+<a id="video-channels"></a>
+## Educator video channels and playlists
+
+Each of the [26 blog articles](../blog/README.md) now includes a **Video resources** section linking directly to topic-matched lessons from these channels and playlists:
+
+- [TTrades (@TTrades_edu)](https://www.youtube.com/@TTrades_edu) — English tutorials and playlists covering market structure, FVGs, order blocks, breaker/mitigation blocks, POIs, dealing ranges, daily bias, MSS vs. CISD, AMD, OTE, standard deviations, Silver Bullet, SMT and backtesting.
+- [Mulham Trading (@MulhamTrading)](https://www.youtube.com/@MulhamTrading) — English step-by-step courses and backtesting walkthroughs on market structure, inducement, liquidity sweeps, FVGs/iFVGs, order blocks, BPR, CRT, Judas Swing and trading math.
+- [Learn SMC With Kushal (@learn-smc-with-kushal)](https://www.youtube.com/@learn-smc-with-kushal) — Bengali SMC and ICT series covering candlestick psychology, valid pullbacks and swings, market structure, order blocks, breaker/mitigation blocks, internal/external liquidity, dealing ranges, kill zones, daily bias, Judas Swing, CRT and AMDX/XAMD.
+- [FX Journal (@FxJournal)](https://www.youtube.com/@FxJournal) — Bengali masterclasses on advanced market structure, liquidity voids, dealing range theory, Unicorn model, daily bias application, Time & Price theory, MSS/CISD/TBS/TWS, Judas Swing, CRT + TBS, Quarterly Theory (AMDX/XAMD), SMT divergence and free backtesting.
+- [Guardeer (@Guardeer)](https://www.youtube.com/@Guardeer) — Hindi SMC and ICT lecture series covering fractals, BOS/CHoCH and inducement, order blocks/FVG/order flow, liquidity, POIs, all block types (breaker, reclaimed, mitigation), STH/STL/ITH/ITL hierarchy, daily bias and killzones/OTE.
+- [Guardeer Student — Whale Eyes Course Playlist](https://www.youtube.com/watch?v=hTblWjQEbAY&list=PLIusEm0IfW4k) — 15-lecture Hindi masterclass playlist plus advanced STH/STL/ITH/ITL and mentorship lectures expanding the SMC curriculum on live charts.

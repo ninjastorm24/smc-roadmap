@@ -47,4 +47,13 @@ This original article expands [workbook lesson 08](../lessons/08-rejection-break
 - [TTrades - breaker blocks simplified](https://ttrades.com/breaker-blocks-simplified/)
 - [TTrades - unicorn entry model](https://ttrades.com/the-unicorn-entry-model-explained-breaker-blocks-and-fair-value-gaps/)
 
+## Video resources
+
+- [TTrades — Breaker Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=75S4vwD4P1U) — Walks through the swing sequence that turns a failed order block into a breaker block.
+- [TTrades — Breaker Block & FVG Entry Model (Unicorn): ICT Concepts](https://www.youtube.com/watch?v=rXMVPUZPw4A) — Explains the Unicorn model where a breaker block and fair value gap overlap.
+- [TTrades — Master Candlestick Wicks: The Key To Catching Reversals](https://www.youtube.com/watch?v=LKNQDAdId4s) — Examines rejection wicks and how wick-based areas behave at key extremes.
+- [FX Journal — The Unicorn Model SMC/ICT Explained (Bengali)](https://www.youtube.com/watch?v=95IJoF4U-6Y) — Step-by-step breakdown of the breaker + FVG Unicorn setup in Bengali (see also [Best Breaker Block Strategy Bangla](https://www.youtube.com/watch?v=ltibPaz9-Ro)).
+- [Learn SMC With Kushal — What Is a Breaker Block and How to Trade It? (Bengali)](https://www.youtube.com/watch?v=hwXU-2qaO9Y) — Explains breaker block formation and retest rules in Bengali.
+- [Mulham Trading — ICT Breaker Block Strategy Real Backtesting: Practical Insights](https://www.youtube.com/watch?v=Lg0jjYB2loo) — Demonstrates backtesting a mechanical breaker block model across historical data.
+
 [← Advanced order blocks: improve the definition before adding filters](07-advanced-order-block.md) · [Mitigation, reclaimed levels and QML: describe the events before the label →](09-mitigation-reclaimed-qml.md)

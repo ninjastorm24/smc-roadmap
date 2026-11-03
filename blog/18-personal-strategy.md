@@ -45,4 +45,13 @@ This original article expands [workbook lesson 18](../lessons/18-personal-strate
 - [TTrades - a simple three-step trading model](https://ttrades.com/a-simple-3-step-trading-model-full-breakdown/)
 - [TTrades - how to backtest, step by step](https://ttrades.com/how-to-backtest-a-clear-step-by-step-approach/)
 
+## Video resources
+
+- [TTrades — A Simple 3-Step Trading Model (Full Breakdown)](https://www.youtube.com/watch?v=5Be2jPftFFw) — Video companion to the workbook’s 3-step model article, showing how context, location and confirmation fit into one playbook.
+- [TTrades — Position Sizing For Trading: Futures & Forex](https://www.youtube.com/watch?v=0OjlQ91TZiU) — Demonstrates calculating contract/lot size from stop distance and a fixed risk budget.
+- [TTrades — Stop Losses in Trading: Know When You're Wrong](https://www.youtube.com/watch?v=JHVaSKtE1Ys) — Explains defining mechanical stop-loss invalidation points before entering a trade.
+- [Mulham Trading — How to Build a Trading System That Actually Works (3 Steps)](https://www.youtube.com/watch?v=zDYSmAzA9vg) — Guides you through assembling a rules-based trading plan and checklist (see also [My Full Trading Plan Step by Step](https://www.youtube.com/watch?v=nX_TB0yvUO0)).
+- [FX Journal — My Own Trading Strategy That Changed My Career: Complete Master Plan (Bengali)](https://www.youtube.com/watch?v=tmmLm3XhcTo) — Shares a personal SMC trading playbook and execution checklist in Bengali (paired with [Trading Psychology: Why Are You Still Losing?](https://www.youtube.com/watch?v=VqqHL9ZZDSk)).
+- [Learn SMC With Kushal — Master Trading Psychology & Risk Management (Bengali)](https://www.youtube.com/watch?v=5wPAmIk8suU) — Discusses risk discipline, position sizing and avoiding emotional rule violations in Bengali.
+
 [← Quarterly theory: make the time hypothesis falsifiable](23-quarterly-theory.md) · [Candle Range Theory: separate the anchor, sweep and confirmation →](21-crt-tbs.md)

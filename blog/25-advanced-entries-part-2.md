@@ -57,4 +57,14 @@ This original article expands [workbook lesson 25](../lessons/25-advanced-entrie
 - [TTrades - how to trade inversion FVGs](https://ttrades.com/how-to-trade-inversion-fair-value-gaps/)
 - [TTrades - trading session kill zones](https://ttrades.com/kill-zones-explained-best-trading-sessions-for-entries/)
 
+## Video resources
+
+- [TTrades — How To Actually Trade Inversion Fair Value Gaps (IFVG)](https://www.youtube.com/watch?v=FKTBkTzsmUA) — Video companion to the workbook’s iFVG entry article, specifying close and retest triggers.
+- [TTrades — Balance Price Range (BPR): ICT Concepts](https://www.youtube.com/watch?v=yOPESX2aWkI) — Defines how opposing fair value gaps overlap to form a Balanced Price Range (BPR).
+- [TTrades — Intracandle CISD (IC-CISD): Improve Your Entries](https://www.youtube.com/watch?v=Vo2n47RjjMo) — Examines lower-timeframe confirmation triggers inside higher-timeframe candles.
+- [Mulham Trading — Use This For A Higher Probability Setup: ICT/SMC Balanced Price Range (BPR)](https://www.youtube.com/watch?v=WdHZswgrALQ) — Shows how to identify and trade valid BPR overlaps without forcing boundaries.
+- [Mulham Trading — Easy ICT/SMC Trading Strategy Using IFVG (Full Course)](https://www.youtube.com/watch?v=mcC4xg_gjnI) — Step-by-step mechanical guide to trading inverse fair value gaps.
+- [Learn SMC With Kushal — ICT Kill Zone Trading Strategy in Bengali (Bengali)](https://www.youtube.com/watch?v=yr9_2JXEx0Y) — Explains combining session killzone windows with SMC entry triggers in Bengali.
+- [Guardeer Student — Whale Eyes Course Lecture 14: Advanced Entry Triggers & Confirmation (Hindi)](https://www.youtube.com/watch?v=xS7hrYsOM_A&list=PLIusEm0IfW4k) — Demonstrates trigger auditing and entry execution in Hindi.
+
 [← Advanced entries, part 1: sort the families before choosing a model](24-advanced-entries-part-1.md) · [Advanced entries, part 3: finish the catalog and test one frozen playbook →](26-advanced-entries-part-3.md)

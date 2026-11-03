@@ -49,4 +49,13 @@ This original article expands [workbook lesson 12](../lessons/12-liquidity-grab-
 - [TTrades - buy-side and sell-side liquidity](https://ttrades.com/understanding-liquidity-buy-side-sell-side-and-swing-points/)
 - [TTrades - previous day high/low liquidity](https://ttrades.com/the-easiest-draw-on-liquidity/)
 
+## Video resources
+
+- [TTrades — Liquidity: Buyside & Sellside (ICT Concepts)](https://www.youtube.com/watch?v=U8xH2dEgH5A) — Introduces BSL and SSL reference levels above swing highs and below swing lows.
+- [TTrades — Market Structure Shift vs Liquidity Grab: ICT Concepts](https://www.youtube.com/watch?v=ynFA6E3qHj0) — Compares a liquidity sweep (wick/close back inside range) with a sustained structural break.
+- [TTrades — Internal & External Liquidity Using the TTrades Fractal Model](https://www.youtube.com/watch?v=vMq1l8Zzzjw) — Demonstrates how price alternates between internal range liquidity (IRL) and external range liquidity (ERL).
+- [Mulham Trading — External & Internal Liquidity: The ICT Concept You Need](https://www.youtube.com/watch?v=mKwLb10OQaY) — Breaks down ERL and IRL mapping and how sweeps set up the next draw on liquidity.
+- [Learn SMC With Kushal — External Liquidity & Internal Liquidity (Bengali)](https://www.youtube.com/watch?v=itDZVxbSaWw) — Explains external liquidity, [internal liquidity](https://www.youtube.com/watch?v=sI77_zJWMPo) and [fake breakouts/sweeps](https://www.youtube.com/watch?v=x38_aFtL_ZU) in Bengali.
+- [Guardeer — What Is Liquidity In SMC? Lecture 5 (Hindi)](https://www.youtube.com/watch?v=zCj2SWbpmOk) — Covers liquidity sweeps, grabs and range liquidity in Hindi (paired with [Whale Eyes Lecture 3](https://www.youtube.com/watch?v=G45-t-6DODE&list=PLIusEm0IfW4k) and [Lecture 5](https://www.youtube.com/watch?v=d7EfFwg6XN4&list=PLIusEm0IfW4k)).
+
 [← Price across timeframes: keep the information clock aligned](14-fractal-price.md) · [Pools, voids and premium/discount: organize the range before the zones →](13-liquidity-pools-ranges.md)

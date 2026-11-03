@@ -45,4 +45,13 @@ This original article expands [workbook lesson 17](../lessons/17-applying-bias.m
 - [TTrades - fractal top-down playbook](https://ttrades.com/fractal-model-playbook-aligning-daily-hourly-and-5-minute-charts/)
 - [TTrades - multiple-timeframe top-down analysis](https://ttrades.com/mastering-top-down-analysis-aligning-multiple-timeframes-for-expansion-trading/)
 
+## Video resources
+
+- [TTrades — Top Down Analysis: Daily Bias To Entries (ICT Concepts)](https://www.youtube.com/watch?v=wy3OSPxu5U0) — Connects daily bias, hourly structure/POI selection and lower-timeframe execution step by step.
+- [TTrades — Trade Like TTrades: Top Down Analysis](https://www.youtube.com/watch?v=iEaMbuFZb24) — Demonstrates a complete pre-session top-down routine from daily chart to execution trigger.
+- [Mulham Trading — Simple Top Down Analysis Strategy That Works (Step-by-Step Guide)](https://www.youtube.com/watch?v=GC-L_aper3Y) — Walks through aligning higher-timeframe bias with lower-timeframe entry confirmation.
+- [FX Journal — How to Apply BIAS on Live Chart: Daily BIAS Full Course (Bengali)](https://www.youtube.com/watch?v=N7GzQYQlzx8) — Directly addresses applying daily bias on live charts to build a session plan in Bengali.
+- [Learn SMC With Kushal — Even With the Setup, Why Didn't I Take the Trade? (Bengali)](https://www.youtube.com/watch?v=DhKP67DLH-s) — Illustrates pre-session filtering and why declining a trade that violates a condition is part of following a plan.
+- [Guardeer — Fractal + Bias + Structure + Liquidity = True ICT: Lecture 11 (Hindi)](https://www.youtube.com/watch?v=0zmD8iYhvpc) — Synthesizes fractal structure, bias and liquidity into one top-down chart workflow in Hindi.
+
 [← Time and price: define the range, then define the clock](16-time-price-dealing-range.md) · [MSS and CISD: compare the reference price and confirmation time →](19-mss-cisd-tbs-tws.md)

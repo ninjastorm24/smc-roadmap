@@ -47,4 +47,11 @@ This original article expands [workbook lesson 23](../lessons/23-quarterly-theor
 - [Quantum Algo - Quarterly Theory guide](https://www.quantum-algo.com/blog/guides/ict-quarterly-theory/)
 - [LiquidityPro - Daye Quarterly Theory](https://liquiditypro.com/daye-quarterly-theory-dqt/)
 
+## Video resources
+
+- [FX Journal — Quarterly Theory Full Master Class: AMDX, XAMD & True Open Explained (Bengali)](https://www.youtube.com/watch?v=nnwsRTfiTUQ) — Full masterclass dedicated to Quarterly Theory, 90-minute/daily quarters, AMDX versus XAMD cycles and True Open anchors.
+- [Learn SMC With Kushal — AMDX-XAMD SMC ICT Concept Strategy (Bengali)](https://www.youtube.com/watch?v=GK-TOd9PWU0) — Explains how to distinguish AMDX and XAMD quarterly profiles and avoid entering during the wrong phase.
+- [TTrades — Trading The 4 Hour Power Of Three: OHLC / OLHC](https://www.youtube.com/watch?v=FAKWJ-1NlLE) — Examines segmented four-hour time blocks and opening-price references across the trading day.
+- [TTrades — Why You Should Use 8:30 & Midnight Open (EST): ICT Concepts](https://www.youtube.com/watch?v=b6yvRKf8haE) — Covers fixed opening-time anchors used to measure session expansion and manipulation.
+
 [← Fibonacci, OTE and projections: the anchor rule comes first](22-fibonacci-sd-aox-ote.md) · [Build one trading playbook you can actually test →](18-personal-strategy.md)

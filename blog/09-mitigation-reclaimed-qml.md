@@ -45,4 +45,12 @@ This original article expands [workbook lesson 09](../lessons/09-mitigation-recl
 - [TTrades - mitigation blocks simplified](https://ttrades.com/mitigation-blocks-simplified/)
 - [Qazi Forex Tips - Quasimodo pattern (Hindi/Urdu video)](https://qaziforextips.com/lesson-quasimodo-pattern.html)
 
+## Video resources
+
+- [TTrades — Mitigation Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=bbWPoajy2MY) — Clarifies the structural difference between a mitigation block (failure swing) and a breaker block (liquidity sweep).
+- [Learn SMC With Kushal — What Is a Mitigation Block? How to Trade With It (Bengali)](https://www.youtube.com/watch?v=O-VqAtLPS6o) — Covers mitigation block identification and retest criteria in Bengali.
+- [Guardeer — All Block Types (Breaker, Reclaimed, Mitigation) In SMC: Lecture 7 (Hindi)](https://www.youtube.com/watch?v=ZGRXswei3kI) — Compares rejection, breaker, reclaimed and mitigation blocks in Hindi.
+- [Guardeer Student — Whale Eyes Course Lecture 7: Rejection Block, Reclaimed Order Block & Mitigation (Hindi)](https://www.youtube.com/watch?v=wsVOs1o1Yw8&list=PLIusEm0IfW4k) — Chart walkthrough of reclaimed order blocks, rejection blocks and reversal sequences.
+- [Mulham Trading — EVERY ICT PD Array Explained in 20 Minutes!](https://www.youtube.com/watch?v=4VUMUla4rXg) — Summarizes the full hierarchy of ICT PD arrays including mitigation, breaker and reclaimed zones.
+
 [← Rejection blocks, breakers and Unicorns: follow the formation sequence](08-rejection-breaker-unicorn.md) · [Choosing a point of interest: make the rejection decision explicit →](11-structure-based-poi.md)

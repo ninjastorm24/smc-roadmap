@@ -53,4 +53,13 @@ This original article expands [workbook lesson 19](../lessons/19-mss-cisd-tbs-tw
 - [TTrades - MSS vs. CISD explained](https://ttrades.com/market-structure-shifts-vs-change-in-the-state-of-delivery-a-clear-comparison/)
 - [TTrades - understanding CISD](https://ttrades.com/understanding-the-change-in-state-of-delivery-cisd/)
 
+## Video resources
+
+- [FX Journal — The Real Game of MSS, CISD, TBS, TWS: Master Class + Live Market Trade (Bengali)](https://www.youtube.com/watch?v=Lj9zeZArOV0) — Directly covers all four Lesson 19 concepts (MSS, CISD, TBS and TWS) with chart comparisons in Bengali.
+- [TTrades — Market Structure Shift vs Change In State Of Delivery (ICT)](https://www.youtube.com/watch?v=E89d1HArbgM) — Video companion to the workbook’s MSS versus CISD comparison article, contrasting swing-break and delivery-open references.
+- [TTrades — Change In State Of Delivery (CISD): Orderblock Formation](https://www.youtube.com/watch?v=CHIK5oBRKiw) — Details which candle opening prices define a CISD sequence and when confirmation occurs.
+- [TTrades — Market Structure Shift: ICT Concepts](https://www.youtube.com/watch?v=_94CPMjWi9E) — Explains displacement and swing selection for a valid Market Structure Shift.
+- [Mulham Trading — You Don't Need Market Structure Shift (Use CISD Instead!)](https://www.youtube.com/watch?v=fr1_cgCSBaw) — Compares early CISD triggers against later MSS confirmations and highlights the tradeoff between earlier fills and false signals.
+- [Guardeer Student — Whale Eyes Course Lecture 12: Reversal Delivery & Structure Confirmation (Hindi)](https://www.youtube.com/watch?v=ut-7CsocfFw&list=PLIusEm0IfW4k) — Examines candle delivery shifts and structural confirmation rules in Hindi.
+
 [← From daily bias to a session plan someone else can follow](17-applying-bias.md) · [AMD and the Judas Swing: keep the unfinished day unfinished →](20-amd-judas-swing.md)

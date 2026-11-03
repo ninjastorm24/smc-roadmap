@@ -470,6 +470,75 @@ async function runBrowserTests() {
     assert(links.metaBarWorksheetHref && links.metaBarWorksheetHref.startsWith('https://github.com/') && links.metaBarWorksheetHref.includes('/lessons/07-'), `Article 07 meta-bar worksheet link points to canonical GitHub lessons path ("${links.metaBarWorksheetHref}")`, failures);
     assert(links.endMatterWorksheetHref && links.endMatterWorksheetHref.startsWith('https://github.com/') && links.endMatterWorksheetHref.includes('/lessons/07-'), `Article 07 end-matter worksheet button points to canonical GitHub lessons path ("${links.endMatterWorksheetHref}")`, failures);
 
+    // --- TEST SUITE 12: Article Bangla Language Toggle ---
+    console.log('\n--- Test Suite 12: Article Bangla Language Toggle ---');
+    await page.setViewport({ width: 1440, height: 900 });
+    await page.goto(`${BASE_URL}/articles/01-orientation/`, { waitUntil: 'networkidle0' });
+
+    const initialLangState = await page.evaluate(() => {
+      const btn = document.getElementById('lang-toggle-btn');
+      const proseEn = document.getElementById('prose-en');
+      const proseBn = document.getElementById('prose-bn');
+      const title = document.querySelector('.article-page-title');
+      return {
+        btnExists: Boolean(btn),
+        ariaPressed: btn ? btn.getAttribute('aria-pressed') : null,
+        label: btn ? btn.querySelector('.lang-toggle-label')?.textContent.trim() : null,
+        enHidden: proseEn ? proseEn.classList.contains('hidden') : true,
+        bnHidden: proseBn ? proseBn.classList.contains('hidden') : false,
+        titleText: title ? title.textContent.trim() : ''
+      };
+    });
+    assert(initialLangState.btnExists && initialLangState.ariaPressed === 'false' && initialLangState.label === 'বাংলায় পড়ুন', 'Article 01 renders language toggle button in default English state ("বাংলায় পড়ুন")', failures);
+    assert(!initialLangState.enHidden && initialLangState.bnHidden, 'Article 01 shows English prose and hides Bangla prose initially', failures);
+
+    // Click to toggle to Bangla
+    await page.click('#lang-toggle-btn');
+    const banglaState = await page.evaluate(() => {
+      const btn = document.getElementById('lang-toggle-btn');
+      const proseEn = document.getElementById('prose-en');
+      const proseBn = document.getElementById('prose-bn');
+      const title = document.querySelector('.article-page-title');
+      const standfirst = document.querySelector('.article-standfirst');
+      const tocEn = document.querySelector('.article-sidebar .toc-list-en');
+      const tocBn = document.querySelector('.article-sidebar .toc-list-bn');
+      return {
+        ariaPressed: btn ? btn.getAttribute('aria-pressed') : null,
+        label: btn ? btn.querySelector('.lang-toggle-label')?.textContent.trim() : null,
+        enHidden: proseEn ? proseEn.classList.contains('hidden') : false,
+        bnHidden: proseBn ? proseBn.classList.contains('hidden') : true,
+        tocEnHidden: tocEn ? tocEn.classList.contains('hidden') : false,
+        tocBnHidden: tocBn ? tocBn.classList.contains('hidden') : true,
+        titleLang: title ? title.getAttribute('lang') : null,
+        titleText: title ? title.textContent.trim() : '',
+        standfirstText: standfirst ? standfirst.textContent.trim() : '',
+        proseBnText: proseBn ? proseBn.textContent.trim() : ''
+      };
+    });
+    assert(banglaState.ariaPressed === 'true' && banglaState.label === 'Read in English', 'Clicking toggle button updates state to Bangla and button label to "Read in English"', failures);
+    assert(banglaState.enHidden && !banglaState.bnHidden && banglaState.tocEnHidden && !banglaState.tocBnHidden, 'Clicking toggle button reveals Bangla prose & TOC and hides English prose & TOC', failures);
+    assert(banglaState.titleLang === 'bn' && /[\u0980-\u09FF]/.test(banglaState.titleText) && /[\u0980-\u09FF]/.test(banglaState.proseBnText), 'Article title, standfirst, and body render human-readable Bengali script', failures);
+
+    await checkHorizontalOverflow('Article 01 in Bangla mode at 1440px');
+    await page.setViewport({ width: 390, height: 844 });
+    await checkHorizontalOverflow('Article 01 in Bangla mode at 390px mobile');
+
+    // Click again to toggle back to English
+    await page.click('#lang-toggle-btn');
+    const restoredEnglishState = await page.evaluate(() => {
+      const btn = document.getElementById('lang-toggle-btn');
+      const proseEn = document.getElementById('prose-en');
+      const proseBn = document.getElementById('prose-bn');
+      const title = document.querySelector('.article-page-title');
+      return {
+        ariaPressed: btn ? btn.getAttribute('aria-pressed') : null,
+        enHidden: proseEn ? proseEn.classList.contains('hidden') : true,
+        bnHidden: proseBn ? proseBn.classList.contains('hidden') : false,
+        titleText: title ? title.textContent.trim() : ''
+      };
+    });
+    assert(restoredEnglishState.ariaPressed === 'false' && !restoredEnglishState.enHidden && restoredEnglishState.bnHidden && restoredEnglishState.titleText === initialLangState.titleText, 'Clicking toggle button a second time restores original English title and prose', failures);
+
   } finally {
     if (browser) await browser.close();
     server.close();

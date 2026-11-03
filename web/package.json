@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.js",
+    "dev": "node scripts/dev.js",
     "serve": "node scripts/serve.js",
     "check": "node scripts/check.js && node tests/browser.test.js",
     "check:static": "node scripts/check.js",

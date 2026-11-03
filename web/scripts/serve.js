@@ -33,7 +33,7 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
-export function startServer(port = PORT, host = HOST) {
+export function startServer(port = PORT, host = HOST, development = {}) {
   if (!fs.existsSync(DIST_DIR)) {
     console.error('Error: dist directory does not exist. Run "npm run build" first.');
     process.exit(1);
@@ -42,6 +42,8 @@ export function startServer(port = PORT, host = HOST) {
   const realDistDir = fs.realpathSync(DIST_DIR);
 
   const server = http.createServer((req, res) => {
+    if (development.handleRequest?.(req, res)) return;
+
     let rawPath = (req.url || '/').split('?')[0].split('#')[0];
 
     // Decode URL components safely
@@ -116,6 +118,11 @@ export function startServer(port = PORT, host = HOST) {
       'Cache-Control': 'no-cache',
       'X-Content-Type-Options': 'nosniff'
     });
+
+    if (ext === '.html' && development.transformHtml) {
+      res.end(development.transformHtml(fs.readFileSync(targetPath, 'utf8')));
+      return;
+    }
 
     const readStream = fs.createReadStream(targetPath);
     readStream.pipe(res);

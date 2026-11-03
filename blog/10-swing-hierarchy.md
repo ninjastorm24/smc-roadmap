@@ -50,4 +50,12 @@ This original article expands [workbook lesson 10](../lessons/10-swing-hierarchy
 - [Penchan - STH / ITH / LTH structure guide](https://penchan.co/en/market/ict-market-structure-concepts/)
 - [TTrades - advanced market structure](https://ttrades.com/advanced-market-structure-simplified-from-short-term-to-long-term-trends/)
 
+## Video resources
+
+- [Guardeer — What Is ITH / ITL / STH / STL In SMC? Lecture 8 (Hindi)](https://www.youtube.com/watch?v=omZpI1DbYRI) — Directly teaches the STH, STL, ITH and ITL swing hierarchy in Hindi.
+- [Guardeer Student — Whale Eyes Course Lecture 8: STH/STL & ITH/ITL Mapping (Hindi)](https://www.youtube.com/watch?v=1eHxsgW2oXk&list=PLIusEm0IfW4k) — Full masterclass lecture marking STH/STL and ITH/ITL across live chart structures.
+- [Guardeer Student — Master Class: ITH, ITL, STH, STL Advanced Level vs BOS/CHoCH/IDM (Hindi)](https://www.youtube.com/watch?v=xk5dOT-nqyo) — Focused comparison of STH/ITH/LTH hierarchy against standard BOS/CHoCH/IDM labels.
+- [TTrades — Key Market Levels: Long, Intermediate & Short Term Lows and Highs](https://www.youtube.com/watch?v=A8SneEwpQrc) — Visual overview of how STL/STH nest inside ITL/ITH and LTL/LTH.
+- [TTrades — Intermediate Term Lows and Highs Role in Market Structure](https://www.youtube.com/watch?v=d0x29IO1CQQ) — Explains why intermediate-term pivots anchor trend continuation and invalidation.
+
 [← Market structure across two scales: BOS, CHoCH and protected levels](05-advanced-market-structure.md) · [Price across timeframes: keep the information clock aligned →](14-fractal-price.md)

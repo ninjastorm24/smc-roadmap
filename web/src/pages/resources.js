@@ -64,6 +64,43 @@ export function renderResourcesPage(resourceData, relativeRoot = '../') {
         </div>
       </section>
 
+      <section class="resource-category" id="video-channels" aria-label="Educator video channels and playlists">
+        <h2 class="resource-category-title">Educator Video Channels &amp; Playlists</h2>
+        <p class="article-summary" style="margin-bottom: 20px;">Each of the 26 companion articles includes topic-matched video lessons from these six channels and course playlists.</p>
+        <div class="download-grid">
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">TTrades (@TTrades_edu)</h3>
+            <p class="article-summary">English tutorials on market structure, FVGs, iFVGs, order blocks, breakers, mitigation, POIs, dealing ranges, daily bias, MSS vs. CISD, AMD, OTE and backtesting.</p>
+            <a href="https://www.youtube.com/@TTrades_edu" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+          </div>
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">Mulham Trading (@MulhamTrading)</h3>
+            <p class="article-summary">English courses and backtests covering market structure, inducement, liquidity sweeps, FVGs, order blocks, BPR, CRT, Judas Swing and trading math.</p>
+            <a href="https://www.youtube.com/@MulhamTrading" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+          </div>
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">Learn SMC With Kushal (@learn-smc-with-kushal)</h3>
+            <p class="article-summary">Bengali SMC &amp; ICT video series covering pullbacks, swings, market structure, order/breaker/mitigation blocks, liquidity, dealing ranges, kill zones, CRT and AMDX/XAMD.</p>
+            <a href="https://www.youtube.com/@learn-smc-with-kushal" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+          </div>
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">FX Journal (@FxJournal)</h3>
+            <p class="article-summary">Bengali masterclasses on advanced market structure, liquidity voids, dealing ranges, Unicorn model, daily bias, Time &amp; Price, MSS/CISD/TBS/TWS, CRT + TBS and Quarterly Theory.</p>
+            <a href="https://www.youtube.com/@FxJournal" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+          </div>
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">Guardeer (@Guardeer)</h3>
+            <p class="article-summary">Hindi SMC &amp; ICT lectures on fractals, BOS/CHoCH &amp; inducement, order blocks/FVG, liquidity, POIs, block types, STH/STL/ITH/ITL hierarchy, bias and killzones.</p>
+            <a href="https://www.youtube.com/@Guardeer" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+          </div>
+          <div class="download-card">
+            <h3 style="font-size: 1.2rem;">Whale Eyes Course Playlist (Guardeer Student)</h3>
+            <p class="article-summary">15-lecture Hindi masterclass playlist plus advanced STH/STL/ITH/ITL and mentorship lectures expanding SMC concepts on charts.</p>
+            <a href="https://www.youtube.com/watch?v=hTblWjQEbAY&list=PLIusEm0IfW4k" class="read-link" target="_blank" rel="noopener noreferrer">Open course playlist &rarr;</a>
+          </div>
+        </div>
+      </section>
+
       <section class="resource-category" id="external-reading" aria-label="Curated external reading">
         <h2 class="resource-category-title">Curated Reading by Week</h2>
         <p class="article-summary" style="margin-bottom: 20px;">Ten selected articles to read alongside corresponding weekly lessons. These provide vocabulary comparisons, visual examples, and research cautions.</p>

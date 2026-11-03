@@ -96,8 +96,8 @@
 
       // Update count & no matches state
       if (filterCount) {
-        if (matchCount === 26) {
-          filterCount.textContent = 'Showing all 26 articles';
+        if (matchCount === articleItems.length) {
+          filterCount.textContent = `Showing all ${articleItems.length} articles`;
         } else if (matchCount === 1) {
           filterCount.textContent = 'Showing 1 article';
         } else {
@@ -213,5 +213,100 @@
     });
 
     articleHeadings.forEach((heading) => observer.observe(heading));
+  }
+
+  // --- Article Language Toggle (English / Bangla) ---
+  const langToggleBtn = document.getElementById('lang-toggle-btn');
+  const proseEn = document.getElementById('prose-en');
+  const proseBn = document.getElementById('prose-bn');
+
+  if (langToggleBtn && proseEn && proseBn) {
+    const titleEl = document.querySelector('.article-page-title');
+    const standfirstEl = document.querySelector('.article-standfirst');
+    const readingTimeEl = document.getElementById('article-reading-time');
+    const studyOrderEl = document.getElementById('article-study-order');
+    const tocListsEn = Array.from(document.querySelectorAll('.toc-list-en'));
+    const tocListsBn = Array.from(document.querySelectorAll('.toc-list-bn'));
+    const tocNavTitle = document.querySelector('.toc-nav-title');
+    const tocDisclosureSummary = document.querySelector('.toc-disclosure summary');
+    const badgeEl = langToggleBtn.querySelector('.lang-toggle-badge');
+    const labelEl = langToggleBtn.querySelector('.lang-toggle-label');
+
+    function setArticleLanguage(lang) {
+      const isBangla = lang === 'bn';
+      langToggleBtn.setAttribute('data-lang', isBangla ? 'bn' : 'en');
+      langToggleBtn.setAttribute('aria-pressed', isBangla ? 'true' : 'false');
+
+      if (badgeEl) {
+        badgeEl.textContent = isBangla ? 'EN' : 'বাংলা';
+      }
+      if (labelEl) {
+        labelEl.textContent = isBangla ? 'Read in English' : 'বাংলায় পড়ুন';
+      }
+
+      if (isBangla) {
+        proseEn.classList.add('hidden');
+        proseBn.classList.remove('hidden');
+        tocListsEn.forEach((el) => el.classList.add('hidden'));
+        tocListsBn.forEach((el) => el.classList.remove('hidden'));
+      } else {
+        proseBn.classList.add('hidden');
+        proseEn.classList.remove('hidden');
+        tocListsBn.forEach((el) => el.classList.add('hidden'));
+        tocListsEn.forEach((el) => el.classList.remove('hidden'));
+      }
+
+      if (titleEl) {
+        const nextTitle = titleEl.getAttribute(isBangla ? 'data-title-bn' : 'data-title-en');
+        if (nextTitle) titleEl.textContent = nextTitle;
+        if (isBangla) {
+          titleEl.setAttribute('lang', 'bn');
+        } else {
+          titleEl.removeAttribute('lang');
+        }
+      }
+
+      if (standfirstEl) {
+        const nextDesc = standfirstEl.getAttribute(isBangla ? 'data-desc-bn' : 'data-desc-en');
+        if (nextDesc) standfirstEl.textContent = nextDesc;
+        if (isBangla) {
+          standfirstEl.setAttribute('lang', 'bn');
+        } else {
+          standfirstEl.removeAttribute('lang');
+        }
+      }
+
+      if (readingTimeEl) {
+        const nextTime = readingTimeEl.getAttribute(isBangla ? 'data-time-bn' : 'data-time-en');
+        if (nextTime) readingTimeEl.textContent = nextTime;
+      }
+
+      if (studyOrderEl) {
+        const nextOrder = studyOrderEl.getAttribute(isBangla ? 'data-order-bn' : 'data-order-en');
+        if (nextOrder) studyOrderEl.textContent = nextOrder;
+      }
+
+      if (tocNavTitle) {
+        const nextToc = tocNavTitle.getAttribute(isBangla ? 'data-toc-bn' : 'data-toc-en');
+        if (nextToc) tocNavTitle.textContent = nextToc;
+      }
+
+      if (tocDisclosureSummary) {
+        const nextSummary = tocDisclosureSummary.getAttribute(isBangla ? 'data-toc-bn' : 'data-toc-en');
+        if (nextSummary) tocDisclosureSummary.textContent = nextSummary;
+      }
+    }
+
+    langToggleBtn.addEventListener('click', () => {
+      const currentLang = langToggleBtn.getAttribute('data-lang') || 'en';
+      const nextLang = currentLang === 'en' ? 'bn' : 'en';
+      setArticleLanguage(nextLang);
+    });
+
+    // Optional URL query parameter support (?lang=bn)
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('lang') === 'bn') {
+      setArticleLanguage('bn');
+    }
   }
 })();

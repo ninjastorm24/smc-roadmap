@@ -16,6 +16,8 @@ Open [the task board](plan/BOARD.md). Gemini implements a focused task and recor
 
 ## Reproduction Commands
 
+For automatic rebuilds and browser refresh, run `npm run dev` from `web/`, then open http://127.0.0.1:3000/. It watches page templates, styles, scripts and source content. Stop it with Ctrl+C. Use `PORT=3001 npm run dev` if port 3000 is occupied.
+
 Run from the `web/` directory:
 
 ```bash

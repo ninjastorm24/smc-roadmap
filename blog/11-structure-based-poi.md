@@ -45,4 +45,12 @@ This original article expands [workbook lesson 11](../lessons/11-structure-based
 - [TTrades - points of interest that matter](https://ttrades.com/the-only-points-of-interest-that-actually-matter-for-trading/)
 - [TTrades - internal / external range liquidity](https://ttrades.com/trading-irl-erl-with-order-blocks-a-practical-guide-to-ict-concepts/)
 
+## Video resources
+
+- [TTrades — The Only Points of Interest That Actually Matter For Trading](https://www.youtube.com/watch?v=NqSbvqDKML0) — Video companion to the workbook’s POI article, showing how to filter and rank candidate zones.
+- [TTrades — Higher Time Frame Points of Interest: ICT Concepts](https://www.youtube.com/watch?v=hh_kKK4Fhrw) — Explains how higher-timeframe POIs provide location context for lower-timeframe triggers.
+- [TTrades — Trading IRL & ERL With Order Blocks! ICT Concepts](https://www.youtube.com/watch?v=TfHlNgAZ_II) — Connects internal and external range liquidity to structure-based POI selection.
+- [Guardeer — What Is POI In SMC? Lecture 6 (Hindi)](https://www.youtube.com/watch?v=A1LOTQ0R8ww) — Dedicated Hindi lecture on identifying and filtering structure-based Points of Interest (paired with [Whale Eyes Lecture 6](https://www.youtube.com/watch?v=-Y0EmynDEac&list=PLIusEm0IfW4k)).
+- [Mulham Trading — Market Structure Masterclass (SMC Full Strategy)](https://www.youtube.com/watch?v=NRuC72gxu04) — Shows how to pair structural range boundaries with high-probability POI selection.
+
 [← Mitigation, reclaimed levels and QML: describe the events before the label](09-mitigation-reclaimed-qml.md) · [Daily bias: write a hypothesis that can change your mind →](15-daily-bias.md)
