@@ -50,6 +50,8 @@ This original article expands [workbook lesson 04](../lessons/04-inducement.md).
 
 ## Video resources
 
+- **FX Journal** — [INDUCEMENTS (IDM) | Smart Money Concepts | SMC | Part 3](https://www.youtube.com/watch?v=0O85VgqEJ7M&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Core Part 3 course lecture dedicated to Inducement (IDM), why price sweeps the first pullback, and how IDM confirms structure.
+- **FX Journal** — [Which Inducement Wins? | Major vs Minor IDM Analysis | Hidden Tricks You Didn't Know!](https://www.youtube.com/watch?v=xC1QGrylyJU&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Breaks down Major vs. Minor IDM so you know which inducement trap actually fuels the next leg.
 - [TTrades — Inducement: ICT Concepts](https://www.youtube.com/watch?v=-GkOTMYoJT4) — Defines inducement pivots inside a dealing range and how they relate to nearby zones.
 - [TTrades — Intro to the Inducement Model: ICT Concepts](https://www.youtube.com/watch?v=k3hTgbHBz1U) — Examines how minor swing sweeps occur prior to a larger structural reaction.
 - [Mulham Trading — Why Most ICT/SMC Traders Fail! Liquidity & Inducement Secrets](https://www.youtube.com/watch?v=_6cvdY3Alws) — Illustrates common inducement mislabeling errors and how to define IDM mechanically.

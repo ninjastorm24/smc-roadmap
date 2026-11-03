@@ -47,6 +47,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [What Is POI? In SMC | Bangla | BANKNIFTY | Forex Trading Full Course | Crypto](https://www.youtube.com/watch?v=zqbEGSfADIQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): মার্কেট স্ট্রাকচার ও Inducement-এর সাথে মিলিয়ে সঠিক Point of Interest (POI) নির্বাচনের বিস্তারিত ক্লাস।
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): পুরো স্ট্রাকচার ম্যাপিং করে কীভাবে ডিলিং রেঞ্জের ভেতর কার্যকরী POI খুঁজে বের করতে হয় তার উদাহরণ।
 - [TTrades — The Only Points of Interest That Actually Matter For Trading](https://www.youtube.com/watch?v=NqSbvqDKML0) — ওয়ার্কবুকের POI আর্টিকেলের ভিডিও সংস্করণ, যেখানে সম্ভাব্য জোনগুলো ফিল্টার ও র‍্যাংক করার পদ্ধতি দেখানো হয়েছে।
 - [TTrades — Higher Time Frame Points of Interest: ICT Concepts](https://www.youtube.com/watch?v=hh_kKK4Fhrw) — কীভাবে হায়ার টাইমফ্রেমের POI লোয়ার টাইমফ্রেমের এন্ট্রি ট্রিগারের জন্য সঠিক লোকেশন কনটেক্সট তৈরি করে তা ব্যাখ্যা করা হয়েছে।
 - [TTrades — Trading IRL & ERL With Order Blocks! ICT Concepts](https://www.youtube.com/watch?v=TfHlNgAZ_II) — Internal এবং External Range Liquidity-কে স্ট্রাকচার-ভিত্তিক POI নির্বাচনের সাথে কীভাবে যুক্ত করতে হয় তা দেখানো হয়েছে।

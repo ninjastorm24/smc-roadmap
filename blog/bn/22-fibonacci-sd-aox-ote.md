@@ -47,6 +47,7 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): প্রিমিয়াম ও ডিসকাউন্ট জোন পরিমাপসহ SMC চার্ট অ্যানালাইসিসের মৌলিক ভিত্তি।
 - [TTrades — Optimal Trade Entry (OTE): ICT Concepts](https://www.youtube.com/watch?v=1YRs4Z1lMws) — ৬২%–৭৯% OTE রিট্রেসমেন্ট জোন খুঁজে বের করতে কনফার্মড সুইংয়ে কীভাবে Fibonacci টুল অ্যাঙ্কর করতে হয় তা দেখানো হয়েছে।
 - [TTrades — Standard Deviation Projections: ICT Concepts](https://www.youtube.com/watch?v=kTWXpAo1uE8) — Standard Deviation টার্গেট প্রজেকশনের সেটিংস এবং অ্যাঙ্কর রুল দেখানো হয়েছে (আরও দেখুন [AMD & Standard Deviations](https://www.youtube.com/watch?v=Pcbyc9TdNsU))।
 - [TTrades — You Are Using Discount and Premium Wrong! EQ For Expansions](https://www.youtube.com/watch?v=IPZjNI1B5a0) — এক্সপ্যানশনের সময় ইকুইলিব্রিয়াম (৫০%) এবং রেঞ্জ অ্যাঙ্কর কীভাবে সঠিকভাবে ব্যবহার করতে হয় তা স্পষ্ট করা হয়েছে।

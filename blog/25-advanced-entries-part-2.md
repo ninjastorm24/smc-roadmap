@@ -59,6 +59,9 @@ This original article expands [workbook lesson 25](../lessons/25-advanced-entrie
 
 ## Video resources
 
+- **FX Journal** — [CISD Trading Strategy | Valid vs Invalid CISD | Smart Money Concept Bangla Tutorial](https://www.youtube.com/watch?v=Mn3MO8_QFMc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Shows how to combine valid CISD confirmation with Order Blocks and FVGs for precision entries.
+- **FX Journal** — [High Probability Market Structure Shift (MSS) Strategy in Bangla | Forex Trading Full Course](https://www.youtube.com/watch?v=wjqoi54RuXI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Covers displacement-backed MSS entries and how to avoid premature counter-trend trades.
+- **FX Journal** — [IFC Candle Simplified Bangla | Institutional Funding Candle Trading Strategy](https://www.youtube.com/watch?v=gLl4oEwHu1Q&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Demonstrates sweep-and-reclaim entries using Institutional Funding Candles (IFC) at key POIs.
 - [TTrades — How To Actually Trade Inversion Fair Value Gaps (IFVG)](https://www.youtube.com/watch?v=FKTBkTzsmUA) — Video companion to the workbook’s iFVG entry article, specifying close and retest triggers.
 - [TTrades — Balance Price Range (BPR): ICT Concepts](https://www.youtube.com/watch?v=yOPESX2aWkI) — Defines how opposing fair value gaps overlap to form a Balanced Price Range (BPR).
 - [TTrades — Intracandle CISD (IC-CISD): Improve Your Entries](https://www.youtube.com/watch?v=Vo2n47RjjMo) — Examines lower-timeframe confirmation triggers inside higher-timeframe candles.

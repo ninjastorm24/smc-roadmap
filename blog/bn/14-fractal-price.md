@@ -45,6 +45,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Only Professionals Know! Best Multi-Time Frame Trading Strategy | SMC & Fractal Explained!](https://www.youtube.com/watch?v=JzoqyxdUtbE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): হায়ার, মিডল ও লোয়ার টাইমফ্রেমে প্রাইসের ফ্র্যাক্টাল (Fractal) আচরণ ও মাল্টি-টাইমফ্রেম অ্যালাইনমেন্টের বিস্তারিত ক্লাস।
+- **FX Journal** — [Internal Range Play in SMC | Scalping with Smart Money Concept | Full Course Bangla](https://www.youtube.com/watch?v=_E_lOSL7PuU&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): HTF পুলব্যাক বা ইন্টারনাল রেঞ্জের ভেতর LTF স্ট্রাকচার কীভাবে কাজ করে তার বাস্তব উদাহরণ।
 - [TTrades — Timeframe Alignment: How To Align Timeframes For Expansion](https://www.youtube.com/watch?v=ubCe509_JLY) — কীভাবে হায়ার টাইমফ্রেমের কনটেক্সট ক্যান্ডেলের ভেতর লোয়ার টাইমফ্রেমের স্ট্রাকচার এবং কনফার্মেশন নেস্টেড থাকে তা দেখানো হয়েছে।
 - [TTrades — Higher Timeframe Analysis For Trading: Aligning Expansion Candles](https://www.youtube.com/watch?v=Kf4c41_qO1s) — এক্সপানশনের সময় হায়ার টাইমফ্রেম এবং লোয়ার টাইমফ্রেমের ঘড়ি কীভাবে একসাথে মিলিয়ে রাখতে হয় তা ব্যাখ্যা করা হয়েছে।
 - [TTrades — The Best Timeframe for TTrades Fractal Model (Simple)](https://www.youtube.com/watch?v=FgP2lc9nneM) — আদর্শ Context, Setup এবং Execution টাইমফ্রেম পেয়ারিং (যেমন Daily / 1H / 5m) তুলে ধরা হয়েছে।

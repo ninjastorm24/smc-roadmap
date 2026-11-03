@@ -47,6 +47,7 @@ This original article expands [workbook lesson 06](../lessons/06-fvg-ifvg-order-
 
 ## Video resources
 
+- **FX Journal** — [Fair Value Gap in Bangla | FVG Trading Strategy Explained | যেভাবে ট্রেড নিবেন](https://www.youtube.com/watch?v=TdVglxKTmvc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Core Bangla course lecture on three-candle Fair Value Gaps (FVG), mitigation rules, and entry execution.
 - [TTrades — Understanding Fair Value Gaps (FVG): ICT Concepts](https://www.youtube.com/watch?v=ZVUDpCyvxfQ) — Defines the three-candle FVG pattern, consequent encroachment (midpoint) and invalidation rules.
 - [TTrades — Inversion Fair Value Gaps (IFVG): ICT Concepts](https://www.youtube.com/watch?v=uDJI2AbyyCs) — Explains how failed fair value gaps transition into inverse reference zones.
 - [TTrades — Order Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=DMUiDBnTYc8) — Introduces order block formation rules and how they pair with displacement and FVGs.

@@ -49,7 +49,8 @@ This original article expands [workbook lesson 23](../lessons/23-quarterly-theor
 
 ## Video resources
 
-- [FX Journal — Quarterly Theory Full Master Class: AMDX, XAMD & True Open Explained (Bengali)](https://www.youtube.com/watch?v=nnwsRTfiTUQ) — Full masterclass dedicated to Quarterly Theory, 90-minute/daily quarters, AMDX versus XAMD cycles and True Open anchors.
+- **FX Journal** — [Time and Price Theory Explained in ICT/SMC | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=nvlRWKXukT0&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Provides the foundational ICT Time & Price framework that Quarterly Theory builds upon.
+- [FX Journal — Quarterly Theory Full Master Class: AMDX, XAMD & True Open Explained (Bengali)](https://www.youtube.com/watch?v=nnwsRTfiTUQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Full masterclass dedicated to Quarterly Theory, 90-minute/daily quarters, AMDX versus XAMD cycles and True Open anchors.
 - [Learn SMC With Kushal — AMDX-XAMD SMC ICT Concept Strategy (Bengali)](https://www.youtube.com/watch?v=GK-TOd9PWU0) — Explains how to distinguish AMDX and XAMD quarterly profiles and avoid entering during the wrong phase.
 - [TTrades — Trading The 4 Hour Power Of Three: OHLC / OLHC](https://www.youtube.com/watch?v=FAKWJ-1NlLE) — Examines segmented four-hour time blocks and opening-price references across the trading day.
 - [TTrades — Why You Should Use 8:30 & Midnight Open (EST): ICT Concepts](https://www.youtube.com/watch?v=b6yvRKf8haE) — Covers fixed opening-time anchors used to measure session expansion and manipulation.

@@ -47,6 +47,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [What is an Order Block in Trading | Advanced Order Block Trading Strategy](https://www.youtube.com/watch?v=IkSKT3-n8O8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): প্রকৃত Order Block চেনার শর্তাবলি, ইমব্যালেন্স ও লিকুইডিটি সুইপ ফিল্টার নিয়ে অ্যাডভান্সড অর্ডার ব্লক মাস্টারক্লাস।
+- **FX Journal** — [IFC Candle Simplified Bangla | Institutional Funding Candle Trading Strategy](https://www.youtube.com/watch?v=gLl4oEwHu1Q&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): লিকুইডিটি সুইপ করে তৈরি হওয়া Institutional Funding Candle (IFC) চেনার ও ট্রেড করার সহজ বাংলা কৌশল।
 - [TTrades — Orderblocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=Y8DkNYhq0X0) — Order Block-এর সীমানা নির্ধারণ, ওপেনিং প্রাইস/Mean Threshold লেভেল এবং ভ্যালিডেশনের শর্তগুলো বিস্তারিত দেখানো হয়েছে।
 - [TTrades — Trade Continuations Using Order Blocks](https://www.youtube.com/watch?v=IJcfC6wAPZU) — চলমান ট্রেন্ডের সাথে তাল মিলিয়ে কীভাবে কন্টিনিউয়েশন Order Block তৈরি হয় তা দেখানো হয়েছে।
 - [TTrades — Why Your Continuations Fail (Order Blocks + CISD Explained)](https://www.youtube.com/watch?v=PQiRV0JMhIQ) — সঠিক কনটেক্সট বা কনফার্মেশনের পূর্বশর্ত না থাকলে কেন সম্ভাব্য Order Block-গুলো ফেইল করে তা বিশ্লেষণ করা হয়েছে।

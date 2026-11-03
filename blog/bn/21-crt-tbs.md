@@ -49,6 +49,7 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Best CRT Trading Strategy | Advanced Candle Range Theory Explained](https://www.youtube.com/watch?v=_jpztyWxy0c&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Candle Range Theory (CRT)-এর ৩টি ধাপ, রেঞ্জ সুইপ এবং লোয়ার টাইমফ্রেম এন্ট্রি নিয়ে বিস্তারিত মাস্টারক্লাস।
 - [FX Journal — CRT + TBS Strategy: Candle Range Theory + True Break Structure (Bengali)](https://www.youtube.com/watch?v=QfYFTqhtL-A) — লেসন ২১-এ আলোচিত সমন্বিত CRT + TBS এন্ট্রি কৌশলটি সরাসরি বাংলায় শেখানো হয়েছে।
 - [Learn SMC With Kushal — ICT CRT: Candle Range Theory Trading Strategy (Bengali)](https://www.youtube.com/watch?v=F9Vdk74qyuY) — অ্যাঙ্কর ক্যান্ডেল নির্বাচন, রেঞ্জ সুইপ এবং লোয়ার-টাইমফ্রেম এন্ট্রি কনফার্মেশন বাংলায় ব্যাখ্যা করা হয়েছে (আরও দেখুন [CRT Live Scalping Example](https://www.youtube.com/watch?v=xNWXPrth6_k))।
 - [Mulham Trading — Candle Range Theory (CRT): Everything To Know About!](https://www.youtube.com/watch?v=Q-9r_jY1S50) — CRT অ্যাঙ্কর ক্যান্ডেল, তিন-ক্যান্ডেল ফেজ এবং লোয়ার-টাইমফ্রেম এন্ট্রি রিফাইনমেন্ট নিয়ে বিস্তারিত ইংরেজি গাইড।

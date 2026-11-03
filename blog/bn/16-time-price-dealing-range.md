@@ -47,6 +47,7 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Time and Price Theory Explained in ICT/SMC | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=nvlRWKXukT0&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): ICT Time & Price থিওরি (সেশন ও কিলজোন টাইমিং) এবং ডিলিং রেঞ্জের সম্পর্ক নিয়ে বাংলা ফুল কোর্সের ক্লাস।
 - [TTrades — Understanding Dealing Ranges in Trading (Get Better Risk Reward)](https://www.youtube.com/watch?v=yb3Te7tiGRk) — কনফার্মড ডিলিং রেঞ্জ অ্যাঙ্কর কীভাবে ইকুইলিব্রিয়াম এবং সেশন টার্গেট নির্ধারণ করে তা দেখানো হয়েছে।
 - [TTrades — Important Time Levels For Trading](https://www.youtube.com/watch?v=EYzP7c24AwM) — মিডনাইট ওপেন (Midnight Open), সকাল ৮:৩০ নিউ ইয়র্ক ওপেন এবং গুরুত্বপূর্ণ সেশন ওপেনিং প্রাইস রেফারেন্স নিয়ে আলোচনা।
 - [TTrades — ICT Killzones & Indicator Settings](https://www.youtube.com/watch?v=MPeeE55rNOw) — এশিয়ান, লন্ডন ও নিউ ইয়র্ক কিলজোন উইন্ডো এবং টাইমজোন সেটিংস সংজ্ঞায়িত করা হয়েছে।

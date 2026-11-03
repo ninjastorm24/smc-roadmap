@@ -49,8 +49,9 @@ export function buildSite() {
   }
 
   // 3. Copy Static Assets
-  const srcStylesDir = path.join(WEB_ROOT, 'src', 'assets', 'styles');
-  const srcScriptsDir = path.join(WEB_ROOT, 'src', 'assets', 'scripts');
+  const srcAssetsDir = path.join(WEB_ROOT, 'src', 'assets');
+  const srcStylesDir = path.join(srcAssetsDir, 'styles');
+  const srcScriptsDir = path.join(srcAssetsDir, 'scripts');
 
   fs.copyFileSync(
     path.join(srcStylesDir, 'main.css'),
@@ -60,7 +61,15 @@ export function buildSite() {
     path.join(srcScriptsDir, 'main.js'),
     path.join(DIST_DIR, 'assets', 'scripts', 'main.js')
   );
-  console.log('Copied stylesheet and client JavaScript.');
+  fs.copyFileSync(
+    path.join(srcAssetsDir, 'favicon.svg'),
+    path.join(DIST_DIR, 'assets', 'favicon.svg')
+  );
+  fs.copyFileSync(
+    path.join(srcAssetsDir, 'favicon.svg'),
+    path.join(DIST_DIR, 'favicon.svg')
+  );
+  console.log('Copied stylesheet, client JavaScript, and SVG favicon.');
 
   // 4. Copy Downloads & Verify Byte Integrity
   const pdfSrc = path.join(REPO_ROOT, 'SMC_Learning_Workbook.pdf');

@@ -47,6 +47,8 @@ This original article expands [workbook lesson 07](../lessons/07-advanced-order-
 
 ## Video resources
 
+- **FX Journal** — [What is an Order Block in Trading | Advanced Order Block Trading Strategy](https://www.youtube.com/watch?v=IkSKT3-n8O8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): In-depth course masterclass on valid vs. invalid Order Blocks, imbalance requirements, and liquidity sweeps.
+- **FX Journal** — [IFC Candle Simplified Bangla | Institutional Funding Candle Trading Strategy](https://www.youtube.com/watch?v=gLl4oEwHu1Q&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Explains Institutional Funding Candles (IFC) that sweep liquidity before initiating an Order Block.
 - [TTrades — Orderblocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=Y8DkNYhq0X0) — Details order block boundary selection, opening-price/mean-threshold levels and validation criteria.
 - [TTrades — Trade Continuations Using Order Blocks](https://www.youtube.com/watch?v=IJcfC6wAPZU) — Shows how continuation order blocks form in alignment with the prevailing trend.
 - [TTrades — Why Your Continuations Fail (Order Blocks + CISD Explained)](https://www.youtube.com/watch?v=PQiRV0JMhIQ) — Examines why order block candidates fail when context or confirmation prerequisites are missing.

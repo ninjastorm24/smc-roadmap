@@ -47,6 +47,7 @@ This original article expands [workbook lesson 16](../lessons/16-time-price-deal
 
 ## Video resources
 
+- **FX Journal** — [Time and Price Theory Explained in ICT/SMC | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=nvlRWKXukT0&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Course lecture connecting ICT Time & Price theory (killzones and session windows) with dealing ranges.
 - [TTrades — Understanding Dealing Ranges in Trading (Get Better Risk Reward)](https://www.youtube.com/watch?v=yb3Te7tiGRk) — Shows how confirmed dealing range anchors frame equilibrium and session targets.
 - [TTrades — Important Time Levels For Trading](https://www.youtube.com/watch?v=EYzP7c24AwM) — Covers Midnight Open, 8:30 AM NY Open and key session opening price references.
 - [TTrades — ICT Killzones & Indicator Settings](https://www.youtube.com/watch?v=MPeeE55rNOw) — Defines Asian, London and New York killzone windows and timezone settings.

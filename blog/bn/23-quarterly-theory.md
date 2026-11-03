@@ -49,7 +49,8 @@
 
 ## ভিডিও রিসোর্স
 
-- [FX Journal — Quarterly Theory Full Master Class: AMDX, XAMD & True Open Explained (Bengali)](https://www.youtube.com/watch?v=nnwsRTfiTUQ) — Quarterly Theory, ৯০-মিনিট ও ডেইলি কোয়ার্টার, AMDX বনাম XAMD সাইকেল এবং True Open অ্যাঙ্কর নিয়ে বাংলায় পূর্ণাঙ্গ মাস্টারক্লাস।
+- **FX Journal** — [Time and Price Theory Explained in ICT/SMC | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=nvlRWKXukT0&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Quarterly Theory বোঝার পূর্বশর্ত হিসেবে ICT Time & Price থিওরির মৌলিক ধারণা।
+- [FX Journal — Quarterly Theory Full Master Class: AMDX, XAMD & True Open Explained (Bengali)](https://www.youtube.com/watch?v=nnwsRTfiTUQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Quarterly Theory, ৯০-মিনিট ও ডেইলি কোয়ার্টার, AMDX বনাম XAMD সাইকেল এবং True Open অ্যাঙ্কর নিয়ে বাংলায় পূর্ণাঙ্গ মাস্টারক্লাস।
 - [Learn SMC With Kushal — AMDX-XAMD SMC ICT Concept Strategy (Bengali)](https://www.youtube.com/watch?v=GK-TOd9PWU0) — কীভাবে AMDX এবং XAMD কোয়ার্টারলি প্রোফাইল আলাদা করতে হয় এবং ভুল ফেজে এন্ট্রি নেওয়া থেকে বিরত থাকতে হয় তা বাংলায় ব্যাখ্যা করা হয়েছে।
 - [TTrades — Trading The 4 Hour Power Of Three: OHLC / OLHC](https://www.youtube.com/watch?v=FAKWJ-1NlLE) — ট্রেডিং দিনের ৪-ঘণ্টার টাইম ব্লক এবং ওপেনিং প্রাইস রেফারেন্সগুলো বিশ্লেষণ করা হয়েছে।
 - [TTrades — Why You Should Use 8:30 & Midnight Open (EST): ICT Concepts](https://www.youtube.com/watch?v=b6yvRKf8haE) — সেশনের এক্সপ্যানশন ও ম্যানিপুলেশন মাপার জন্য নির্দিষ্ট ওপেনিং-টাইম অ্যাঙ্করগুলোর ব্যবহার আলোচনা করা হয়েছে।

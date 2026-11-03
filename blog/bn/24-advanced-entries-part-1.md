@@ -52,11 +52,13 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [CHoCH Confirmation Rules | How to Trade CHoCH Based Entry? | SMC | Bangla](https://www.youtube.com/watch?v=XzG2d9FpdMw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): CHoCH কনফার্মেশনের সঠিক নিয়ম এবং CHoCH-ভিত্তিক রিভার্সাল এন্ট্রি নেওয়ার সম্পূর্ণ গাইড।
+- **FX Journal** — [BOS and CHoCH Confirmation in SMC | Smart Money Concepts Full Course](https://www.youtube.com/watch?v=NdlXEYHcCsI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): ক্যান্ডেল বডি ক্লোজের মাধ্যমে প্রকৃত স্ট্রাকচার শিফট এবং ফেকআউট আলাদা করার নিয়ম।
 - [TTrades — ICT Silver Bullet Strategy: No Daily Bias (With Backtest!)](https://www.youtube.com/watch?v=o0v4KQxZbpU) — নির্দিষ্ট টাইম-উইন্ডো ভিত্তিক Silver Bullet FVG এন্ট্রি মডেল ব্যাখ্যা করা হয়েছে এবং ঐতিহাসিক ব্যাকটেস্ট উদাহরণ দেখানো হয়েছে।
 - [TTrades — Relative Strength & Weakness + SMT Divergence (Full Guide)](https://www.youtube.com/watch?v=yH4eYwUgdTY) — SMT গাইডের ভিডিও সংস্করণ, যেখানে গুরুত্বপূর্ণ সুইং পয়েন্টে কোরিলেটেড ইনস্ট্রুমেন্টগুলোর ডাইভারজেন্স ব্যাখ্যা করা হয়েছে।
 - [TTrades — A+ ICT Entry Checklist: ICT Concepts](https://www.youtube.com/watch?v=0xygpCMwxbQ) — কনটেক্সট, লিকুইডিটি সুইপ, স্ট্রাকচার শিফট এবং POI রিটেস্টকে একটি গোছানো এন্ট্রি চেকলিস্টে রূপ দেওয়া হয়েছে।
 - [Mulham Trading — The Ultimate High Win Rate ICT Silver Bullet Strategy Revealed (Full Guide)](https://www.youtube.com/watch?v=6ZMZcChkoHo) — লন্ডন এবং নিউ ইয়র্ক টাইম উইন্ডোতে Silver Bullet সেটআপের মেকানিক্যাল নিয়মগুলো ভেঙে দেখানো হয়েছে।
-- [FX Journal — Smart Money Technique (SMT) Divergence Explained: 2-Pair SMC Correlation (Bengali)](https://www.youtube.com/watch?v=ebC3nAjTJv8) — কোরিলেটেড পেয়ারগুলোর মধ্যে SMT Divergence বাংলায় ব্যাখ্যা করা হয়েছে।
+- [FX Journal — Smart Money Technique (SMT) Divergence Explained: 2-Pair SMC Correlation (Bengali)](https://www.youtube.com/watch?v=ebC3nAjTJv8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — কোরিলেটেড পেয়ারগুলোর মধ্যে SMT Divergence বাংলায় ব্যাখ্যা করা হয়েছে।
 - [Learn SMC With Kushal — How to Take Sniper Entries in Trading: SMC Entry Module (Bengali)](https://www.youtube.com/watch?v=UMnzWzsl4Yk) — স্ট্রাকচার, POI এবং লিকুইডিটি-সুইপ এন্ট্রি মডিউলগুলো বাংলায় আলোচনা করা হয়েছে (আরও দেখুন [Simplified ICT Turtle Soup Strategy](https://www.youtube.com/watch?v=vdZN_2pLqFY))।
 
 [← Candle Range Theory (CRT): অ্যাঙ্কর, সুইপ ও কনফার্মেশন আলাদাভাবে বুঝুন](21-crt-tbs.md) · [অ্যাডভান্সড এন্ট্রি, পর্ব ২: একের পর এক লেবেল না জমিয়ে ট্রিগার যাচাই করুন →](25-advanced-entries-part-2.md)

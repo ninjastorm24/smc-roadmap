@@ -59,6 +59,9 @@ OC, CiC এবং সোর্স-নির্দিষ্ট অন্যান
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [CISD Trading Strategy | Valid vs Invalid CISD | Smart Money Concept Bangla Tutorial](https://www.youtube.com/watch?v=Mn3MO8_QFMc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): নিখুঁত এন্ট্রির জন্য Valid CISD কনফার্মেশনের সাথে Order Block ও FVG যুক্ত করার কৌশল।
+- **FX Journal** — [High Probability Market Structure Shift (MSS) Strategy in Bangla | Forex Trading Full Course](https://www.youtube.com/watch?v=wjqoi54RuXI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): শক্তিশালী ডিসপ্লেসমেন্টসহ MSS এন্ট্রি এবং অপরিপক্ব রিভার্সাল ট্রেড এড়ানোর উপায়।
+- **FX Journal** — [IFC Candle Simplified Bangla | Institutional Funding Candle Trading Strategy](https://www.youtube.com/watch?v=gLl4oEwHu1Q&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): গুরুত্বপূর্ণ POI-তে Institutional Funding Candle (IFC) ব্যবহার করে সুইপ-অ্যান্ড-রিক্লেইম এন্ট্রি নেওয়ার কৌশল।
 - [TTrades — How To Actually Trade Inversion Fair Value Gaps (IFVG)](https://www.youtube.com/watch?v=FKTBkTzsmUA) — ওয়ার্কবুকের iFVG এন্ট্রি নিবন্ধের ভিডিও সংস্করণ, যেখানে ক্লোজ এবং রিটেস্ট ট্রিগার স্পষ্ট করা হয়েছে।
 - [TTrades — Balance Price Range (BPR): ICT Concepts](https://www.youtube.com/watch?v=yOPESX2aWkI) — বিপরীতমুখী Fair Value Gap ওভারল্যাপ হয়ে কীভাবে একটি Balanced Price Range (BPR) তৈরি করে তা সংজ্ঞায়িত করা হয়েছে।
 - [TTrades — Intracandle CISD (IC-CISD): Improve Your Entries](https://www.youtube.com/watch?v=Vo2n47RjjMo) — হায়ার-টাইমফ্রেম ক্যান্ডেলের ভেতরে লোয়ার-টাইমফ্রেম কনফার্মেশন ট্রিগারগুলো বিশ্লেষণ করা হয়েছে।

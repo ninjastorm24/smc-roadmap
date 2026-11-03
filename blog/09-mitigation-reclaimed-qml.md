@@ -47,6 +47,9 @@ This original article expands [workbook lesson 09](../lessons/09-mitigation-recl
 
 ## Video resources
 
+- **FX Journal** — [What is a Mitigation Block? Avoid These Mistakes to Go From Beginner to Pro!](https://www.youtube.com/watch?v=DXJ8C3BcT40&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Clarifies Mitigation Blocks vs. Breaker Blocks and shows how to avoid common zone-selection traps.
+- **FX Journal** — [Reclaimed Order Block: Secret Strategy of Professional Traders | SMC Trading Bangla](https://www.youtube.com/watch?v=yCg73vAXkR0&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Dedicated Bangla tutorial on Reclaimed Order Blocks and institutional re-accumulation along the trend.
+- **FX Journal** — [QML - Best Trading Strategy in Forex, Crypto and Stocks for Beginners in Bangla](https://www.youtube.com/watch?v=_G1Zl58leBc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Complete Bangla walkthrough of the Quasimodo (QML) reversal structure and left-shoulder POI execution.
 - [TTrades — Mitigation Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=bbWPoajy2MY) — Clarifies the structural difference between a mitigation block (failure swing) and a breaker block (liquidity sweep).
 - [Learn SMC With Kushal — What Is a Mitigation Block? How to Trade With It (Bengali)](https://www.youtube.com/watch?v=O-VqAtLPS6o) — Covers mitigation block identification and retest criteria in Bengali.
 - [Guardeer — All Block Types (Breaker, Reclaimed, Mitigation) In SMC: Lecture 7 (Hindi)](https://www.youtube.com/watch?v=ZGRXswei3kI) — Compares rejection, breaker, reclaimed and mitigation blocks in Hindi.

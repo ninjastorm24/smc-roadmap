@@ -47,6 +47,7 @@ This original article expands [workbook lesson 22](../lessons/22-fibonacci-sd-ao
 
 ## Video resources
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Introduces premium vs. discount dealing range measurement alongside core SMC chart foundations.
 - [TTrades — Optimal Trade Entry (OTE): ICT Concepts](https://www.youtube.com/watch?v=1YRs4Z1lMws) — Shows how to anchor the Fibonacci tool on confirmed swings to locate the 62%–79% OTE retracement zone.
 - [TTrades — Standard Deviation Projections: ICT Concepts](https://www.youtube.com/watch?v=kTWXpAo1uE8) — Demonstrates settings and anchor rules for standard deviation target projections (see also [AMD & Standard Deviations](https://www.youtube.com/watch?v=Pcbyc9TdNsU)).
 - [TTrades — You Are Using Discount and Premium Wrong! EQ For Expansions](https://www.youtube.com/watch?v=IPZjNI1B5a0) — Clarifies how equilibrium (50%) and range anchors should be applied during expansions.

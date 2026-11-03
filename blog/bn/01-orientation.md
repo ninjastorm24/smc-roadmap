@@ -45,6 +45,8 @@ Market Order নির্দিষ্ট দামের চেয়ে দ্র�
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Smart Money Concept (SMC), OHLC ক্যান্ডেল রিডিং এবং মার্কেট স্ট্রাকচারের মৌলিক ধারণা নিয়ে বাংলা ফুল কোর্সের প্রথম পর্ব।
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): BOS, CHoCH এবং Inducement মিলিয়ে সম্পূর্ণ মার্কেট স্ট্রাকচার ম্যাপিংয়ের বিস্তারিত বাংলা ক্লাস।
 - [TTrades — Market Order vs Limit Order: When to Use Each in Trading](https://www.youtube.com/watch?v=cH97e2yqJmY) — অর্ডার এক্সিকিউশন কীভাবে কাজ করে, Slippage কী এবং কখন Market বা Limit Order ব্যবহার করতে হয় তা সহজভাবে বোঝানো হয়েছে।
 - [TTrades — Open High Low Close: Understanding Candlesticks](https://www.youtube.com/watch?v=sIcsLFSNoXM) — ক্যান্ডেলস্টিকের OHLC গঠন এবং ক্যান্ডেলের ভেতরের প্রাইস মুভমেন্ট কীভাবে বডি ও উইক তৈরি করে তা দেখানো হয়েছে।
 - [TTrades — TradingView Tutorial For Beginners (Full Guide)](https://www.youtube.com/watch?v=JPVhmPZiLKY) — TradingView-তে ওয়ার্কস্পেস সেটআপ, চার্ট টুলস এবং লেআউট সাজানোর পুরো প্রক্রিয়া ধাপে ধাপে দেখানো হয়েছে।

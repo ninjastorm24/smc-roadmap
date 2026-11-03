@@ -45,6 +45,8 @@ This original article expands [workbook lesson 01](../lessons/01-orientation.md)
 
 ## Video resources
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Foundational Bangla orientation to Smart Money Concepts, OHLC candle reading, and institutional market structure.
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Comprehensive Bangla walkthrough of end-to-end market structure mapping across BOS, CHoCH, and Inducement.
 - [TTrades — Market Order vs Limit Order: When to Use Each in Trading](https://www.youtube.com/watch?v=cH97e2yqJmY) — Explains execution mechanics, slippage and when to use market versus limit orders.
 - [TTrades — Open High Low Close: Understanding Candlesticks](https://www.youtube.com/watch?v=sIcsLFSNoXM) — Breaks down candlestick OHLC construction and how intrabar price movement forms wicks and bodies.
 - [TTrades — TradingView Tutorial For Beginners (Full Guide)](https://www.youtube.com/watch?v=JPVhmPZiLKY) — Walks through workspace setup, chart tools and layout configuration on TradingView.

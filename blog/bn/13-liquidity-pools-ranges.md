@@ -49,11 +49,14 @@ Supply/Demand জোনগুলো আরেকটি ভিন্ন বাছ
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Liquidity Trading Secret! Pro Traders' Liquidity Trading Strategy | SMC](https://www.youtube.com/watch?v=WGTSRqse7Tc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): External এবং Internal লিকুইডিটি পুলের মধ্যে প্রাইসের চলাচল নিয়ে পূর্ণাঙ্গ মাস্টারক্লাস।
+- **FX Journal** — [Internal Liquidity Trading Strategy | Why Do 95% of Traders Lose?](https://www.youtube.com/watch?v=li2XVKJK38A&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): রেঞ্জের ভেতরের Internal Liquidity (IRL) কীভাবে কাজ করে এবং কেন ৯৫% ট্রেডার রেঞ্জের ভেতর লস করে তার ব্যাখ্যা।
+- **FX Journal** — [Internal Range Play in SMC | Scalping with Smart Money Concept | Full Course Bangla](https://www.youtube.com/watch?v=_E_lOSL7PuU&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): বড় ডিলিং রেঞ্জের ভেতর Internal Range স্ট্রাকচার ব্যবহার করে স্ক্যাল্পিং ও ট্রেড করার বাংলা গাইড।
 - [TTrades — Discount & Premium: ICT Concepts](https://www.youtube.com/watch?v=MlMsG7li9zY) — কীভাবে একটি রেঞ্জ অ্যাঙ্কর করতে হয় এবং Equilibrium-এর চারপাশে সেটিকে Premium ও Discount ভাগে ভাগ করতে হয় তা ব্যাখ্যা করা হয়েছে।
 - [TTrades — How To Use Equilibrium (EQ): TTrades Fractal Model](https://www.youtube.com/watch?v=Q8JxhjQzZNk) — কীভাবে Equilibrium একটি রেঞ্জের রেফারেন্স এবং কন্টিনিউয়েশন বনাম রিট্রেসমেন্টের ফিল্টার হিসেবে কাজ করে তা দেখানো হয়েছে।
 - [TTrades — High Resistance vs Low Resistance Liquidity: ICT Concepts](https://www.youtube.com/watch?v=FGkb_50BfT8) — একটি Dealing Range-এর ভেতর ক্লাস্টারড Liquidity Pool এবং Low-Resistance Liquidity Run-এর পার্থক্য তুলে ধরা হয়েছে।
-- [FX Journal — Liquidity Void & Price Imbalance Explained: Smart Money Concept (Bengali)](https://www.youtube.com/watch?v=27sDikobI84) — বাংলায় সরাসরি Liquidity Void, দ্রুত প্রাইস রান এবং ইমব্যালেন্স ব্যাখ্যা করা হয়েছে।
-- [FX Journal — ICT/SMC Dealing Range Theory (DRT) Simplified & Explained (Bengali)](https://www.youtube.com/watch?v=3Ep7kpGxvPM) — বাংলায় কীভাবে Dealing Range, Premium/Discount জোন এবং Liquidity Pool অ্যাঙ্কর করতে হয় তা দেখানো হয়েছে।
+- [FX Journal — Liquidity Void & Price Imbalance Explained: Smart Money Concept (Bengali)](https://www.youtube.com/watch?v=27sDikobI84&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — বাংলায় সরাসরি Liquidity Void, দ্রুত প্রাইস রান এবং ইমব্যালেন্স ব্যাখ্যা করা হয়েছে।
+- [FX Journal — ICT/SMC Dealing Range Theory (DRT) Simplified & Explained (Bengali)](https://www.youtube.com/watch?v=3Ep7kpGxvPM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — বাংলায় কীভাবে Dealing Range, Premium/Discount জোন এবং Liquidity Pool অ্যাঙ্কর করতে হয় তা দেখানো হয়েছে।
 - [Mulham Trading — Revealing Advanced ICT/SMC Liquidity Concepts: HRLR and LRLR Explained](https://www.youtube.com/watch?v=ItWIYU41d-8) — Liquidity Pool, High/Low Resistance Liquidity Run এবং রেঞ্জ পজিশনিং নিয়ে বিস্তারিত আলোচনা।
 
 [← লিকুইডিটি ম্যাপ: রেফারেন্স লেভেল, Sweep এবং Breakout আলাদা করুন](12-liquidity-grab-sweep.md) · [FVG, IFVG এবং Order Block: তিনটি ধারণা, তিনটি আলাদা নিয়ম →](06-fvg-ifvg-order-block-imbalance.md)

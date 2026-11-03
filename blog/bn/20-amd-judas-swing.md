@@ -49,9 +49,10 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [AMD Strategy: The Market Trap No One Talks About!](https://www.youtube.com/watch?v=DO0yyDrHdY8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Accumulation, Manipulation ও Distribution (AMD) সাইকেল এবং সেশন ওপেনের মার্কেট ট্র্যাপ বোঝার বিস্তারিত ক্লাস।
 - [TTrades — ICT Power Of 3: AMD](https://www.youtube.com/watch?v=TCFvsZeYvV8) — অ্যাকুমুলেশন, ম্যানিপুলেশন ও ডিস্ট্রিবিউশন কীভাবে OHLC/OLHC ক্যান্ডেল গঠনের সাথে মিলে যায় তার ব্যাখ্যা।
 - [TTrades — ICT Daily Profile: New York Manipulation](https://www.youtube.com/watch?v=IeXtmeKqjnQ) — সেশন ম্যানিপুলেশন প্রোফাইল এবং রিক্লেইম ও কনফার্মেশনের জন্য কীভাবে অপেক্ষা করতে হয় তার বিশ্লেষণ।
-- [FX Journal — Judas Swing Trading Strategy: Understanding The ICT Judas Swing (Bengali)](https://www.youtube.com/watch?v=0Lup9BPHm2c) — বাংলায় জুডাস সুইংয়ের ওপেনিং রেঞ্জ, ফলস এক্সকারশন এবং রিভার্সাল ট্রিগারের বিস্তারিত আলোচনা।
+- [FX Journal — Judas Swing Trading Strategy: Understanding The ICT Judas Swing (Bengali)](https://www.youtube.com/watch?v=0Lup9BPHm2c&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — বাংলায় জুডাস সুইংয়ের ওপেনিং রেঞ্জ, ফলস এক্সকারশন এবং রিভার্সাল ট্রিগারের বিস্তারিত আলোচনা।
 - [Learn SMC With Kushal — ICT Judas Swing Concept in Bengali (Bengali)](https://www.youtube.com/watch?v=J6b8i6zmpW8) — বাংলায় সেশন রেঞ্জ মার্ক করা এবং জুডাস সুইং ট্র্যাপ চেনার প্র্যাকটিক্যাল ডেমোনস্ট্রেশন।
 - [Mulham Trading — High Win Rate ICT Judas Swing Strategy (Full Guide)](https://www.youtube.com/watch?v=xMg1zRrQNgU) — সেশন ম্যানিপুলেশন ট্রেড করার জন্য ধাপে ধাপে মেকানিক্যাল চেকলিস্ট (আরও দেখুন [6-Month Judas Swing Backtest](https://www.youtube.com/watch?v=Zsv16OGWVRU))।
 - [Guardeer Student — Whale Eyes Course Lecture 11: Asian Consolidation, London Manipulation & NY Expansion (Hindi)](https://www.youtube.com/watch?v=xu1RdVeNqVQ&list=PLIusEm0IfW4k) — হিন্দিতে এশিয়ান রেঞ্জ, লন্ডন HOTD/LOTD ম্যানিপুলেশন এবং নিউ ইয়র্ক ডিস্ট্রিবিউশন সাইকেলের ম্যাপিং।

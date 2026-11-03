@@ -51,6 +51,9 @@ This original article expands [workbook lesson 12](../lessons/12-liquidity-grab-
 
 ## Video resources
 
+- **FX Journal** — [Types of Liquidity in SMC Concept | Trading Strategy Explained](https://www.youtube.com/watch?v=RhHvuqf8g7Y&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Catalogs structural, trendline, equal-high/low, and session liquidity pools and how sweeps occur.
+- **FX Journal** — [Liquidity Trading Strategy | Secrets of Professional Traders! Forex Trading Full Course](https://www.youtube.com/watch?v=2cRSEgYiMik&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Shows how to distinguish a liquidity sweep (wick grab) from a true structural break.
+- **FX Journal** — [Forex Liquidity Secrets: BSL, SSL, Pullback | How to avoid the traps of big traders](https://www.youtube.com/watch?v=L_LjVcQcqTQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Demonstrates how buy-side (BSL) and sell-side (SSL) sweeps fuel institutional reversals.
 - [TTrades — Liquidity: Buyside & Sellside (ICT Concepts)](https://www.youtube.com/watch?v=U8xH2dEgH5A) — Introduces BSL and SSL reference levels above swing highs and below swing lows.
 - [TTrades — Market Structure Shift vs Liquidity Grab: ICT Concepts](https://www.youtube.com/watch?v=ynFA6E3qHj0) — Compares a liquidity sweep (wick/close back inside range) with a sustained structural break.
 - [TTrades — Internal & External Liquidity Using the TTrades Fractal Model](https://www.youtube.com/watch?v=vMq1l8Zzzjw) — Demonstrates how price alternates between internal range liquidity (IRL) and external range liquidity (ERL).

@@ -51,6 +51,9 @@ Impulse, তার কারেকশন এবং সেই মুভকে চ
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): ক্যান্ডেলের high/low সুইপ এবং valid ও invalid pullback চেনার নিয়ম নিয়ে বাংলা ফুল কোর্সের প্রথম পর্ব।
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): চার্টে সাধারণ Pullback এবং প্রকৃত Swing-এর পার্থক্য পরিষ্কারভাবে বোঝার টিউটোরিয়াল।
+- **FX Journal** — [Forex Liquidity Secrets: BSL, SSL, Pullback | How to avoid the traps of big traders](https://www.youtube.com/watch?v=L_LjVcQcqTQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Pullback থেকে কীভাবে BSL ও SSL লিকুইডিটি তৈরি হয় এবং বড় ট্রেডারদের ফাঁদ থেকে বাঁচার উপায়।
 - [TTrades — Reversal or Pullback? Using Market Structure To Determine Trend](https://www.youtube.com/watch?v=FdRKBTz0Fps) — কনফার্মড সুইংগুলোর সম্পর্কের ভিত্তিতে কন্টিনিউয়েশন Retracement এবং স্ট্রাকচারাল Reversal-এর পার্থক্য দেখানো হয়েছে।
 - [TTrades — How To Trade Retracement: Phases Of Price](https://www.youtube.com/watch?v=F0G31iLVpVg) — আগের এক্সপানশন মুভের সাপেক্ষে Retracement লেগগুলো কীভাবে আচরণ করে তা বিশ্লেষণ করা হয়েছে।
 - [TTrades — The Phases of Price Action: A Blueprint for Market Movement](https://www.youtube.com/watch?v=8BWkRGhuj1k) — চার্টে Consolidation, Expansion, Retracement এবং Reversal—এই চারটি ধাপকে আলাদা করে চেনার উপায় দেখানো হয়েছে।

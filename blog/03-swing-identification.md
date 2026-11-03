@@ -49,6 +49,8 @@ This original article expands [workbook lesson 03](../lessons/03-swing-identific
 
 ## Video resources
 
+- **FX Journal** — [How to Identify Valid & Invalid Swings in Forex Trading | SMC Full Course Part 2](https://www.youtube.com/watch?v=zzahE1f-Xcs&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Dedicated Part 2 lesson on mechanical rules for marking valid and invalid swing highs and swing lows.
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Side-by-side comparison showing when a pullback graduates into a structural swing.
 - [TTrades — Which Swing Highs and Lows Matter in Trading? (Relevant Swings)](https://www.youtube.com/watch?v=HbOeD_JVens) — Explains how to filter local pivots and identify structurally relevant swing highs and lows.
 - [TTrades — Understanding Market Structure For Trading](https://www.youtube.com/watch?v=sgAnVR6RSDg) — Covers swing point identification, trend sequences and basic market structure mapping.
 - [TTrades — TTrades Ideal Formation: High Probability Swing Points](https://www.youtube.com/watch?v=SF61vCsBl1A) — Walks through candle-by-candle swing formation and confirmation timing.

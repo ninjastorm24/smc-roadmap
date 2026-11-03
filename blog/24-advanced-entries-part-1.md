@@ -52,11 +52,13 @@ This original article expands [workbook lesson 24](../lessons/24-advanced-entrie
 
 ## Video resources
 
+- **FX Journal** — [CHoCH Confirmation Rules | How to Trade CHoCH Based Entry? | SMC | Bangla](https://www.youtube.com/watch?v=XzG2d9FpdMw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): 58-minute course lesson on valid CHoCH confirmation rules, single-candle vs. multi-candle shifts, and entry traps.
+- **FX Journal** — [BOS and CHoCH Confirmation in SMC | Smart Money Concepts Full Course](https://www.youtube.com/watch?v=NdlXEYHcCsI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Explains how body-close confirmation separates genuine structural shifts from liquidity grabs.
 - [TTrades — ICT Silver Bullet Strategy: No Daily Bias (With Backtest!)](https://www.youtube.com/watch?v=o0v4KQxZbpU) — Explains the time-windowed Silver Bullet FVG entry model and walks through historical backtest examples.
 - [TTrades — Relative Strength & Weakness + SMT Divergence (Full Guide)](https://www.youtube.com/watch?v=yH4eYwUgdTY) — Video companion to the SMT guide, explaining correlated instrument divergence at key swings.
 - [TTrades — A+ ICT Entry Checklist: ICT Concepts](https://www.youtube.com/watch?v=0xygpCMwxbQ) — Organizes context, liquidity sweep, structure shift and POI retest into a structured entry checklist.
 - [Mulham Trading — The Ultimate High Win Rate ICT Silver Bullet Strategy Revealed (Full Guide)](https://www.youtube.com/watch?v=6ZMZcChkoHo) — Breaks down mechanical rules for the Silver Bullet setup across London and New York windows.
-- [FX Journal — Smart Money Technique (SMT) Divergence Explained: 2-Pair SMC Correlation (Bengali)](https://www.youtube.com/watch?v=ebC3nAjTJv8) — Explains SMT divergence across correlated pairs in Bengali.
+- [FX Journal — Smart Money Technique (SMT) Divergence Explained: 2-Pair SMC Correlation (Bengali)](https://www.youtube.com/watch?v=ebC3nAjTJv8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Explains SMT divergence across correlated pairs in Bengali.
 - [Learn SMC With Kushal — How to Take Sniper Entries in Trading: SMC Entry Module (Bengali)](https://www.youtube.com/watch?v=UMnzWzsl4Yk) — Covers structure, POI and liquidity-sweep entry modules in Bengali (see also [Simplified ICT Turtle Soup Strategy](https://www.youtube.com/watch?v=vdZN_2pLqFY)).
 
 [← Candle Range Theory: separate the anchor, sweep and confirmation](21-crt-tbs.md) · [Advanced entries, part 2: audit the trigger instead of stacking labels →](25-advanced-entries-part-2.md)

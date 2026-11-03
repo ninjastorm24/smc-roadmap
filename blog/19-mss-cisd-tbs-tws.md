@@ -55,6 +55,8 @@ This original article expands [workbook lesson 19](../lessons/19-mss-cisd-tbs-tw
 
 ## Video resources
 
+- **FX Journal** — [High Probability Market Structure Shift (MSS) Strategy in Bangla | Forex Trading Full Course](https://www.youtube.com/watch?v=wjqoi54RuXI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): 83-minute deep dive into high-probability Market Structure Shifts (MSS), displacement, and entry filtering.
+- **FX Journal** — [CISD Trading Strategy | Valid vs Invalid CISD | Smart Money Concept Bangla Tutorial](https://www.youtube.com/watch?v=Mn3MO8_QFMc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Dedicated Bangla tutorial comparing valid vs. invalid Change in State of Delivery (CISD) setups.
 - [FX Journal — The Real Game of MSS, CISD, TBS, TWS: Master Class + Live Market Trade (Bengali)](https://www.youtube.com/watch?v=Lj9zeZArOV0) — Directly covers all four Lesson 19 concepts (MSS, CISD, TBS and TWS) with chart comparisons in Bengali.
 - [TTrades — Market Structure Shift vs Change In State Of Delivery (ICT)](https://www.youtube.com/watch?v=E89d1HArbgM) — Video companion to the workbook’s MSS versus CISD comparison article, contrasting swing-break and delivery-open references.
 - [TTrades — Change In State Of Delivery (CISD): Orderblock Formation](https://www.youtube.com/watch?v=CHIK5oBRKiw) — Details which candle opening prices define a CISD sequence and when confirmation occurs.

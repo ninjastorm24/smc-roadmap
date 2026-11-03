@@ -47,10 +47,11 @@ This original article expands [workbook lesson 17](../lessons/17-applying-bias.m
 
 ## Video resources
 
+- **FX Journal** — [What Is BIAS in SMC/ICT | How to Find Actual BIAS in Trading | Bangla Tutorial](https://www.youtube.com/watch?v=_uptlrizHhE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Foundational checklist for establishing HTF bias before dropping to execution timeframes.
 - [TTrades — Top Down Analysis: Daily Bias To Entries (ICT Concepts)](https://www.youtube.com/watch?v=wy3OSPxu5U0) — Connects daily bias, hourly structure/POI selection and lower-timeframe execution step by step.
 - [TTrades — Trade Like TTrades: Top Down Analysis](https://www.youtube.com/watch?v=iEaMbuFZb24) — Demonstrates a complete pre-session top-down routine from daily chart to execution trigger.
 - [Mulham Trading — Simple Top Down Analysis Strategy That Works (Step-by-Step Guide)](https://www.youtube.com/watch?v=GC-L_aper3Y) — Walks through aligning higher-timeframe bias with lower-timeframe entry confirmation.
-- [FX Journal — How to Apply BIAS on Live Chart: Daily BIAS Full Course (Bengali)](https://www.youtube.com/watch?v=N7GzQYQlzx8) — Directly addresses applying daily bias on live charts to build a session plan in Bengali.
+- [FX Journal — How to Apply BIAS on Live Chart: Daily BIAS Full Course (Bengali)](https://www.youtube.com/watch?v=N7GzQYQlzx8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Directly addresses applying daily bias on live charts to build a session plan in Bengali.
 - [Learn SMC With Kushal — Even With the Setup, Why Didn't I Take the Trade? (Bengali)](https://www.youtube.com/watch?v=DhKP67DLH-s) — Illustrates pre-session filtering and why declining a trade that violates a condition is part of following a plan.
 - [Guardeer — Fractal + Bias + Structure + Liquidity = True ICT: Lecture 11 (Hindi)](https://www.youtube.com/watch?v=0zmD8iYhvpc) — Synthesizes fractal structure, bias and liquidity into one top-down chart workflow in Hindi.
 

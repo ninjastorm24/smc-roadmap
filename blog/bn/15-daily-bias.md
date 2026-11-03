@@ -49,11 +49,12 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [What Is BIAS in SMC/ICT | How to Find Actual BIAS in Trading | Bangla Tutorial](https://www.youtube.com/watch?v=_uptlrizHhE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): SMC ও ICT-তে Daily Bias কী এবং প্রতিদিনের সঠিক মার্কেট ডিরেকশন কীভাবে নির্ধারণ করতে হয় তার বাংলা টিউটোরিয়াল।
 - [TTrades — Easy Daily Bias: Mechanical Framework](https://www.youtube.com/watch?v=-KKuZb5Z5aU) — আগের দিনের হাই/লো এবং ক্লোজ ব্যবহার করে মেকানিক্যাল ডেইলি বায়াস ফ্রেমওয়ার্কের ভিডিও গাইড।
 - [TTrades — Trading the Invalidation of Daily Bias](https://www.youtube.com/watch?v=jKuXaC84Qx4) — প্রাইস অ্যাকশনের মাধ্যমে আপনার প্রাথমিক ডেইলি বায়াস হাইপোথিসিস কখন ইনভ্যালিড হয় তা চেনার উপায়।
 - [TTrades — The Easiest Draw On Liquidity (DOL): Daily Bias](https://www.youtube.com/watch?v=FXJBFbZQbck) — প্রতিদিনের প্রাথমিক অবজেক্টিভ হিসেবে প্রিভিয়াস ডে হাই ও লো (PDH/PDL) ব্যবহারের আলোচনা।
 - [Mulham Trading — Ultimate ICT Daily Bias Guide (5 Methods)](https://www.youtube.com/watch?v=t8JhvEbifR8) — প্রতিদিনের ডিরেকশনাল হাইপোথিসিস তৈরির পাঁচটি কাঠামোগত পদ্ধতির তুলনা।
-- [FX Journal — SMC/ICT Daily Bias Bangla: The Only Video You Will Ever Need! (Bengali)](https://www.youtube.com/watch?v=zUUoiqf8a1s) — ডেইলি বায়াস এবং ড্র অন লিকুইডিটি (DOL) নির্ধারণের ওপর বিস্তারিত বাংলা টিউটোরিয়াল।
+- [FX Journal — SMC/ICT Daily Bias Bangla: The Only Video You Will Ever Need! (Bengali)](https://www.youtube.com/watch?v=zUUoiqf8a1s&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — ডেইলি বায়াস এবং ড্র অন লিকুইডিটি (DOL) নির্ধারণের ওপর বিস্তারিত বাংলা টিউটোরিয়াল।
 - [Learn SMC With Kushal — Market Daily Bias: SMC & ICT Concept (Bengali)](https://www.youtube.com/watch?v=lbx0RJn5ISg) — বাংলায় ডেইলি বায়াস প্রস্তুতি এবং হায়ার টাইমফ্রেম ক্যান্ডেল রিডিংয়ের ব্যাখ্যা।
 - [Guardeer — What Is Bias In SMC/ICT? Lecture 9 (Hindi)](https://www.youtube.com/watch?v=4vRHblHQWvA) — হিন্দিতে ডিরেকশনাল বায়াস এবং ন্যারেটিভ তৈরির আলোচনা ([Whale Eyes Lecture 9](https://www.youtube.com/watch?v=AmePJKbX3xg&list=PLIusEm0IfW4k)-এর সাথে সম্পর্কিত)।
 

@@ -49,10 +49,12 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [SMC Breaker Block Simplified Bangla | Breaker Block দিয়ে ১০০% কার্যকরী ট্রেডিং কৌশল](https://www.youtube.com/watch?v=GbJC899NVQo&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): ব্যর্থ Order Block কীভাবে শক্তিশালী Breaker Block-এ রূপ নেয় এবং তা দিয়ে ট্রেড করার কার্যকরী কৌশল।
+- **FX Journal** — [SMC Rejection Block Strategy | Smart Money Concept Bangla Tutorial](https://www.youtube.com/watch?v=uVJJCr9o3Kw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): লম্বা উইকের Rejection Block কীভাবে তৈরি হয় এবং সেখান থেকে রিভার্সাল এন্ট্রি নেওয়ার বাংলা টিউটোরিয়াল।
 - [TTrades — Breaker Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=75S4vwD4P1U) — কোন সুইং সিকোয়েন্সের মাধ্যমে একটি ব্যর্থ Order Block পরবর্তীতে Breaker Block-এ রূপান্তরিত হয় তা ধাপে ধাপে দেখানো হয়েছে।
 - [TTrades — Breaker Block & FVG Entry Model (Unicorn): ICT Concepts](https://www.youtube.com/watch?v=rXMVPUZPw4A) — যেখানে একটি Breaker Block এবং Fair Value Gap পরস্পরকে ওভারল্যাপ করে, সেই Unicorn Model সহজভাবে ব্যাখ্যা করা হয়েছে।
 - [TTrades — Master Candlestick Wicks: The Key To Catching Reversals](https://www.youtube.com/watch?v=LKNQDAdId4s) — গুরুত্বপূর্ণ প্রাইস এক্সট্রিমে রিজেকশন উইক এবং উইক-ভিত্তিক এরিয়াগুলো কীভাবে আচরণ করে তা বিশ্লেষণ করা হয়েছে।
-- [FX Journal — The Unicorn Model SMC/ICT Explained (Bengali)](https://www.youtube.com/watch?v=95IJoF4U-6Y) — বাংলায় ধাপে ধাপে Breaker + FVG সমন্বিত Unicorn সেটআপের বিস্তারিত আলোচনা (পাশাপাশি দেখুন [Best Breaker Block Strategy Bangla](https://www.youtube.com/watch?v=ltibPaz9-Ro))।
+- [FX Journal — The Unicorn Model SMC/ICT Explained (Bengali)](https://www.youtube.com/watch?v=95IJoF4U-6Y&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — বাংলায় ধাপে ধাপে Breaker + FVG সমন্বিত Unicorn সেটআপের বিস্তারিত আলোচনা (পাশাপাশি দেখুন [Best Breaker Block Strategy Bangla](https://www.youtube.com/watch?v=ltibPaz9-Ro))।
 - [Learn SMC With Kushal — What Is a Breaker Block and How to Trade It? (Bengali)](https://www.youtube.com/watch?v=hwXU-2qaO9Y) — বাংলায় Breaker Block তৈরি হওয়ার নিয়ম এবং রিটেস্টের শর্তাবলি ব্যাখ্যা করা হয়েছে।
 - [Mulham Trading — ICT Breaker Block Strategy Real Backtesting: Practical Insights](https://www.youtube.com/watch?v=Lg0jjYB2loo) — হিস্টোরিক্যাল ডেটার ওপর একটি মেকানিক্যাল Breaker Block মডেল কীভাবে ব্যাকটেস্ট করতে হয় তা বাস্তব উদাহরণসহ দেখানো হয়েছে।
 

@@ -51,6 +51,9 @@ SMC শিক্ষায় সাধারণত সুইং হাইয়ের 
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Types of Liquidity in SMC Concept | Trading Strategy Explained](https://www.youtube.com/watch?v=RhHvuqf8g7Y&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): SMC-তে বিভিন্ন ধরনের লিকুইডিটি (BSL, SSL, Equal Highs/Lows, Trendline) এবং সেগুলো সুইপ হওয়ার নিয়ম।
+- **FX Journal** — [Liquidity Trading Strategy | Secrets of Professional Traders! Forex Trading Full Course](https://www.youtube.com/watch?v=2cRSEgYiMik&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): লিকুইডিটি সুইপ (Liquidity Grab) এবং প্রকৃত ব্রেকআউটের পার্থক্য বুঝে প্রফেশনালভাবে ট্রেড করার কৌশল।
+- **FX Journal** — [Forex Liquidity Secrets: BSL, SSL, Pullback | How to avoid the traps of big traders](https://www.youtube.com/watch?v=L_LjVcQcqTQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): BSL ও SSL সুইপ করে বড় ট্রেডাররা কীভাবে রিটেল ট্রেডারদের ফাঁদে ফেলে এবং সেই ফাঁদ এড়ানোর উপায়।
 - [TTrades — Liquidity: Buyside & Sellside (ICT Concepts)](https://www.youtube.com/watch?v=U8xH2dEgH5A) — সুইং হাইয়ের ওপরে BSL এবং সুইং লোয়ের নিচে SSL রেফারেন্স লেভেলের মৌলিক ধারণা তুলে ধরা হয়েছে।
 - [TTrades — Market Structure Shift vs Liquidity Grab: ICT Concepts](https://www.youtube.com/watch?v=ynFA6E3qHj0) — একটি Liquidity Sweep (উইক তৈরি করে রেঞ্জের ভেতর ক্লোজ) এবং স্থায়ী স্ট্রাকচারাল ব্রেকের পার্থক্য তুলনা করা হয়েছে।
 - [TTrades — Internal & External Liquidity Using the TTrades Fractal Model](https://www.youtube.com/watch?v=vMq1l8Zzzjw) — প্রাইস কীভাবে Internal Range Liquidity (IRL) এবং External Range Liquidity (ERL)-এর মধ্যে পর্যায়ক্রমে মুভ করে তা দেখানো হয়েছে।

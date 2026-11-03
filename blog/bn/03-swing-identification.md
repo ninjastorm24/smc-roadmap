@@ -49,6 +49,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [How to Identify Valid & Invalid Swings in Forex Trading | SMC Full Course Part 2](https://www.youtube.com/watch?v=zzahE1f-Xcs&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Valid এবং Invalid Swing High ও Swing Low চেনার সুনির্দিষ্ট নিয়ম নিয়ে বাংলা ফুল কোর্সের দ্বিতীয় পর্ব।
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): কখন একটি সাধারণ Pullback পূর্ণাঙ্গ স্ট্রাকচারাল Swing-এ রূপ নেয় তার তুলনামূলক আলোচনা।
 - [TTrades — Which Swing Highs and Lows Matter in Trading? (Relevant Swings)](https://www.youtube.com/watch?v=HbOeD_JVens) — কীভাবে লোকাল পিভট ফিল্টার করে স্ট্রাকচারালি গুরুত্বপূর্ণ Swing High এবং Swing Low চেনা যায় তা ব্যাখ্যা করা হয়েছে।
 - [TTrades — Understanding Market Structure For Trading](https://www.youtube.com/watch?v=sgAnVR6RSDg) — সুইং পয়েন্ট চিহ্নিত করা, ট্রেন্ড সিকোয়েন্স এবং বেসিক মার্কেট স্ট্রাকচার ম্যাপিং আলোচনা করা হয়েছে।
 - [TTrades — TTrades Ideal Formation: High Probability Swing Points](https://www.youtube.com/watch?v=SF61vCsBl1A) — ক্যান্ডেল ধরে ধরে কীভাবে সুইং তৈরি হয় এবং কখন তা কনফার্ম হয় তা দেখানো হয়েছে।

@@ -52,6 +52,8 @@ This original article expands [workbook lesson 10](../lessons/10-swing-hierarchy
 
 ## Video resources
 
+- **FX Journal** — [How to Identify Valid & Invalid Swings in Forex Trading | SMC Full Course Part 2](https://www.youtube.com/watch?v=zzahE1f-Xcs&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Foundational rules for distinguishing structural swings before grading them into STH/STL, ITH/ITL, and LTH/LTL.
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Helps filter out minor pullback noise when building a multi-degree swing hierarchy.
 - [Guardeer — What Is ITH / ITL / STH / STL In SMC? Lecture 8 (Hindi)](https://www.youtube.com/watch?v=omZpI1DbYRI) — Directly teaches the STH, STL, ITH and ITL swing hierarchy in Hindi.
 - [Guardeer Student — Whale Eyes Course Lecture 8: STH/STL & ITH/ITL Mapping (Hindi)](https://www.youtube.com/watch?v=1eHxsgW2oXk&list=PLIusEm0IfW4k) — Full masterclass lecture marking STH/STL and ITH/ITL across live chart structures.
 - [Guardeer Student — Master Class: ITH, ITL, STH, STL Advanced Level vs BOS/CHoCH/IDM (Hindi)](https://www.youtube.com/watch?v=xk5dOT-nqyo) — Focused comparison of STH/ITH/LTH hierarchy against standard BOS/CHoCH/IDM labels.

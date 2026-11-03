@@ -50,6 +50,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [INDUCEMENTS (IDM) | Smart Money Concepts | SMC | Part 3](https://www.youtube.com/watch?v=0O85VgqEJ7M&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Inducement (IDM) কী, প্রাইস কেন প্রথম pullback সুইপ করে এবং কীভাবে স্ট্রাকচার কনফার্ম হয় তা নিয়ে তৃতীয় পর্ব।
+- **FX Journal** — [Which Inducement Wins? | Major vs Minor IDM Analysis | Hidden Tricks You Didn't Know!](https://www.youtube.com/watch?v=xC1QGrylyJU&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Major বনাম Minor Inducement (IDM)-এর পার্থক্য এবং কোন IDM সুইপের পর মার্কেট প্রকৃত মুভ দেয় তার বিশ্লেষণ।
 - [TTrades — Inducement: ICT Concepts](https://www.youtube.com/watch?v=-GkOTMYoJT4) — একটি ডিলিং রেঞ্জের ভেতরে Inducement পিভট কীভাবে চেনা যায় এবং আশেপাশের জোনের সাথে এর সম্পর্ক কী তা ব্যাখ্যা করা হয়েছে।
 - [TTrades — Intro to the Inducement Model: ICT Concepts](https://www.youtube.com/watch?v=k3hTgbHBz1U) — বড় স্ট্রাকচারাল রিঅ্যাকশনের আগে কীভাবে মাইনর সুইং সুইপ হয় তা বিশ্লেষণ করা হয়েছে।
 - [Mulham Trading — Why Most ICT/SMC Traders Fail! Liquidity & Inducement Secrets](https://www.youtube.com/watch?v=_6cvdY3Alws) — Inducement চিহ্নিত করার সাধারণ ভুলগুলো এবং মেকানিক্যালি IDM সংজ্ঞায়িত করার উপায় দেখানো হয়েছে।

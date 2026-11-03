@@ -47,11 +47,14 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Advanced Market Structure Trading Strategy for Forex & Crypto | BOS | CHoCH](https://www.youtube.com/watch?v=j53oE1Qp9QM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): BOS, CHoCH এবং Inducement-এর সমন্বয়ে অ্যাডভান্সড মার্কেট স্ট্রাকচার ট্রেডিং স্ট্র্যাটেজি।
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): লাইভ চার্টে BOS, CHoCH এবং Inducement মিলিয়ে সম্পূর্ণ মার্কেট স্ট্রাকচার ম্যাপিং করার লং-ফর্ম সেশন।
+- **FX Journal** — [BOS and CHoCH Confirmation in SMC | Smart Money Concepts Full Course](https://www.youtube.com/watch?v=NdlXEYHcCsI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): ক্যান্ডেল বডি ক্লোজের মাধ্যমে প্রকৃত BOS ও CHoCH কনফার্মেশন এবং উইক ব্রেক ট্র্যাপ এড়ানোর নিয়ম।
 - [TTrades — ICT Advanced Market Structure Simplified](https://www.youtube.com/watch?v=umyCqr_0NsI) — ট্রেন্ড কন্টিনিউয়েশন এবং স্ট্রাকচারাল শিফটের সময় কীভাবে ইন্টারনাল ও এক্সটার্নাল স্ট্রাকচার আলাদা করতে হয় তা দেখানো হয়েছে।
 - [TTrades — Protected Swings: Understanding Trend and Invalidations](https://www.youtube.com/watch?v=-wr4xATE37g) — কোন শর্তে একটি Swing High বা Low ‘Protected’ হয় এবং কোন প্রাইস ইভেন্ট সেটিকে ইনভ্যালিডেট করে তা ব্যাখ্যা করা হয়েছে।
 - [Mulham Trading — Advanced Market Structure Masterclass (Beginner To Advanced)](https://www.youtube.com/watch?v=ifbtPYSGDVQ) — ইন্টারনাল বনাম এক্সটার্নাল রেঞ্জ ব্রেক, BOS, CHoCH এবং মাল্টি-স্কেল স্ট্রাকচারের নিয়মগুলো বিস্তারিত আলোচনা করা হয়েছে।
 - [Mulham Trading — You're Using BOS & MSS Wrong (Here's Why You Keep Losing)](https://www.youtube.com/watch?v=t9ZcAV9iYCI) — মাইনর ইন্টারনাল ব্রেককে মেজর ট্রেন্ড রিভার্সাল ভেবে নেওয়ার সাধারণ ভুলগুলো কীভাবে এড়ানো যায় তা দেখানো হয়েছে।
-- [FX Journal — Advanced Market Structure: Paid Class in Bangla (Bengali)](https://www.youtube.com/watch?v=PUm0oHxFlU4) — বাংলায় এক্সটার্নাল/ইন্টারনাল স্ট্রাকচার, BOS, CHoCH এবং Protected লেভেল নিয়ে বিস্তারিত ক্লাস।
+- [FX Journal — Advanced Market Structure: Paid Class in Bangla (Bengali)](https://www.youtube.com/watch?v=PUm0oHxFlU4&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — বাংলায় এক্সটার্নাল/ইন্টারনাল স্ট্রাকচার, BOS, CHoCH এবং Protected লেভেল নিয়ে বিস্তারিত ক্লাস।
 - [Learn SMC With Kushal — Correct SMC Advanced Market Structure Marking: Part 2 (Bengali)](https://www.youtube.com/watch?v=RpMYMJKRmQA) — বাংলায় অ্যাডভান্সড স্ট্রাকচার মার্কিং এবং চার্টে সচরাচর হওয়া ভুলগুলো সংশোধন করে দেখানো হয়েছে।
 
 [← Inducement: আকর্ষণীয় গল্পকে যাচাইযোগ্য নিয়মে রূপ দিন](04-inducement.md) · [STH, STL, ITH এবং ITL: কনফার্মড পিভটের একটি সুশৃঙ্খল স্তরবিন্যাস →](10-swing-hierarchy.md)

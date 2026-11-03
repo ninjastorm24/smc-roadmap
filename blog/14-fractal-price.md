@@ -45,6 +45,8 @@ This original article expands [workbook lesson 14](../lessons/14-fractal-price.m
 
 ## Video resources
 
+- **FX Journal** — [Only Professionals Know! Best Multi-Time Frame Trading Strategy | SMC & Fractal Explained!](https://www.youtube.com/watch?v=JzoqyxdUtbE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Core Bangla lecture explaining how fractal price structure nests across HTF, MTF, and LTF charts.
+- **FX Journal** — [Internal Range Play in SMC | Scalping with Smart Money Concept | Full Course Bangla](https://www.youtube.com/watch?v=_E_lOSL7PuU&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Shows how LTF trends operate inside HTF pullbacks and internal ranges.
 - [TTrades — Timeframe Alignment: How To Align Timeframes For Expansion](https://www.youtube.com/watch?v=ubCe509_JLY) — Shows how higher-timeframe context candles nest lower-timeframe structure and confirmation.
 - [TTrades — Higher Timeframe Analysis For Trading: Aligning Expansion Candles](https://www.youtube.com/watch?v=Kf4c41_qO1s) — Explains how to keep higher-timeframe and lower-timeframe clocks aligned during expansion.
 - [TTrades — The Best Timeframe for TTrades Fractal Model (Simple)](https://www.youtube.com/watch?v=FgP2lc9nneM) — Presents standard context, setup and execution timeframe pairings (such as Daily / 1H / 5m).

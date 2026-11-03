@@ -49,11 +49,12 @@ This original article expands [workbook lesson 15](../lessons/15-daily-bias.md).
 
 ## Video resources
 
+- **FX Journal** — [What Is BIAS in SMC/ICT | How to Find Actual BIAS in Trading | Bangla Tutorial](https://www.youtube.com/watch?v=_uptlrizHhE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Clear Bangla introduction to what Daily Bias means in SMC/ICT and how to determine directional draw on liquidity.
 - [TTrades — Easy Daily Bias: Mechanical Framework](https://www.youtube.com/watch?v=-KKuZb5Z5aU) — Video walkthrough of the mechanical daily bias framework using previous-day highs/lows and closes.
 - [TTrades — Trading the Invalidation of Daily Bias](https://www.youtube.com/watch?v=jKuXaC84Qx4) — Explains how to recognize when your initial daily bias hypothesis is invalidated by price action.
 - [TTrades — The Easiest Draw On Liquidity (DOL): Daily Bias](https://www.youtube.com/watch?v=FXJBFbZQbck) — Focuses on previous-day high and low (PDH/PDL) as baseline daily objectives.
 - [Mulham Trading — Ultimate ICT Daily Bias Guide (5 Methods)](https://www.youtube.com/watch?v=t8JhvEbifR8) — Compares five structured methods for forming a daily directional hypothesis.
-- [FX Journal — SMC/ICT Daily Bias Bangla: The Only Video You Will Ever Need! (Bengali)](https://www.youtube.com/watch?v=zUUoiqf8a1s) — Comprehensive Bengali tutorial on determining daily bias and draw on liquidity.
+- [FX Journal — SMC/ICT Daily Bias Bangla: The Only Video You Will Ever Need! (Bengali)](https://www.youtube.com/watch?v=zUUoiqf8a1s&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Comprehensive Bengali tutorial on determining daily bias and draw on liquidity.
 - [Learn SMC With Kushal — Market Daily Bias: SMC & ICT Concept (Bengali)](https://www.youtube.com/watch?v=lbx0RJn5ISg) — Explains daily bias preparation and HTF candle reading in Bengali.
 - [Guardeer — What Is Bias In SMC/ICT? Lecture 9 (Hindi)](https://www.youtube.com/watch?v=4vRHblHQWvA) — Covers directional bias and narrative construction in Hindi (paired with [Whale Eyes Lecture 9](https://www.youtube.com/watch?v=AmePJKbX3xg&list=PLIusEm0IfW4k)).
 

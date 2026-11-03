@@ -47,6 +47,7 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [Fair Value Gap in Bangla | FVG Trading Strategy Explained | যেভাবে ট্রেড নিবেন](https://www.youtube.com/watch?v=TdVglxKTmvc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): তিন ক্যান্ডেলের Fair Value Gap (FVG) চেনার নিয়ম, মিটিগেশন এবং ট্রেড এন্ট্রি নেওয়ার সম্পূর্ণ বাংলা গাইড।
 - [TTrades — Understanding Fair Value Gaps (FVG): ICT Concepts](https://www.youtube.com/watch?v=ZVUDpCyvxfQ) — তিন-ক্যান্ডেলের FVG প্যাটার্ন, Consequent Encroachment (মিডপয়েন্ট) এবং ইনভ্যালিডেশন রুল ব্যাখ্যা করা হয়েছে।
 - [TTrades — Inversion Fair Value Gaps (IFVG): ICT Concepts](https://www.youtube.com/watch?v=uDJI2AbyyCs) — ফেইল করা Fair Value Gap কীভাবে পরবর্তীতে ইনভার্স রেফারেন্স জোনে রূপ নেয় তা দেখানো হয়েছে।
 - [TTrades — Order Blocks Simplified: ICT Concepts](https://www.youtube.com/watch?v=DMUiDBnTYc8) — Order Block তৈরি হওয়ার নিয়ম এবং কীভাবে সেগুলো Displacement ও FVG-এর সাথে মিলে কাজ করে তা সহজভাবে তুলে ধরা হয়েছে।

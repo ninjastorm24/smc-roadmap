@@ -51,6 +51,9 @@ This original article expands [workbook lesson 02](../lessons/02-pullback-identi
 
 ## Video resources
 
+- **FX Journal** — [Smart Money Concept (SMC) Full Course Free | Learn Forex Trading in Bangla | Part 1](https://www.youtube.com/watch?v=BPUYL1mAuH8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Covers candle high/low sweeps and valid vs. invalid pullback identification from the ground up.
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Directly resolves beginner confusion between minor pullbacks and true structural swings on live charts.
+- **FX Journal** — [Forex Liquidity Secrets: BSL, SSL, Pullback | How to avoid the traps of big traders](https://www.youtube.com/watch?v=L_LjVcQcqTQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Explains how pullbacks generate BSL/SSL liquidity and how institutional traps form around them.
 - [TTrades — Reversal or Pullback? Using Market Structure To Determine Trend](https://www.youtube.com/watch?v=FdRKBTz0Fps) — Compares continuation retracements against structural reversals using confirmed swing relationships.
 - [TTrades — How To Trade Retracement: Phases Of Price](https://www.youtube.com/watch?v=F0G31iLVpVg) — Examines how retracement legs behave relative to the preceding expansion move.
 - [TTrades — The Phases of Price Action: A Blueprint for Market Movement](https://www.youtube.com/watch?v=8BWkRGhuj1k) — Separates consolidation, expansion, retracement and reversal phases on the chart.

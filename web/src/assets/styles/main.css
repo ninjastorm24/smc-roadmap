@@ -130,17 +130,58 @@ a:hover {
 }
 
 .site-wordmark {
-  display: flex;
+  display: inline-flex;
   align-items: center;
+  gap: 10px;
   text-decoration: none;
   color: var(--color-ink-primary);
   font-family: var(--font-serif);
-  font-size: 1.35rem;
+  font-size: 1.32rem;
   font-weight: 700;
   letter-spacing: -0.02em;
+  transition: transform 150ms ease, color 150ms ease;
 }
 .site-wordmark:hover {
   color: var(--color-accent);
+}
+.site-wordmark:hover .brand-logo-svg {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(18, 100, 90, 0.2);
+}
+
+.brand-logo-svg {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  border-radius: 9px;
+  box-shadow: 0 2px 6px rgba(18, 33, 37, 0.14);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.wordmark-text-group {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.08;
+}
+
+.wordmark-title {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--color-ink-primary);
+}
+
+.wordmark-accent {
+  color: var(--color-accent);
+}
+
+.wordmark-subtitle {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+  margin-top: 2px;
 }
 
 .site-nav .nav-list {
@@ -1248,6 +1289,19 @@ tr:last-child td {
   gap: var(--space-3);
 }
 
+.footer-brand-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-brand-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 7px;
+  flex-shrink: 0;
+}
+
 .footer-title {
   font-size: 1.1rem;
   color: #FFFFFF;
@@ -1328,7 +1382,16 @@ tr:last-child td {
     gap: var(--space-2);
   }
   .site-wordmark {
-    font-size: 1.15rem;
+    font-size: 1.08rem;
+    gap: 7px;
+  }
+  .brand-logo-svg {
+    width: 26px;
+    height: 26px;
+    border-radius: 6px;
+  }
+  .wordmark-subtitle {
+    display: none;
   }
   .site-nav .nav-list {
     gap: 3px;
@@ -1402,8 +1465,14 @@ tr:last-child td {
     gap: var(--space-1);
   }
   .site-wordmark {
-    font-size: 1rem;
+    font-size: 0.92rem;
     letter-spacing: -0.03em;
+    gap: 5px;
+  }
+  .brand-logo-svg {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
   }
   .site-nav .nav-list {
     gap: 2px;

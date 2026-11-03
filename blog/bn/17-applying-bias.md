@@ -47,10 +47,11 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [What Is BIAS in SMC/ICT | How to Find Actual BIAS in Trading | Bangla Tutorial](https://www.youtube.com/watch?v=_uptlrizHhE&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): লোয়ার টাইমফ্রেমে এন্ট্রি খোঁজার আগে হায়ার টাইমফ্রেম Bias নির্ধারণের মৌলিক চেকলিস্ট।
 - [TTrades — Top Down Analysis: Daily Bias To Entries (ICT Concepts)](https://www.youtube.com/watch?v=wy3OSPxu5U0) — ধাপে ধাপে ডেইলি বায়াস, আওয়ারলি স্ট্রাকচার/POI নির্বাচন এবং লোয়ার-টাইমফ্রেম এক্সিকিউশনের সংযোগ দেখানো হয়েছে।
 - [TTrades — Trade Like TTrades: Top Down Analysis](https://www.youtube.com/watch?v=iEaMbuFZb24) — ডেইলি চার্ট থেকে এক্সিকিউশন ট্রিগার পর্যন্ত সেশন শুরুর আগের একটি পূর্ণাঙ্গ টপ-ডাউন রুটিন প্রদর্শন করা হয়েছে।
 - [Mulham Trading — Simple Top Down Analysis Strategy That Works (Step-by-Step Guide)](https://www.youtube.com/watch?v=GC-L_aper3Y) — হায়ার-টাইমফ্রেম বায়াসের সাথে লোয়ার-টাইমফ্রেম এন্ট্রি কনফার্মেশন মেলানোর ধাপে ধাপে গাইড।
-- [FX Journal — How to Apply BIAS on Live Chart: Daily BIAS Full Course (Bengali)](https://www.youtube.com/watch?v=N7GzQYQlzx8) — লাইভ চার্টে ডেইলি বায়াস প্রয়োগ করে সেশন প্ল্যান তৈরির সরাসরি বাংলা টিউটোরিয়াল।
+- [FX Journal — How to Apply BIAS on Live Chart: Daily BIAS Full Course (Bengali)](https://www.youtube.com/watch?v=N7GzQYQlzx8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — লাইভ চার্টে ডেইলি বায়াস প্রয়োগ করে সেশন প্ল্যান তৈরির সরাসরি বাংলা টিউটোরিয়াল।
 - [Learn SMC With Kushal — Even With the Setup, Why Didn't I Take the Trade? (Bengali)](https://www.youtube.com/watch?v=DhKP67DLH-s) — সেশন শুরুর আগের ফিল্টারিং এবং শর্ত পূরণ না হলে সেটআপ থাকা সত্ত্বেও কেন ট্রেড ছেড়ে দেওয়া প্ল্যানেরই অংশ, তার বাংলা ব্যাখ্যা।
 - [Guardeer — Fractal + Bias + Structure + Liquidity = True ICT: Lecture 11 (Hindi)](https://www.youtube.com/watch?v=0zmD8iYhvpc) — হিন্দিতে ফ্র্যাক্টাল স্ট্রাকচার, বায়াস এবং লিকুইডিটিকে একটি টপ-ডাউন চার্ট ওয়ার্কফ্লোতে একত্রিত করার আলোচনা।
 

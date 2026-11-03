@@ -47,6 +47,8 @@ This original article expands [workbook lesson 11](../lessons/11-structure-based
 
 ## Video resources
 
+- **FX Journal** — [What Is POI? In SMC | Bangla | BANKNIFTY | Forex Trading Full Course | Crypto](https://www.youtube.com/watch?v=zqbEGSfADIQ&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): 81-minute deep dive into selecting high-probability Points of Interest (POI) aligned with structure and inducement.
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Shows how structural mapping narrows down which POIs are valid across a dealing range.
 - [TTrades — The Only Points of Interest That Actually Matter For Trading](https://www.youtube.com/watch?v=NqSbvqDKML0) — Video companion to the workbook’s POI article, showing how to filter and rank candidate zones.
 - [TTrades — Higher Time Frame Points of Interest: ICT Concepts](https://www.youtube.com/watch?v=hh_kKK4Fhrw) — Explains how higher-timeframe POIs provide location context for lower-timeframe triggers.
 - [TTrades — Trading IRL & ERL With Order Blocks! ICT Concepts](https://www.youtube.com/watch?v=TfHlNgAZ_II) — Connects internal and external range liquidity to structure-based POI selection.

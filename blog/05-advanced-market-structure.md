@@ -47,11 +47,14 @@ This original article expands [workbook lesson 05](../lessons/05-advanced-market
 
 ## Video resources
 
+- **FX Journal** — [Advanced Market Structure Trading Strategy for Forex & Crypto | BOS | CHoCH](https://www.youtube.com/watch?v=j53oE1Qp9QM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Part 4 course breakdown of BOS, CHoCH, and how inducement validates structural breaks.
+- **FX Journal** — [Market Structure Mapping | BOS, CHOCH, INDUCEMENT | Forex Trading Full Course Bangla](https://www.youtube.com/watch?v=9i-NSfObEsw&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Full-length chart mapping session connecting BOS, CHoCH, and Inducement across real market legs.
+- **FX Journal** — [BOS and CHoCH Confirmation in SMC | Smart Money Concepts Full Course](https://www.youtube.com/watch?v=NdlXEYHcCsI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Mechanical confirmation rules for body-close BOS and CHoCH vs. fake wick breaks.
 - [TTrades — ICT Advanced Market Structure Simplified](https://www.youtube.com/watch?v=umyCqr_0NsI) — Separates internal and external structure across trend continuations and structural shifts.
 - [TTrades — Protected Swings: Understanding Trend and Invalidations](https://www.youtube.com/watch?v=-wr4xATE37g) — Defines what makes a swing high or low protected and what price event invalidates it.
 - [Mulham Trading — Advanced Market Structure Masterclass (Beginner To Advanced)](https://www.youtube.com/watch?v=ifbtPYSGDVQ) — Covers internal versus external range breaks, BOS, CHoCH and multi-scale structure rules.
 - [Mulham Trading — You're Using BOS & MSS Wrong (Here's Why You Keep Losing)](https://www.youtube.com/watch?v=t9ZcAV9iYCI) — Highlights frequent errors when promoting minor internal breaks into major trend reversals.
-- [FX Journal — Advanced Market Structure: Paid Class in Bangla (Bengali)](https://www.youtube.com/watch?v=PUm0oHxFlU4) — Detailed Bengali class on external/internal structure, BOS, CHoCH and protected levels.
+- [FX Journal — Advanced Market Structure: Paid Class in Bangla (Bengali)](https://www.youtube.com/watch?v=PUm0oHxFlU4&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Detailed Bengali class on external/internal structure, BOS, CHoCH and protected levels.
 - [Learn SMC With Kushal — Correct SMC Advanced Market Structure Marking: Part 2 (Bengali)](https://www.youtube.com/watch?v=RpMYMJKRmQA) — Demonstrates advanced structure marking and common chart mistakes in Bengali.
 
 [← Inducement: turn a persuasive story into a rule you can inspect](04-inducement.md) · [STH, STL, ITH and ITL: a hierarchy of confirmed pivots →](10-swing-hierarchy.md)

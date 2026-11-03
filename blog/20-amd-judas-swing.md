@@ -49,9 +49,10 @@ This original article expands [workbook lesson 20](../lessons/20-amd-judas-swing
 
 ## Video resources
 
+- **FX Journal** — [AMD Strategy: The Market Trap No One Talks About!](https://www.youtube.com/watch?v=DO0yyDrHdY8&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): 54-minute breakdown of Accumulation, Manipulation, and Distribution (AMD) and how session traps unfold.
 - [TTrades — ICT Power Of 3: AMD](https://www.youtube.com/watch?v=TCFvsZeYvV8) — Explains how accumulation, manipulation and distribution map onto OHLC/OLHC candle formation.
 - [TTrades — ICT Daily Profile: New York Manipulation](https://www.youtube.com/watch?v=IeXtmeKqjnQ) — Examines session manipulation profiles and how to wait for reclaim and confirmation.
-- [FX Journal — Judas Swing Trading Strategy: Understanding The ICT Judas Swing (Bengali)](https://www.youtube.com/watch?v=0Lup9BPHm2c) — Breaks down the opening range, false excursion and reversal trigger of the Judas Swing in Bengali.
+- [FX Journal — Judas Swing Trading Strategy: Understanding The ICT Judas Swing (Bengali)](https://www.youtube.com/watch?v=0Lup9BPHm2c&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro) — Breaks down the opening range, false excursion and reversal trigger of the Judas Swing in Bengali.
 - [Learn SMC With Kushal — ICT Judas Swing Concept in Bengali (Bengali)](https://www.youtube.com/watch?v=J6b8i6zmpW8) — Demonstrates marking session ranges and identifying Judas Swing traps in Bengali.
 - [Mulham Trading — High Win Rate ICT Judas Swing Strategy (Full Guide)](https://www.youtube.com/watch?v=xMg1zRrQNgU) — Provides a step-by-step mechanical checklist for trading session manipulation (see also [6-Month Judas Swing Backtest](https://www.youtube.com/watch?v=Zsv16OGWVRU)).
 - [Guardeer Student — Whale Eyes Course Lecture 11: Asian Consolidation, London Manipulation & NY Expansion (Hindi)](https://www.youtube.com/watch?v=xu1RdVeNqVQ&list=PLIusEm0IfW4k) — Maps the Asian range, London HOTD/LOTD manipulation and New York distribution cycle in Hindi.

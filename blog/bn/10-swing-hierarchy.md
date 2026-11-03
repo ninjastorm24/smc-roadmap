@@ -52,6 +52,8 @@ Short-Term Swing এবং Intermediate-Term Swing মূলত একই চা
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [How to Identify Valid & Invalid Swings in Forex Trading | SMC Full Course Part 2](https://www.youtube.com/watch?v=zzahE1f-Xcs&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): STH/STL, ITH/ITL ও LTH/LTL স্তরবিন্যাস করার আগে চার্টে Valid ও Invalid Swing চেনার মূল নিয়ম।
+- **FX Journal** — [Swing vs. Pullback | Beginner Traders Confused? Watch This!](https://www.youtube.com/watch?v=x4Ckf_7UhQM&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): সুইং হায়ারার্কি তৈরির সময় ছোট Pullback ও প্রকৃত Swing-এর বিভ্রান্তি দূর করার ক্লাস।
 - [Guardeer — What Is ITH / ITL / STH / STL In SMC? Lecture 8 (Hindi)](https://www.youtube.com/watch?v=omZpI1DbYRI) — হিন্দিতে সরাসরি STH, STL, ITH এবং ITL সুইং স্তরবিন্যাস শেখানো হয়েছে।
 - [Guardeer Student — Whale Eyes Course Lecture 8: STH/STL & ITH/ITL Mapping (Hindi)](https://www.youtube.com/watch?v=1eHxsgW2oXk&list=PLIusEm0IfW4k) — লাইভ চার্ট স্ট্রাকচারে STH/STL এবং ITH/ITL মার্ক করার পূর্ণাঙ্গ মাস্টারক্লাস লেকচার।
 - [Guardeer Student — Master Class: ITH, ITL, STH, STL Advanced Level vs BOS/CHoCH/IDM (Hindi)](https://www.youtube.com/watch?v=xk5dOT-nqyo) — সাধারণ BOS/CHoCH/IDM লেবেলের সাথে STH/ITH/LTH হায়ারার্কির সুনির্দিষ্ট তুলনা।

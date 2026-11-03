@@ -84,9 +84,12 @@ export function renderResourcesPage(resourceData, relativeRoot = '../') {
             <a href="https://www.youtube.com/@learn-smc-with-kushal" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
           </div>
           <div class="download-card">
-            <h3 style="font-size: 1.2rem;">FX Journal (@FxJournal)</h3>
-            <p class="article-summary">Bengali masterclasses on advanced market structure, liquidity voids, dealing ranges, Unicorn model, daily bias, Time &amp; Price, MSS/CISD/TBS/TWS, CRT + TBS and Quarterly Theory.</p>
-            <a href="https://www.youtube.com/@FxJournal" class="read-link" target="_blank" rel="noopener noreferrer">Visit YouTube channel &rarr;</a>
+            <h3 style="font-size: 1.2rem;">FX Journal (@FxJournal) — 42-Part SMC Course</h3>
+            <p class="article-summary">Complete 42-part Bengali SMC Full Course playlist covering pullbacks, swings, IDM, BOS/CHoCH, FVGs, order/breaker/mitigation/rejection/reclaimed blocks, QML, liquidity, fractals, POIs, bias, DRT, MSS/CISD, AMD, CRT + TBS and Quarterly Theory.</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+              <a href="https://www.youtube.com/watch?v=BPUYL1mAuH8&amp;list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro" class="read-link" target="_blank" rel="noopener noreferrer">Open 42-video course playlist &rarr;</a>
+              <a href="https://www.youtube.com/@FxJournal" class="read-link" target="_blank" rel="noopener noreferrer">Visit channel &rarr;</a>
+            </div>
           </div>
           <div class="download-card">
             <h3 style="font-size: 1.2rem;">Guardeer (@Guardeer)</h3>

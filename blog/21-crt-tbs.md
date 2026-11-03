@@ -49,6 +49,7 @@ This original article expands [workbook lesson 21](../lessons/21-crt-tbs.md). Nu
 
 ## Video resources
 
+- **FX Journal** — [Best CRT Trading Strategy | Advanced Candle Range Theory Explained](https://www.youtube.com/watch?v=_jpztyWxy0c&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): 62-minute masterclass on Candle Range Theory (CRT), three-phase range sweeps, and LTF execution.
 - [FX Journal — CRT + TBS Strategy: Candle Range Theory + True Break Structure (Bengali)](https://www.youtube.com/watch?v=QfYFTqhtL-A) — Directly teaches the combined CRT + TBS entry technique covered in Lesson 21 in Bengali.
 - [Learn SMC With Kushal — ICT CRT: Candle Range Theory Trading Strategy (Bengali)](https://www.youtube.com/watch?v=F9Vdk74qyuY) — Explains anchor candle selection, range sweep and lower-timeframe entry confirmation in Bengali (see also [CRT Live Scalping Example](https://www.youtube.com/watch?v=xNWXPrth6_k)).
 - [Mulham Trading — Candle Range Theory (CRT): Everything To Know About!](https://www.youtube.com/watch?v=Q-9r_jY1S50) — Comprehensive English guide to CRT anchor candles, three-candle phases and lower-timeframe entry refinement.

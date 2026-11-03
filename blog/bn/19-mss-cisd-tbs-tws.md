@@ -55,6 +55,8 @@
 
 ## ভিডিও রিসোর্স
 
+- **FX Journal** — [High Probability Market Structure Shift (MSS) Strategy in Bangla | Forex Trading Full Course](https://www.youtube.com/watch?v=wjqoi54RuXI&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): উচ্চ সম্ভাবনাময় Market Structure Shift (MSS) চেনার উপায়, ডিসপ্লেসমেন্ট এবং এন্ট্রি ফিল্টারিং নিয়ে বিস্তারিত ক্লাস।
+- **FX Journal** — [CISD Trading Strategy | Valid vs Invalid CISD | Smart Money Concept Bangla Tutorial](https://www.youtube.com/watch?v=Mn3MO8_QFMc&list=PLWWLDjWg4GhkDxAMJv_59s1TyBpE_twro): Change in State of Delivery (CISD) কী এবং Valid বনাম Invalid CISD চেনার নিয়ম নিয়ে বাংলা টিউটোরিয়াল।
 - [FX Journal — The Real Game of MSS, CISD, TBS, TWS: Master Class + Live Market Trade (Bengali)](https://www.youtube.com/watch?v=Lj9zeZArOV0) — বাংলায় চার্টের তুলনাসহ লেসন ১৯-এর চারটি কনসেপ্টই (MSS, CISD, TBS এবং TWS) সরাসরি আলোচনা করা হয়েছে।
 - [TTrades — Market Structure Shift vs Change In State Of Delivery (ICT)](https://www.youtube.com/watch?v=E89d1HArbgM) — ওয়ার্কবুকের MSS বনাম CISD আর্টিকেলের ভিডিও সংস্করণ, যেখানে সুইং-ব্রেক এবং ডেলিভারি-ওপেন রেফারেন্সের পার্থক্য দেখানো হয়েছে।
 - [TTrades — Change In State Of Delivery (CISD): Orderblock Formation](https://www.youtube.com/watch?v=CHIK5oBRKiw) — কোন ক্যান্ডেলের ওপেনিং প্রাইস CISD সিকোয়েন্স নির্ধারণ করে এবং কখন কনফার্মেশন হয় তার বিস্তারিত ব্যাখ্যা।
